@@ -1,0 +1,26 @@
+{
+  "query": "site:uca.fr \"Master Informatique et Intelligence Artificielle\" \"capacité d'accueil\" OR \"places\"",
+  "results": [
+    {
+      "title": "LICENCE MIASHS | parcours Informatique-SHS",
+      "url": "https://www.univ-tlse2.fr/accueil/formation-insertion/licence-miashs-parcours-informatique-shs",
+      "snippet": "Capacité d'accueil * 260. Informatique Appliquées … introduction à l'Intelligence Artificielle...). master à dominante informatique.",
+      "raw_content": null,
+      "score": 0.63397753
+    },
+    {
+      "title": "Master Informatique",
+      "url": "https://www.uca.fr/master-info?toPdf=true",
+      "snippet": "Capacités d'accueil et modalités. Le master Informatique vise à développer des compétences en modélisation, analyse décisionnelle, intégration d'applications,",
+      "raw_content": null,
+      "score": 0.47300056
+    },
+    {
+      "title": "sommaire - UCA-Université Clermont Ferrand",
+      "url": "https://www.uca.fr/medias/fichier/dp-rentree-2025-26-final_1757402851383-pdf?ID_FICHE=1075158&INLINE=FALSE",
+      "snippet": "Le Master en Intelligence Artificielle (IA) vise à former des spécialistes de l'IA, capables de maîtriser les techniques les plus avancées",
+      "raw_content": null,
+      "score": 0.22464213
+    }
+  ]
+}

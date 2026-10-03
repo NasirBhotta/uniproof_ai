@@ -1,0 +1,26 @@
+{
+  "query": "site:u-bourgogne.fr \"Master Informatique\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Parcours Ingénierie automobile pour une mobilité durable",
+      "url": "https://formations.u-bourgogne.fr/fr/offre-de-formation/master-XB/master-transport-mobilites-reseaux-LMGC2744/ingenierie-automobile-pour-une-mobilite-durable-automotive-engineering-for-sustainable-mobility-LMGEPNMP.html",
+      "snippet": "Master 2 Composante Institut Supérieur. Le niveau d'anglais doit être égal à : TOEFL 550, TOEIC 785, IBT TOEFL 80 IELTS 6.5 Lire plus Modalités de candidatures",
+      "raw_content": null,
+      "score": 0.2299417
+    },
+    {
+      "title": "Parcours Bases de données et intelligence artificielle",
+      "url": "https://formations.u-bourgogne.fr/fr/offre-de-formation/master-XB/master-informatique-LMGC26NA/bases-de-donnees-et-intelligence-artificielle-LMGEPLNM.html",
+      "snippet": "Le prérequis pour le master informatique 1ère année est une Licence Informatique ou équivalent. · Les pré-requis pour le master informatique 2ème année parcours",
+      "raw_content": null,
+      "score": 0.16612032
+    },
+    {
+      "title": "Parcours Image et intelligence artificielle",
+      "url": "https://formations.u-bourgogne.fr/fr/offre-de-formation/master-XB/master-informatique-LMGC26NA/image-et-intelligence-artificielle-LMGEPLSF.html",
+      "snippet": "Le master 2 informatique parcours IIA vise à former des spécialistes de haut niveau capables de maîtriser la conception et la mise en œuvre d'applications",
+      "raw_content": null,
+      "score": 0.1291941
+    }
+  ]
+}

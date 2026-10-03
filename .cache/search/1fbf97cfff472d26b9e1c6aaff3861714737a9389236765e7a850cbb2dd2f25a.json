@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rennes.fr \"Master Informatique\" \"capacité d'accueil\" OR \"places\"",
+  "results": [
+    {
+      "title": "Master 1 Informatique pour la biologie et la santé",
+      "url": "https://formations.univ-rennes.fr/annee/master-1-informatique-pour-la-biologie-et-la-sante",
+      "snippet": "Capacité d'accueil. 38. ECTS. 60. Objectifs. Poursuite d'études. La poursuite d'étude naturelle est le master 2 mention Bio-informatique. En master 2, il faudra",
+      "raw_content": null,
+      "score": 0.45827657
+    },
+    {
+      "title": "Master mention Bio-informatique, parcours Informatique pour ...",
+      "url": "https://formations.univ-rennes.fr/parcours/master-mention-bio-informatique-parcours-informatique-pour-la-biologie-et-la-sante-ibisa",
+      "snippet": "Capacité d'accueil. 38 étudiant.e.s français et 2 étudiant.e.s internationaux). Le master Bio-informatique forme des bio-informaticiens de haut niveau, dont",
+      "raw_content": null,
+      "score": 0.44116792
+    },
+    {
+      "title": "Master 2 Informatique pour la biologie et la santé",
+      "url": "https://formations.univ-rennes.fr/annee/master-2-informatique-pour-la-biologie-et-la-sante",
+      "snippet": "Rennes. Capacité d'accueil. 38. ECTS. 60. Organisation. Conditions d'admission. Pour être admis de droit en M2 Bio-informatique, il faut avoir validé la",
+      "raw_content": null,
+      "score": 0.41634628
+    }
+  ]
+}

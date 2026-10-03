@@ -1,0 +1,26 @@
+{
+  "query": "site:isima.fr \"Master Informatique et Intelligence Artificielle\" \"capacité d'accueil\" OR \"places\"",
+  "results": [
+    {
+      "title": "FAQ - ISIMA",
+      "url": "https://www.isima.fr/faq",
+      "snippet": ": seulement 10 places disponibles. Postuler en master informatique, en master intelligence articificielle et en master génier industriel. Master Informatique •",
+      "raw_content": null,
+      "score": 0.6821721
+    },
+    {
+      "title": "Le programme Prép'ISIMA",
+      "url": "https://www.isima.fr/prepisima",
+      "snippet": "Postuler en master informatique, en master intelligence artificielle et en master génie industriel ... Avec 33 places disponibles, la Prép'ISIMA offre un",
+      "raw_content": null,
+      "score": 0.5746579
+    },
+    {
+      "title": "Archives des Admission - ISIMA",
+      "url": "https://www.isima.fr/faq-category/admission",
+      "snippet": "Master Informatique • Master Intelligence Artificielle • Master ... ⚠️ Recrutement très sélectif : seulement 10 places disponibles ... Combien de places sont",
+      "raw_content": null,
+      "score": 0.55796635
+    }
+  ]
+}

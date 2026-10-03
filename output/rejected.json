@@ -1,0 +1,1585 @@
+[
+  {
+    "programme": {
+      "programme_id": "de59379ea303399d",
+      "university": "Université de Tours",
+      "programme": "Master Informatique",
+      "track": "Intelligent systems and applications",
+      "level": "M1",
+      "city": "Tours",
+      "campus": "Grandmont",
+      "public": true,
+      "programme_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "eCandidat",
+      "application_route_info": {
+        "platform": "eCandidat",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": "Candidature via le portail eCandidat de l'université.",
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "[Aller au contenu](#contenu-encadres) | [Navigation](#menu_principal) | [Accès directs](#acces_directs) | [Connexion](#connexion) * [Bibliothèques](https://www.univ-tours.fr/bibliotheques) * [Culture](https://www.univ-tours.fr/culture-1) * [Orientation / Insertion](https://www.univ-tours.fr/orientat",
+        "source_url": "https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-informatique-parcours-sciences-informatiques",
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "Français"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": "B1",
+        "french_level_required": "C1",
+        "french_cefr_required": "C1",
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_FRENCH",
+        "values": [
+          "French"
+        ],
+        "evidence": "Langues d'enseignement • Français",
+        "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true"
+      },
+      "english_req_info": {
+        "status": "VERIFIED_ENGLISH",
+        "cefr": "B1",
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "CEFR B1 required; candidate IELTS 6.5 satisfies B2 overall.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_INCOMPATIBLE",
+        "cefr": "C1",
+        "certificate_required": true,
+        "evidence": "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "PASS",
+        "required_topics": [
+          "algorithmique",
+          "programmation",
+          "bases de données",
+          "mathématiques"
+        ],
+        "matched_topics": [
+          "algorithmique",
+          "programmation",
+          "bases de données"
+        ],
+        "unmatched_topics": [
+          "mathématiques"
+        ],
+        "matched_candidate_courses": [
+          "Design and Analysis of Algorithms",
+          "Data Structures and Algorithms",
+          "Programming Fundamentals",
+          "Object-Oriented Programming",
+          "Mobile Application Development",
+          "Database Systems"
+        ],
+        "coverage": 0.75
+      },
+      "explicit_prerequisites": [
+        "algorithmique",
+        "programmation",
+        "bases de données",
+        "mathématiques"
+      ],
+      "accepted_degree_fields": [
+        "Informatique",
+        "Mathématiques"
+      ],
+      "minimum_gpa_text": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+      "excellence_wording": "mention de préférence",
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": 21,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-tours.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université de Tours",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Université de Tours",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "MASTER Sciences, Technologies, Santé MENTION Informatique",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Intelligent systems and applications",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "PARCOURS Intelligent systems and applications",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau(x) de recrutement • Bac + 3",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Tours",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Lieu(x) de la formation • Tours",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "teaching_language",
+          "value": "Français",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Langues d'enseignement • Français",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_cefr_required",
+          "value": "C1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau C1 en français pour les étudiants étrangers",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_level_required",
+          "value": "C1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau C1 en français pour les étudiants étrangers",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "english_cefr_required",
+          "value": "B1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau anglais B2 souhaité (minimum B1 avec 600 équivalent TOEIC)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Informatique, Mathématiques",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Mentions de licences conseillées : Informatique Mathématiques",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "explicit_prerequisites",
+          "value": "algorithmique, programmation, bases de données et mathématiques",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Résultats dans les enseignements disciplinaires en algorithmique, programmation, bases de données et mathématiques",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "minimum_gpa_text",
+          "value": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "excellence_wording",
+          "value": "mention de préférence",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "admitted_count",
+          "value": 21,
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Statistiques Effectif 2025-2026 Master 1 : 21",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "http://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-tours.fr",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "www.univ-tours.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "The official brochure does not specify the exact application route for non-EU students subject to the Études en France (Campus France) procedure versus Mon Master/e-candidat.",
+        "Application deadlines and calendar for the 2027 intake cycle are not yet published in the official sources.",
+        "Candidate lacks an official French language certificate (DELF/TCF), while the programme requires French C1 proficiency for international applicants."
+      ],
+      "unresolved_fields": [
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Informatique, Mathématiques",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "PASS",
+          "evidence": "6 matched courses (75%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "PASS",
+          "required_topics": [
+            "algorithmique",
+            "programmation",
+            "bases de données",
+            "mathématiques"
+          ],
+          "matched_topics": [
+            "algorithmique",
+            "programmation",
+            "bases de données"
+          ],
+          "unmatched_topics": [
+            "mathématiques"
+          ],
+          "matched_candidate_courses": [
+            "Design and Analysis of Algorithms",
+            "Data Structures and Algorithms",
+            "Programming Fundamentals",
+            "Object-Oriented Programming",
+            "Mobile Application Development",
+            "Database Systems"
+          ],
+          "coverage": 0.75
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "Français",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "PASS",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "French requirement: C1",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "eCandidat",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "FAIL",
+      "french": "FAIL",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": true,
+      "reasons": [
+        "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+      ]
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [],
+      "general_heuristics": [],
+      "serious_risks": [],
+      "unresolved_questions": []
+    },
+    "score": {
+      "profile_fit_score": 0.0,
+      "evidence_confidence_score": 0.0,
+      "status": "PROVISIONAL",
+      "status_reason": null,
+      "hard_eligibility": 0.0,
+      "transcript_match": 0.0,
+      "academic_competitiveness": 0.0,
+      "language_compatibility": 0.0,
+      "regional_visibility": 0.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 0.0,
+      "evidence_quality": 0.0,
+      "total": 0.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Rejected",
+    "group": "E_REJECTED",
+    "final_ready": false,
+    "rejected": true,
+    "rejection_reasons": [
+      "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+    ],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "ddeff44a76ab0d20",
+      "university": "Université de Tours",
+      "programme": "Master mention informatique",
+      "track": "Intelligent systems and applications",
+      "level": "M1",
+      "city": "Tours",
+      "campus": "UFR de Blois - Antenne universitaire",
+      "public": true,
+      "programme_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "eCandidat",
+      "application_route_info": {
+        "platform": "eCandidat",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": "Candidature via le portail eCandidat de l'université.",
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "[Aller au contenu](#contenu-encadres) | [Navigation](#menu_principal) | [Accès directs](#acces_directs) | [Connexion](#connexion) * [Bibliothèques](https://www.univ-tours.fr/bibliotheques) * [Culture](https://www.univ-tours.fr/culture-1) * [Orientation / Insertion](https://www.univ-tours.fr/orientat",
+        "source_url": "https://www.univ-tours.fr/formations/licence-sciences-technologies-sante-mention-informatique-parcours-sciences-informatiques",
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "Français"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": "B2",
+        "french_level_required": "C1",
+        "french_cefr_required": "C1",
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_FRENCH",
+        "values": [
+          "French"
+        ],
+        "evidence": "Langues d'enseignement • Français",
+        "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true"
+      },
+      "english_req_info": {
+        "status": "VERIFIED_ENGLISH",
+        "cefr": "B2",
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "CEFR B2 required; candidate IELTS 6.5 satisfies B2 overall.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_INCOMPATIBLE",
+        "cefr": "C1",
+        "certificate_required": true,
+        "evidence": "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "UNVERIFIED",
+        "required_topics": [
+          "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "Préciser clairement le(s) projet(s)/objectif(s) professionnel(s)",
+          "Préciser les expériences professionnelles éventuelles (stages, CDD, ...)",
+          "Résultats dans les enseignements disciplinaires en algorithmique"
+        ],
+        "matched_topics": [
+          "Résultats dans les enseignements disciplinaires en algorithmique"
+        ],
+        "unmatched_topics": [
+          "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "Préciser clairement le(s) projet(s)/objectif(s) professionnel(s)",
+          "Préciser les expériences professionnelles éventuelles (stages, CDD, ...)"
+        ],
+        "matched_candidate_courses": [
+          "Design and Analysis of Algorithms",
+          "Data Structures and Algorithms"
+        ],
+        "coverage": 0.25
+      },
+      "explicit_prerequisites": [
+        "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+        "Préciser clairement le(s) projet(s)/objectif(s) professionnel(s)",
+        "Préciser les expériences professionnelles éventuelles (stages, CDD, ...)",
+        "Résultats dans les enseignements disciplinaires en algorithmique"
+      ],
+      "accepted_degree_fields": [
+        "Informatique",
+        "Mathématiques"
+      ],
+      "minimum_gpa_text": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+      "excellence_wording": "mention de préférence",
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-tours.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université de Tours",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Université de Tours",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "MASTER Sciences, Technologies, Santé MENTION Informatique",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "MASTER Sciences, Technologies, Santé MENTION Informatique",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Intelligent systems and applications",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "PARCOURS Intelligent systems and applications",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau(x) de recrutement • Bac + 3",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Tours",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Lieu(x) de la formation • Tours",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "teaching_language",
+          "value": "Français",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Langues d'enseignement • Français",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_cefr_required",
+          "value": "C1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau C1 en français pour les étudiants étrangers",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_level_required",
+          "value": "C1",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau C1 en français pour les étudiants étrangers",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "english_cefr_required",
+          "value": "B2",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau anglais B2 souhaité (minimum B1 avec 600 équivalent TOEIC)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Informatique, Mathématiques",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Mentions de licences conseillées : • Informatique • Mathématiques",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "minimum_gpa_text",
+          "value": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "excellence_wording",
+          "value": "mention de préférence",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications?toPdf=true",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "MASTER Sciences, Technologies, Santé MENTION Informatique PARCOURS Intelligent systems and applications",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-tours.fr",
+          "source_url": "https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "univ-tours.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "The lead refers to track 'Data sciences for societal challenges - DS4SC' at UFR de Blois, but official sources provided correspond to 'Intelligent systems and applications' at UFR Sciences et Techniques in Tours.",
+        "Intake dates and deadlines for the 2027 cycle are not yet published in the provided sources.",
+        "Specific international application procedure (Études en France vs e-candidat) details are omitted in the provided excerpts."
+      ],
+      "unresolved_fields": [
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Informatique, Mathématiques",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "PASS",
+          "evidence": "2 matched courses (25%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "UNVERIFIED",
+          "required_topics": [
+            "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+            "Préciser clairement le(s) projet(s)/objectif(s) professionnel(s)",
+            "Préciser les expériences professionnelles éventuelles (stages, CDD, ...)",
+            "Résultats dans les enseignements disciplinaires en algorithmique"
+          ],
+          "matched_topics": [
+            "Résultats dans les enseignements disciplinaires en algorithmique"
+          ],
+          "unmatched_topics": [
+            "Avoir des résultats satisfaisants (mention de préférence) en licence ou diplôme équivalent",
+            "Préciser clairement le(s) projet(s)/objectif(s) professionnel(s)",
+            "Préciser les expériences professionnelles éventuelles (stages, CDD, ...)"
+          ],
+          "matched_candidate_courses": [
+            "Design and Analysis of Algorithms",
+            "Data Structures and Algorithms"
+          ],
+          "coverage": 0.25
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "Français",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "PASS",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "French requirement: C1",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "eCandidat",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "FAIL",
+      "french": "FAIL",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": true,
+      "reasons": [
+        "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+      ]
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [],
+      "general_heuristics": [],
+      "serious_risks": [],
+      "unresolved_questions": []
+    },
+    "score": {
+      "profile_fit_score": 0.0,
+      "evidence_confidence_score": 0.0,
+      "status": "PROVISIONAL",
+      "status_reason": null,
+      "hard_eligibility": 0.0,
+      "transcript_match": 0.0,
+      "academic_competitiveness": 0.0,
+      "language_compatibility": 0.0,
+      "regional_visibility": 0.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 0.0,
+      "evidence_quality": 0.0,
+      "total": 0.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Rejected",
+    "group": "E_REJECTED",
+    "final_ready": false,
+    "rejected": true,
+    "rejection_reasons": [
+      "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+    ],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "597bf63757fbbe4a",
+      "university": "Université de Caen Normandie",
+      "programme": "Master Informatique",
+      "track": "Parcours Algorithmiques et systèmes intelligents (À la carte)",
+      "level": "M1",
+      "city": "Caen",
+      "campus": "Campus 2",
+      "public": true,
+      "programme_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "Mon Master",
+      "application_route_info": {
+        "platform": "Études en France",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": "Candidature via plateforme Études en France pour les candidats des pays à procédure EEF (dont Pakistan).",
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "* [menu](#) * [contenu](#content-wrap) * [pied de page](#footer) [![UNICAEN UFR LVE Langues vivantes étrangères - Université de Caen Normandie](https://ufr-lve.unicaen.fr/wp-content/uploads/sites/41/2023/02/logo-UNICAEN-UFR-LVE.png)](https://ufr-lve.unicaen.fr/) * [université de Caen Normandie](http",
+        "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6977-master-langues-etrangeres-appliquees-p.-developpement-durable%C2%A0--strategies-de-concertation-et-de-communication--ddsc-?lang=en&s=LVE",
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": "B2",
+        "french_level_required": "C1",
+        "french_cefr_required": "C1",
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "VERIFIED_ENGLISH",
+        "cefr": "B2",
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "CEFR B2 required; candidate IELTS 6.5 satisfies B2 overall.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_INCOMPATIBLE",
+        "cefr": "C1",
+        "certificate_required": true,
+        "evidence": "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "FAIL",
+        "required_topics": [
+          "Maîtriser les fondamentaux en informatique",
+          "Avoir de bonnes connaissances en mathématiques"
+        ],
+        "matched_topics": [],
+        "unmatched_topics": [
+          "Maîtriser les fondamentaux en informatique",
+          "Avoir de bonnes connaissances en mathématiques"
+        ],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [
+        "Maîtriser les fondamentaux en informatique",
+        "Avoir de bonnes connaissances en mathématiques"
+      ],
+      "accepted_degree_fields": [
+        "Licence Informatique",
+        "Licence Mathématiques appliquées",
+        "Licence Mathématiques générales",
+        "Autre diplôme bac+3 équivalent"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "unicaen.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université de Caen Normandie",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "UNICAEN | UNIVERSITÉ DE CAEN NORMANDIE | UFR des Sciences",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "# Master Informatique Parcours Algorithmiques et systèmes intelligents (À la carte)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Parcours Algorithmiques et systèmes intelligents (À la carte)",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master Informatique Parcours Algorithmiques et systèmes intelligents (À la carte)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Conditions d'accès en première année du diplôme",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Caen",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "lieu·x :\n\nCaen",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "public",
+          "value": true,
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Diplôme national de master contrôlé par l'État",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_cefr_required",
+          "value": "C1",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau minimum de connaissance du français exigé : C1",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_level_required",
+          "value": "C1",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau minimum de connaissance du français exigé : C1",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "english_cefr_required",
+          "value": "B2",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Niveau minimum de connaissance de l'anglais : B2",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "Mon Master",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "La formation est disponible sur Mon Master. La sélection se fait sur dossier :",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Licence Informatique ou Mathématiques appliquées, ou Mathématiques générales ou autre diplôme bac+3 équivalent",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour accéder au master Informatique, vous devez avoir obtenu de préférence une licence Informatique ou Mathématiques appliquées, ou Mathématiques générales ou autre diplôme bac+3 équivalent.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "explicit_prerequisites",
+          "value": "Maîtriser les fondamentaux en informatique et avoir de bonnes connaissances en mathématiques",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour réussir dans ce master, il est conseillé de maîtriser les fondamentaux en informatique et avoir de bonnes connaissances en mathématiques.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master Informatique Parcours Algorithmiques et systèmes intelligents (À la carte)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "unicaen.fr",
+          "source_url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "UNICAEN | UNIVERSITÉ DE CAEN NORMANDIE",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "What is the specific application procedure and calendar for international applicants from Études en France (Campus France) countries like Pakistan?",
+        "Are specific English standardized test score minimums (e.g. IELTS sub-scores or TOEFL totals) defined for the B2 requirement?"
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Licence Informatique, Licence Mathématiques appliquées, Licence Mathématiques générales, Autre diplôme bac+3 équivalent",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "PASS",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "FAIL",
+          "required_topics": [
+            "Maîtriser les fondamentaux en informatique",
+            "Avoir de bonnes connaissances en mathématiques"
+          ],
+          "matched_topics": [],
+          "unmatched_topics": [
+            "Maîtriser les fondamentaux en informatique",
+            "Avoir de bonnes connaissances en mathématiques"
+          ],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "PASS",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "French requirement: C1",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Mon Master",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "FAIL",
+      "french": "FAIL",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": true,
+      "reasons": [
+        "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+      ]
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [],
+      "general_heuristics": [],
+      "serious_risks": [],
+      "unresolved_questions": []
+    },
+    "score": {
+      "profile_fit_score": 0.0,
+      "evidence_confidence_score": 0.0,
+      "status": "PROVISIONAL",
+      "status_reason": null,
+      "hard_eligibility": 0.0,
+      "transcript_match": 0.0,
+      "academic_competitiveness": 0.0,
+      "language_compatibility": 0.0,
+      "regional_visibility": 0.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 0.0,
+      "evidence_quality": 0.0,
+      "total": 0.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Rejected",
+    "group": "E_REJECTED",
+    "final_ready": false,
+    "rejected": true,
+    "rejection_reasons": [
+      "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+    ],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "211664fcb8cfce6c",
+      "university": "Université de Rennes",
+      "programme": "Master Informatique",
+      "track": "M1 Ingénierie Logicielle (IL)",
+      "level": "M1",
+      "city": "Rennes",
+      "campus": "ISTIC",
+      "public": true,
+      "programme_url": "https://www.globaladmissions.com/program/master-informatique-m1-ingenierie-logicielle-il/pMUNISZF1",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Previous cycle (2026), 2027 pending publication",
+        "source": "Historical calendar data",
+        "last_verified": null
+      },
+      "application_route": "monmaster.gouv.fr / Études en France",
+      "application_route_info": {
+        "platform": "Études en France",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": "Candidature via plateforme Études en France pour les candidats des pays à procédure EEF (dont Pakistan).",
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "[Aller au contenu principal](#main-content) [![](/themes/custom/bootstrap_rennes2_color/logo.svg)](/ \"Accueil Université Rennes 2\") ![](/system/files/styles/large/private/UHB/Images%20de%20couverture/bandeauavatrformation.jpg?itok=XqpY59h9) # Master Voici les procédures d'inscriptions pour entrer en",
+        "source_url": "https://www.univ-rennes2.fr/formation/inscriptions-candidatures/master",
+        "unresolved_items": []
+      },
+      "deadline": "16 mars 2026",
+      "deadline_cycle": "2026",
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": null,
+        "french_level_required": "C1",
+        "french_cefr_required": "C1",
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "Programme-specific English test thresholds not published.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_INCOMPATIBLE",
+        "cefr": "C1",
+        "certificate_required": true,
+        "evidence": "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "UNVERIFIED",
+        "required_topics": [],
+        "matched_topics": [],
+        "unmatched_topics": [],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [],
+      "accepted_degree_fields": [],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-rennes.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université de Rennes",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour en savoir plus, rendez-vous sur le site de l'Université de Rennes",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_cefr_required",
+          "value": "C1",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour les dossiers d'étudiants titulaires d'un diplôme étranger, un niveau de français équivalent ou supérieur au niveau C1 du CECRL sera exigé.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "french_level_required",
+          "value": "C1",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour les dossiers d'étudiants titulaires d'un diplôme étranger, un niveau de français équivalent ou supérieur au niveau C1 du CECRL sera exigé.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "monmaster.gouv.fr / Études en France",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Du 17 février au 16 mars 2026 : Candidatez aux Masters de l’ISTIC sur monmaster.gouv.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "deadline",
+          "value": "16 mars 2026",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Du 17 février au 16 mars 2026 : Candidatez aux Masters de l’ISTIC sur monmaster.gouv.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "deadline_cycle",
+          "value": "2026",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Du 17 février au 16 mars 2026 : Candidatez aux Masters de l’ISTIC sur monmaster.gouv.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-rennes.fr",
+          "source_url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "site de candidature de l'université de Rennes",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "Pakistan is not listed among the 41 countries subject to the Études en France procedure enumerated on the ISTIC page; clarification is needed on whether Pakistani applicants should apply via Études en France or the Université de Rennes direct platform.",
+        "Academic prerequisites, curriculum syllabus requirements, and capacity limits for M1 Ingénierie Logicielle are not detailed in the supplied general admissions pages."
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "UNVERIFIED",
+          "evidence": "Degree requirements standard for M1 CS",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "UNVERIFIED",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "UNVERIFIED",
+          "required_topics": [],
+          "matched_topics": [],
+          "unmatched_topics": [],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "French requirement: C1",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "monmaster.gouv.fr / Études en France",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "UNVERIFIED",
+      "level": "PASS",
+      "language": "FAIL",
+      "french": "FAIL",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": true,
+      "reasons": [
+        "Accepted undergraduate degree fields are not published.",
+        "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+      ]
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [],
+      "general_heuristics": [],
+      "serious_risks": [],
+      "unresolved_questions": []
+    },
+    "score": {
+      "profile_fit_score": 0.0,
+      "evidence_confidence_score": 0.0,
+      "status": "PROVISIONAL",
+      "status_reason": null,
+      "hard_eligibility": 0.0,
+      "transcript_match": 0.0,
+      "academic_competitiveness": 0.0,
+      "language_compatibility": 0.0,
+      "regional_visibility": 0.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 0.0,
+      "evidence_quality": 0.0,
+      "total": 0.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Rejected",
+    "group": "E_REJECTED",
+    "final_ready": false,
+    "rejected": true,
+    "rejection_reasons": [
+      "Accepted undergraduate degree fields are not published.",
+      "Formal French C1 mandatory; candidate lacks official DELF/TCF/TEF certificate."
+    ],
+    "validation_status": "PASS",
+    "validation_notes": []
+  }
+]

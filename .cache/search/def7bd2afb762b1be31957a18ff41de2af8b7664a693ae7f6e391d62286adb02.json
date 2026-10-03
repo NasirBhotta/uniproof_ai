@@ -1,0 +1,47 @@
+{
+  "query": "site:monmaster.gouv.fr informatique M1 2027",
+  "results": [
+    {
+      "title": "La candidature — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/candidater",
+      "snippet": "# La candidature\n\n## Candidater via Mon Master\n\nEn vous rendant sur la plateforme à partir du 2 février, vous avez trouvé les formations qui correspondaient à vos projets personnel et professionnel, et vous avez consulté les pièces demandées pour candidater dans ces formations.\n\nDès le 17 février, vous pourrez déposer vos candidatures.\n\nLa phase de candidature est ouverte du 17 février 2026 au 17 mars 2026.\n\n### Consultez le guide du candidat pour tout savoir sur la candidature :\n\n## Créer son compte candidat\n\nDès le 2 février 2026, vous pourrez créer votre compte candidat.\n\nSi vous aviez déjà créé un compte l'année dernière, vous devrez en créer un nouveau.\n\n## Formuler une candidature [...] ## Formuler une candidature\n\nPour formuler une candidature, rien de plus simple : dans chaque vignette de formation, un bouton \"Candidater\" vous permettra de déposer tous les documents et informations demandés par l'établissement.\n\nLorsque vous aurez fourni tous les documents et informations, votre candidature sera notée comme \"finalisée\". Cela signifie que, le 21 mars, elle sera transmise aux responsables de formation pour examen.\n\nEn savoir plus sur l'éligibilité à la plateforme Mon Master ici.\n\n## Nombre de vœux\n\nVous pourrez formuler jusqu'à 15 vœux dans des formations hors alternance et 15 vœux dans des formations en alternance.\n\nLes vœux sont décomptés par mention de master, par établissement. [...] ## Modalités de recrutement\n\nLes établissements peuvent subordonner votre admission à l'examen de votre dossier, à un entretien ou au succès à un concours. Les capacités d’accueil en première année de master sont en effet limitées, du fait des capacités d'accueil physiques (locaux), des capacités d’encadrement, mais également des possibilités d’insertion professionnelle et de stage. C'est pourquoi il est important de remplir vos dossiers de candidature avec soin - en fournissant, par exemple, lorsque cela est possible, les pièces et informations facultatives demandées par les établissements - et de diversifier vos candidatures.",
+      "raw_content": null,
+      "score": 0.085870296
+    },
+    {
+      "title": "Quelles formations sont concernées",
+      "url": "https://information.monmaster.gouv.fr/les-formations-sur-mon-master",
+      "snippet": "En 2026, la plateforme propose aussi des formations mixtes (identifiées par un badge bleu sur le portail d'information) qui peuvent être suivies hors alternance",
+      "raw_content": null,
+      "score": 0.05925935
+    },
+    {
+      "title": "La saisine du recteur — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/la-saisine-du-recteur",
+      "snippet": "Il s'agit d'un cursus en deux ans (sans sélection entre la première et la seconde année) mais qui repose sur un processus de recrutement à l'entrée en première",
+      "raw_content": null,
+      "score": 0.044187542
+    },
+    {
+      "title": "Rechercher des formations",
+      "url": "https://information.monmaster.gouv.fr/rechercher-des-formations-et-candidater",
+      "snippet": "Le portail national d'information Mon Master vous permet de consulter l'offre de formation conduisant au diplôme national de master sur l'ensemble du territoire",
+      "raw_content": null,
+      "score": 0.04039294
+    },
+    {
+      "title": "Mon master - S'informer, candidater, se décider",
+      "url": "https://monmaster.gouv.fr/",
+      "snippet": "Mon Master est la plateforme nationale permettant de candidater en première année des formations conduisant au diplôme national de master.",
+      "raw_content": null,
+      "score": 0.038138922
+    },
+    {
+      "title": "Candidater — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/faq/candidater",
+      "snippet": "Qui peut candidater via Mon Master ? Pour déposer sa candidature sur la plateforme, il faut : soit être inscrit en 3ème année de licence ;; soit être déjà",
+      "raw_content": null,
+      "score": 0.028961461
+    }
+  ]
+}

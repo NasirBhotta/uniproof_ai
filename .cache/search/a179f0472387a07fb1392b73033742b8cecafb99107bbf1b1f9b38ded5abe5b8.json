@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-cotedazur.fr \"Master Informatique\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "EIT Digital Master in Data Science",
+      "url": "https://univ-cotedazur.fr/medias/fichier/eit-masters-polytech-2019_1606125071262-pdf",
+      "snippet": "Votre niveau en anglais est bon et certifiable. Au minimum B2 • IELTS >= 6.5 • voire Toefl >=90 points. Master 1 Informatique: Parallelism, Computer networks,",
+      "raw_content": null,
+      "score": 0.72042775
+    },
+    {
+      "title": "Master Informatique parcours Ubinet",
+      "url": "https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-master/master-informatique-m2-parcours-ubinet",
+      "snippet": "Le niveau de langue demandé est : Niveau B2 en Anglais. Les pré-requis sont : de très bonnes bases en Mathématiques; un très bon niveau en",
+      "raw_content": null,
+      "score": 0.66569364
+    },
+    {
+      "title": "MASTER COMPUTER SCIENCE - M2 Parcours Informatique",
+      "url": "https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-master/parcours-ingenierie",
+      "snippet": "Le niveau de langue demandé est : Niveau C1 en Français; Niveau B2 en Anglais (sauf pour la mineure Ubinet, niveau C1). Les pré-requis sont : de très bonnes",
+      "raw_content": null,
+      "score": 0.6147415
+    }
+  ]
+}

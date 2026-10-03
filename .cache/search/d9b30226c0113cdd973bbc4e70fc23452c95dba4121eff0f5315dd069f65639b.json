@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-tours.fr \"Master mention informatique\" \"capacité d'accueil\" OR \"places\"",
+  "results": [
+    {
+      "title": "MASTER Sciences Humaines et Sociales MENTION ...",
+      "url": "https://www.univ-tours.fr/formations/master-sciences-humaines-et-sociales-mention-sciences-de-leducation-parcours-ingenierie-pedagogique-et-pratique-numerique",
+      "snippet": "Master 1 : (capacité d'accueil mention : 25 places) tels que l'informatique et l'internet (C2i niveau 1)",
+      "raw_content": null,
+      "score": 0.7742597
+    },
+    {
+      "title": "MASTER Arts, Lettres, Langues MENTION ...",
+      "url": "https://www.univ-tours.fr/formations/master-arts-lettres-langues-mention-langues-etrangeres-appliquees-parcours-langues-affaires-negociation-interculturelle",
+      "snippet": "MASTER Arts, Lettres, Langues. Master 1 : (capacité d'accueil mention : 30 places) (droit, économie, gestion, marketing, informatique, techniques de",
+      "raw_content": null,
+      "score": 0.75290436
+    },
+    {
+      "title": "MASTER Droit, Économie, Gestion MENTION ...",
+      "url": "https://www.univ-tours.fr/formations/master-droit-economie-gestion-mention-economie-de-lentreprise-et-des-marches",
+      "snippet": "Campagne de candidature. Master 1 : (capacité d'accueil mention : 20 places). du 17 février au 16 mars 2026 plateforme mon master ... Informatique; CV détaillé",
+      "raw_content": null,
+      "score": 0.6821721
+    }
+  ]
+}

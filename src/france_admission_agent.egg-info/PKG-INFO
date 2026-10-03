@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: france-admission-agent
+Version: 0.3.0
+Requires-Python: >=3.11
+Requires-Dist: langgraph
+Requires-Dist: pydantic>=2
+Requires-Dist: python-dotenv
+Requires-Dist: httpx
+Requires-Dist: beautifulsoup4

@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-cotedazur.fr \"Master Informatique\" \"capacité d'accueil\" OR \"places\"",
+  "results": [
+    {
+      "title": "Master MIAGE MBDS +",
+      "url": "https://univ-cotedazur.fr/medias/fichier/brochure-miage-mbds-nov2025-web_1762532758675-pdf",
+      "snippet": "Capacité d'accueil. M1 : 20 étudiants - M2 : 25. • En Master 1, admission ouverte aux étudiants titulaires d'une Licence MIASHS ou d'une Licence INFORMATIQUE.",
+      "raw_content": null,
+      "score": 0.55449516
+    },
+    {
+      "title": "Master MIAGE IA2 +",
+      "url": "https://univ-cotedazur.fr/medias/fichier/brochure-miage-ia2-2025-web_1762532804212-pdf",
+      "snippet": "Capacité d'accueil. M1 : 20 étudiants - M2 : 25. Avec nos entreprises partenaires, profitez d'innombrables opportunités pour apprendre en dehors des salles de.",
+      "raw_content": null,
+      "score": 0.4296453
+    },
+    {
+      "title": "Type Diplôme : Master M1 & M2",
+      "url": "https://elmi.univ-cotedazur.fr/medias/fichier/maquette-master-grh-emrh-appronfondissement-25-26_1759478421304-pdf",
+      "snippet": "Informatique de gestion (Outils et techniques du Web, progiciel de gestion… ... ex: Intervention à titre gracieux / Capacité d'accueil max. 1. Management de l",
+      "raw_content": null,
+      "score": 0.3887346
+    }
+  ]
+}

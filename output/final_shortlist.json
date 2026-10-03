@@ -1,0 +1,2586 @@
+[
+  {
+    "programme": {
+      "programme_id": "6cdf0e7da2bd2357",
+      "university": "Université de Rouen Normandie",
+      "programme": "Master Informatique",
+      "track": "Sécurité des Systèmes Informatiques",
+      "level": "M1",
+      "city": "Saint-Étienne-du-Rouvray",
+      "campus": "Campus du Madrillet",
+      "public": true,
+      "programme_url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "Études en France (Campus France) for foreign students relevant to Campus France; e-candidat for other international or local applicants",
+      "application_route_info": {
+        "platform": "Études en France (Campus France) for foreign students relevant to Campus France; e-candidat for other international or local applicants",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": null,
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "Verified route: Études en France (Campus France) for foreign students relevant to Campus France; e-candidat for other international or local applicants",
+        "source_url": null,
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": "B2",
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "VERIFIED_ENGLISH",
+        "cefr": "B2",
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "CEFR B2 required; candidate IELTS 6.5 satisfies B2 overall.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "UNVERIFIED",
+        "required_topics": [],
+        "matched_topics": [],
+        "unmatched_topics": [],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [],
+      "accepted_degree_fields": [
+        "licence mention informatique"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-rouen.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université de Rouen Normandie",
+          "source_url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Catalogue des formations - Université de Rouen Normandie",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master Informatique, Sécurité des Systèmes Informatiques",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Sécurité des Systèmes Informatiques",
+          "source_url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "L'équipe pédagogique du master Informatique, parcours SSI (Sécurité des Systèmes Informatiques)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Saint-Étienne-du-Rouvray",
+          "source_url": "https://wakatepe.fr/formation/catalogue_0763111U_9ta71k-informatique-master-universite-de-rouen-normandie-saint-etienne-du-rouvray",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Le Master Informatique de l’Université de Rouen-Normandie se prépare à Saint-Étienne-du-Rouvray, en Normandie.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "english_cefr_required",
+          "value": "B2",
+          "source_url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "il maîtrise la langue anglaise (niveau B2 minimum)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "Études en France (Campus France) for foreign students relevant to Campus France; e-candidat for others",
+          "source_url": "https://dpt-info-sciences.univ-rouen.fr/index.php/inscription",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Les étudiants étrangers relevant de Campus France doivent candidater via l'application Études en France de leur pays. Pour tous les autres (étudiants étrangers ne relevant pas de Campus France, ou étudiants déjà inscrits en France), vous devez vous inscrire sur le site e-candidat de l'université de Rouen.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "licence mention informatique",
+          "source_url": "https://dpt-info-sciences.univ-rouen.fr/index.php/inscription",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Nos formations au département d'informatique sont les suivantes : * licence mention informatique * master mention informatique",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+          "source_url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master Informatique, Sécurité des Systèmes Informatiques",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-rouen.fr",
+          "source_url": "https://dpt-info-sciences.univ-rouen.fr/index.php/inscription",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Département d'informatique de l'université de Rouen",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "What is the primary teaching language for the M1 common year courses (French, English, or bilingual)?",
+        "Is there a mandatory French proficiency level/certificate (e.g. DELF B2) required for admission to M1?",
+        "What are the official application opening and deadline dates for the 2027 intake cycle?"
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "licence mention informatique",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "UNVERIFIED",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "UNVERIFIED",
+          "required_topics": [],
+          "matched_topics": [],
+          "unmatched_topics": [],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "PASS",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Études en France (Campus France) for foreign students relevant to Campus France; e-candidat for other international or local applicants",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": []
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "Candidate's IELTS Speaking sub-score of 5.5 is below the standard CEFR B2 component threshold (typically 6.0) required by many French universities.",
+        "Official IELTS TRF is unverified, presenting a compliance and authenticity risk during document review."
+      ],
+      "general_heuristics": [
+        "French public university Master 1 programmes are frequently taught entirely or partially in French despite English language proficiency notes, putting applicants without DELF B2 certification at substantial risk.",
+        "A CGPA of 3.23/4.0 from a non-EU university requires formal equivalence validation and may face high competition in selective cybersecurity tracks.",
+        "Admission for Pakistani nationals must proceed through the Études en France (EEF) platform, which enforces strict document verification deadlines."
+      ],
+      "serious_risks": [
+        "Unverified French language requirement for M1 common-core coursework at Université de Rouen Normandie could lead to administrative rejection if DELF B2 is mandatory.",
+        "Automated transcript matching shows 0% verified coverage, necessitating manual syllabus review for prerequisite alignment in cybersecurity and systems fundamentals."
+      ],
+      "unresolved_questions": [
+        "Is French proficiency (e.g., DELF B2) required for admission to the M1 Sécurité des Systèmes Informatiques track, or is the entire curriculum delivered in English?",
+        "Does Université de Rouen Normandie enforce a minimum band score threshold (such as 6.0 in all sub-scores) for IELTS submissions?",
+        "What are the official Études en France application opening and closing deadlines for the 2027 intake cycle?",
+        "What is the primary teaching language for the M1 common year courses (French, English, or bilingual)?",
+        "Is there a mandatory French proficiency level/certificate (e.g. DELF B2) required for admission to M1?",
+        "What are the official application opening and deadline dates for the 2027 intake cycle?",
+        "Target-cycle calendar is pending publication."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 87.0,
+      "evidence_confidence_score": 73.0,
+      "status": "PROVISIONAL",
+      "status_reason": "academic prerequisites unverified; transcript course mapping unverified",
+      "hard_eligibility": 25.0,
+      "transcript_match": 18.0,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 7.3,
+      "total": 87.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Strong Fit — 2027 Calendar Pending",
+    "group": "B_CALENDAR_PENDING",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "4cb77900ea4201bd",
+      "university": "Université Grenoble Alpes",
+      "programme": "Master Informatique",
+      "track": "Master of Science in Informatics at Grenoble (MoSIG)",
+      "level": "M1",
+      "city": "Grenoble",
+      "campus": null,
+      "public": true,
+      "programme_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "Études en France",
+      "application_route_info": {
+        "platform": null,
+        "status": "UNVERIFIED",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": null,
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": null,
+        "source_url": null,
+        "unresolved_items": [
+          "Candidate-specific route (Études en France vs direct university portal) not yet verified from official university pages."
+        ]
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "Anglais",
+          "Français"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": "B2",
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Afin d’accueillir des publics internationaux, deux parcours sont intégralement dispensés en anglais (MoSIG et Cybersecurity).",
+        "source_url": "https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-informatique-IAQK9B8Z.html"
+      },
+      "english_req_info": {
+        "status": "VERIFIED_ENGLISH",
+        "cefr": "B2",
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "CEFR B2 required; candidate IELTS 6.5 satisfies B2 overall.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "UNVERIFIED",
+        "required_topics": [],
+        "matched_topics": [],
+        "unmatched_topics": [],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [],
+      "accepted_degree_fields": [
+        "Licence dans un domaine compatible avec celui du master"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-grenoble-alpes.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université Grenoble Alpes",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Université Grenoble Alpes",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master Informatique",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Master of Science in Informatics at Grenoble (MoSIG)",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master of Science In Informatics at Grenoble (MoSIG) : en anglais, ouvert à l’international",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Le master 1re année est ouvert aux personnes qui ont obtenu un diplôme national conférant le grade de licence dans un domaine compatible avec celui du master",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Grenoble",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Grenoble INP - Ensimag (Informatique, mathématiques appliquées et télécommunications), UGA",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "public",
+          "value": true,
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "diplôme national conférant le grade de licence",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "teaching_language",
+          "value": "Anglais",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Afin d’accueillir des publics internationaux, deux parcours sont intégralement dispensés en anglais (MoSIG et Cybersecurity).",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "english_cefr_required",
+          "value": "B2",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z/parcours-informatique-classique-1re-annee-IGM7WZRC.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Les unités d’enseignement des deux langues sont accessibles aux étudiants ayant au moins le niveau B2 dans la langue d'enseignement.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Licence dans un domaine compatible avec celui du master",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Le master 1re année est ouvert aux personnes qui ont obtenu un diplôme national conférant le grade de licence dans un domaine compatible avec celui du master ou une validation d'études ou d'acquis.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-grenoble-alpes.fr",
+          "source_url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "univ-grenoble-alpes.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "Application calendar and deadlines for the 2027 intake are not yet published in the provided catalogue sources.",
+        "Exact application portal and procedure for non-EU/EEF candidates (Études en France vs direct UGA application for MoSIG) is not specified in the supplied sources.",
+        "Specific IELTS band minimums (listening, reading, writing, speaking) beyond CEFR B2 are not detailed in the supplied text."
+      ],
+      "unresolved_fields": [
+        "application_route",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Licence dans un domaine compatible avec celui du master",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "UNVERIFIED",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "UNVERIFIED",
+          "required_topics": [],
+          "matched_topics": [],
+          "unmatched_topics": [],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "Anglais, Français",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "PASS",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Études en France",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "UNVERIFIED",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": [
+        "Accepted undergraduate degree fields were found but require manual verification."
+      ]
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "Candidate's IELTS Speaking sub-score of 5.5 falls below the standard CEFR B2 sub-band benchmark (typically 6.0) if individual component minimums are enforced.",
+        "The candidate's IELTS Test Report Form is unverified (official_trf_verified: false), posing a verification risk during official file screening."
+      ],
+      "general_heuristics": [
+        "MoSIG (Grenoble INP - Ensimag / UGA) is a highly competitive and research-oriented international track with selective entry criteria.",
+        "International applicants from Études en France countries often require a dual application process (Campus France EEF portal + internal UGA/Ensimag application platform).",
+        "Admissions calendars and capacity for the 2027 intake are currently pending publication."
+      ],
+      "serious_risks": [
+        "Risk of rejection or interview requirement due to the IELTS Speaking band score of 5.5 if sub-score thresholds are strictly applied.",
+        "Risk of procedural disqualification if the applicant fails to submit parallel dossiers across both Études en France and the university's internal application portal."
+      ],
+      "unresolved_questions": [
+        "Does UGA/MoSIG enforce minimum IELTS sub-score thresholds (specifically >= 6.0 in Speaking) alongside the overall B2 requirement?",
+        "What specific application portal is mandated for non-EU applicants from EEF countries for MoSIG (Études en France only vs dual application)?",
+        "What are the official deadlines, intake capacity, and specific prerequisite weightings for the 2027 admissions cycle?",
+        "Application calendar and deadlines for the 2027 intake are not yet published in the provided catalogue sources.",
+        "Exact application portal and procedure for non-EU/EEF candidates (Études en France vs direct UGA application for MoSIG) is not specified in the supplied sources.",
+        "Specific IELTS band minimums (listening, reading, writing, speaking) beyond CEFR B2 are not detailed in the supplied text.",
+        "Target-cycle calendar is pending publication."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 82.0,
+      "evidence_confidence_score": 58.0,
+      "status": "PROVISIONAL",
+      "status_reason": "degree compatibility unverified; academic prerequisites unverified",
+      "hard_eligibility": 20.0,
+      "transcript_match": 18.0,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 5.8,
+      "total": 82.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Strong Fit — 2027 Calendar Pending",
+    "group": "B_CALENDAR_PENDING",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "8bd5267274de9f9b",
+      "university": "Université Côte d'Azur",
+      "programme": "Master Informatique",
+      "track": "Systèmes logiciels et calculs distribués (SLCD)",
+      "level": "M1",
+      "city": "Nice",
+      "campus": null,
+      "public": true,
+      "programme_url": "https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-master/master-informatique-parcours-systemes-logiciels-et-calculs-distribues",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Previous cycle (2025/2026), 2027 pending publication",
+        "source": "Historical calendar data",
+        "last_verified": null
+      },
+      "application_route": "Procédure Études en France",
+      "application_route_info": {
+        "platform": "Études en France",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": "Candidature via plateforme Études en France pour les candidats des pays à procédure EEF (dont Pakistan).",
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "Candidatures 2025/2026 | Procédure Etudes en France A partir du 01/10/2024",
+        "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-master/master-informatique-m1-parcours-intelligence-artificielle",
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": "2025/2026",
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": null,
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "Programme-specific English test thresholds not published.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "PASS",
+        "required_topics": [
+          "Programmation",
+          "Algorithmique et structures de données",
+          "Bases de données",
+          "Systèmes",
+          "Informatique fondamentale",
+          "Web"
+        ],
+        "matched_topics": [
+          "Programmation",
+          "Algorithmique et structures de données",
+          "Bases de données",
+          "Systèmes",
+          "Web"
+        ],
+        "unmatched_topics": [
+          "Informatique fondamentale"
+        ],
+        "matched_candidate_courses": [
+          "Programming Fundamentals",
+          "Object-Oriented Programming",
+          "Mobile Application Development",
+          "Design and Analysis of Algorithms",
+          "Data Structures and Algorithms",
+          "Database Systems",
+          "Operating Systems",
+          "Web Technologies",
+          "Advanced Web Technologies"
+        ],
+        "coverage": 0.83
+      },
+      "explicit_prerequisites": [
+        "Programmation",
+        "Algorithmique et structures de données",
+        "Bases de données",
+        "Systèmes",
+        "Informatique fondamentale",
+        "Web"
+      ],
+      "accepted_degree_fields": [
+        "Double Licence Mathématiques-Informatique",
+        "Licence en informatique",
+        "Licence MIASHS parcours MIAGE",
+        "Licence Science et Technologies parcours Intelligence artificielle",
+        "Autre Licence scientifique ou diplôme équivalent de niveau Bac+3"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-cotedazur.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université Côte d'Azur",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Université Côte d'Azur Etablissements composantes Etablissements publics scientifiques et techniques",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour être admis en première année de Master (M1), les étudiants doivent",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour être admis en première année de Master (M1), les étudiants doivent : Etre titulaire d'une double Licence Mathématiques-Informatique, d’une Licence en informatique",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Nice",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master Informatique Nice Université Côte d'Azur",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-cotedazur.fr",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Double Licence Mathématiques-Informatique, Licence en informatique, Licence MIASHS parcours MIAGE, Licence Science et Technologies parcours IA, ou autre Licence scientifique",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Etre titulaire d'une double Licence Mathématiques-Informatique, d’une Licence en informatique, d'une Licence MIASHS parcours MIAGE ou d'une Licence Science et Technologies parcours Intelligence artificielle. Ou être titulaires d'une autre Licence scientifique ou diplôme équivalent de niveau Bac+3 accepté sous conditions de prérequis.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "explicit_prerequisites",
+          "value": "Programmation, algorithmique et structures de données, bases de données, systèmes, informatique fondamentale, Web",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/master-informatique-1",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Avoir des compétences de programmation, algorithmique et structures de données, bases de données, systèmes, informatique fondamentale, Web.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "Procédure Études en France",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-master/master-informatique-m1-parcours-intelligence-artificielle",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Procédure Etudes en France A partir du 01/10/2024, sur la plateforme Etudes en France - La date limite de dépôt est déterminée au sein de chaque ambassade. Cette procédure concerne uniquement les étudiants résidants et de nationalité de l'un de ces pays.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "deadline_cycle",
+          "value": "2025/2026",
+          "source_url": "https://univ-cotedazur.fr/formation/offre-de-formation/parcours-de-master/master-informatique-m1-parcours-intelligence-artificielle",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Candidatures 2025/2026 | Procédure Etudes en France A partir du 01/10/2024",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "What is the official teaching language and specific CEFR / IELTS minimum requirement for the Master Informatique (SLCD track)?",
+        "What are the specific opening dates and deadlines for the 2027 intake on the Études en France platform for Pakistani applicants?"
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Double Licence Mathématiques-Informatique, Licence en informatique, Licence MIASHS parcours MIAGE, Licence Science et Technologies parcours Intelligence artificielle, Autre Licence scientifique ou diplôme équivalent de niveau Bac+3",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "PASS",
+          "evidence": "9 matched courses (83%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "PASS",
+          "required_topics": [
+            "Programmation",
+            "Algorithmique et structures de données",
+            "Bases de données",
+            "Systèmes",
+            "Informatique fondamentale",
+            "Web"
+          ],
+          "matched_topics": [
+            "Programmation",
+            "Algorithmique et structures de données",
+            "Bases de données",
+            "Systèmes",
+            "Web"
+          ],
+          "unmatched_topics": [
+            "Informatique fondamentale"
+          ],
+          "matched_candidate_courses": [
+            "Programming Fundamentals",
+            "Object-Oriented Programming",
+            "Mobile Application Development",
+            "Design and Analysis of Algorithms",
+            "Data Structures and Algorithms",
+            "Database Systems",
+            "Operating Systems",
+            "Web Technologies",
+            "Advanced Web Technologies"
+          ],
+          "coverage": 0.83
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Procédure Études en France",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": []
+    },
+    "curriculum_coverage": 0.8333,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "Candidate's IELTS Speaking sub-score is 5.5, which poses a substantial risk if the university enforces a minimum sub-band threshold of 6.0 (standard B2 benchmark).",
+        "English and French language requirements and exact CEFR/IELTS thresholds are unverified in official programme documentation for the SLCD track.",
+        "The candidate's IELTS Test Report Form (TRF) is unverified, which may cause administrative delays or rejection during the Études en France verification stage."
+      ],
+      "general_heuristics": [
+        "Non-EU applicants through Études en France (EEF) undergo rigorous credential equivalency evaluation and strict embassy-level deadlines.",
+        "Pakistani 4-year Bachelor degrees (133 credits) generally qualify for M1 entry, but admissions committees often scrutinize theoretical computer science fundamentals and mathematics depth.",
+        "Admission criteria, capacities, and intake calendars for 2027 are pending official publication and may change from historical cycles."
+      ],
+      "serious_risks": [
+        "Risk of hidden French proficiency requirements (DELF B1/B2) for university administration, campus integration, or shared elective courses despite English track designation.",
+        "The automated transcript matching identifies 'Informatique fondamentale' as unmatched, requiring clear course description documentation in the application dossier.",
+        "Lack of verified IELTS TRF could compromise the application if official validation is requested prior to dossier forwarding."
+      ],
+      "unresolved_questions": [
+        "What are the official minimum IELTS overall and sub-score requirements for the Master Informatique (SLCD track) at Université Côte d'Azur?",
+        "Is a formal French language certificate (DELF/TCF) required for non-EU international students enrolling in this track?",
+        "What are the specific Études en France application opening and deadline dates for the 2027 intake for Pakistani applicants?",
+        "What is the official teaching language and specific CEFR / IELTS minimum requirement for the Master Informatique (SLCD track)?",
+        "What are the specific opening dates and deadlines for the 2027 intake on the Études en France platform for Pakistani applicants?",
+        "Target-cycle calendar is pending publication."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 93.2,
+      "evidence_confidence_score": 81.3,
+      "status": "VERIFIED",
+      "status_reason": null,
+      "hard_eligibility": 25.0,
+      "transcript_match": 24.1,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 8.1,
+      "total": 93.2
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Strong Fit — Language Verification Required",
+    "group": "C_LANGUAGE_VERIFICATION_REQUIRED",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "d1172ed14d796c1a",
+      "university": "Université d'Orléans",
+      "programme": "Master Informatique",
+      "track": "Excellence Minerve - GPEx",
+      "level": "M1",
+      "city": "Orléans",
+      "campus": "UFR Sciences et Techniques",
+      "public": true,
+      "programme_url": "https://formation-en.univ-orleans.fr/en/training-offer/master-lmd-XB/master-informatique-parcours-excellence-minerve-gpex-M42OY18S.html",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Previous cycle (2025), 2027 pending publication",
+        "source": "Historical calendar data",
+        "last_verified": null
+      },
+      "application_route": "Campus France / Études en France",
+      "application_route_info": {
+        "platform": "Campus France / Études en France",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": null,
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "Verified route: Campus France / Études en France",
+        "source_url": null,
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": "2025",
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": null,
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "Programme-specific English test thresholds not published.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "UNVERIFIED",
+        "required_topics": [],
+        "matched_topics": [],
+        "unmatched_topics": [],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [],
+      "accepted_degree_fields": [
+        "licence mention informatique",
+        "diplôme reconnu équivalent avec une mention informatique ou économie-gestion",
+        "Licence générale (L3)"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": 35,
+      "applicant_count": 591,
+      "admitted_count": 28,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "univ-orleans.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université d'Orléans",
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "INFORMATIQUE | Université d'Orléans | Mon Master Session 2025",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Mention : INFORMATIQUE",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Orléans",
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Lieu(x) de formation : UFR Sciences et Techniques - ORLEANS CEDEX (45)|Université d'Orléans - ORLEANS CEDEX 2 (45)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "public",
+          "value": true,
+          "source_url": "https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=47187&typeBac=0&originePc=0",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Établissement public",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "capacity",
+          "value": 35,
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Capacité offerte : 35 places",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "applicant_count",
+          "value": 591,
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Candidatures confirmées : 591",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "admitted_count",
+          "value": 28,
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Admis : 28",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "Campus France / Études en France",
+          "source_url": "https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=47187&typeBac=0&originePc=0",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "et que vous résidez dans un des pays disposant d'un espace Campus France à procédure Etudes en France : vous ne devez pas vous inscrire sur Parcoursup. Vous devez faire vos démarches sur le site de Campus France de votre pays de résidence",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "univ-orleans.fr",
+          "source_url": "https://dossierappel.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=47187&typeBac=0&originePc=0",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "formation.univ-orleans.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "deadline_cycle",
+          "value": "2025",
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Mon Master Session 2025 0 INITIALE,CONTINUE 35 places",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "Specific language requirements (English/French CEFR levels or IELTS component minima) are not documented in the provided sources for Master Informatique - Parcours Excellence Minerve - GPEx.",
+        "Intake calendar and application deadlines for the 2027 cycle are not yet published.",
+        "Detailed syllabus prerequisites and curriculum mapping specific to the Excellence Minerve - GPEx track are not present in the provided sources."
+      ],
+      "unresolved_fields": [
+        "teaching_language"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "licence mention informatique, diplôme reconnu équivalent avec une mention informatique ou économie-gestion, Licence générale (L3)",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "UNVERIFIED",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "UNVERIFIED",
+          "required_topics": [],
+          "matched_topics": [],
+          "unmatched_topics": [],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Campus France / Études en France",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "VERIFIED",
+          "evidence": "Capacity: 35 seats",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "VERIFIED",
+          "evidence": "Applicants: 591, Admitted: 28",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": []
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "High selectivity demonstrated by official Mon Master 2025 statistics: only 28 admitted from 591 confirmed applicants (approx. 4.7% acceptance rate) for 35 available seats."
+      ],
+      "general_heuristics": [
+        "The candidate's IELTS Speaking sub-score of 5.5 falls below the standard CEFR B2 component threshold (typically 6.0), posing a risk if strict band minima are applied.",
+        "The track name 'Excellence Minerve - GPEx' implies a selective honors curriculum where a 3.23/4.0 CGPA may face intense academic competition.",
+        "Unverified official IELTS TRF status will require formal verification during the Études en France / consular evaluation stage."
+      ],
+      "serious_risks": [
+        "Very low acceptance rate (<5%) in an excellence track could lead to rejection on competitive academic grounds.",
+        "If the university publishes explicit language requirements mandating minimum 6.0 in all IELTS sub-bands for English-taught instruction, the candidate's Speaking score (5.5) will be a disqualifier."
+      ],
+      "unresolved_questions": [
+        "What are the explicit English language test score thresholds (overall and component minima for IELTS/TOEFL) for the Excellence Minerve - GPEx track?",
+        "Does the 'Excellence Minerve' track impose specific GPA, ranking, or academic prerequisite criteria beyond standard Licence Informatique equivalency?",
+        "When will the 2027 intake application calendar and deadlines be published for Études en France applicants?",
+        "Specific language requirements (English/French CEFR levels or IELTS component minima) are not documented in the provided sources for Master Informatique - Parcours Excellence Minerve - GPEx.",
+        "Intake calendar and application deadlines for the 2027 cycle are not yet published.",
+        "Detailed syllabus prerequisites and curriculum mapping specific to the Excellence Minerve - GPEx track are not present in the provided sources.",
+        "Target-cycle calendar is pending publication."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 87.0,
+      "evidence_confidence_score": 68.0,
+      "status": "PROVISIONAL",
+      "status_reason": "exact language proof requirements unverified; academic prerequisites unverified",
+      "hard_eligibility": 25.0,
+      "transcript_match": 18.0,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 6.8,
+      "total": 87.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Strong Fit — Language Verification Required",
+    "group": "C_LANGUAGE_VERIFICATION_REQUIRED",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "dd14b0cc5ef4d577",
+      "university": "Université d'Orléans",
+      "programme": "Master méthodes informatiques appliquées à la gestion des entreprises (MIAGE)",
+      "track": "Systèmes d'information répartis (SIR)",
+      "level": "M1",
+      "city": "Orléans",
+      "campus": "UFR Sciences et Techniques",
+      "public": true,
+      "programme_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "Études en France",
+      "application_route_info": {
+        "platform": null,
+        "status": "UNVERIFIED",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": null,
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": null,
+        "source_url": null,
+        "unresolved_items": [
+          "Candidate-specific route (Études en France vs direct university portal) not yet verified from official university pages."
+        ]
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": null,
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "Programme-specific English test thresholds not published.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "FAIL",
+        "required_topics": [
+          "Être titulaire d'une licence mention informatique (parcours MIAGE), ou d'un diplôme reconnu équivalent avec une mention informatique ou économie-gestion."
+        ],
+        "matched_topics": [],
+        "unmatched_topics": [
+          "Être titulaire d'une licence mention informatique (parcours MIAGE), ou d'un diplôme reconnu équivalent avec une mention informatique ou économie-gestion."
+        ],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [
+        "Être titulaire d'une licence mention informatique (parcours MIAGE), ou d'un diplôme reconnu équivalent avec une mention informatique ou économie-gestion."
+      ],
+      "accepted_degree_fields": [
+        "Informatique",
+        "Économie-gestion"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": 35,
+      "applicant_count": 591,
+      "admitted_count": 28,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": null,
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université d'Orléans",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Plsus d’informations et modalités d’inscription sur le site de l’Université d’Orléans",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master méthodes informatiques appliquées à la gestion des entreprises (Master MIAGE SIR 45)",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master méthodes informatiques appliquées à la gestion des entreprises Orléans (Master MIAGE SIR 45) Spécialité systèmes d'information répartis",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Systèmes d'information répartis (SIR)",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Spécialité systèmes d'information répartis",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Durée de la formation 2 ans : master 1ère année et master 2ème année.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Orléans",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "UFR SCIENCES ET TECHNIQUES - SITE D'ORLEANS Rue de Chartres - 45100 ORLÉANS",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "explicit_prerequisites",
+          "value": "Être titulaire d’une licence mention informatique (parcours MIAGE), ou d’un diplôme reconnu équivalent avec une mention informatique ou économie-gestion.",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "MASTER 1ÈRE ANNÉE Être titulaire : * d’une licence mention informatique (parcours MIAGE), * ou d’un diplôme reconnu équivalent avec une mention informatique ou économie-gestion.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Informatique, Économie-gestion",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "d’une licence mention informatique (parcours MIAGE), ou d’un diplôme reconnu équivalent avec une mention informatique ou économie-gestion.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "capacity",
+          "value": 35,
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Capacité offerte : 35 places",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "applicant_count",
+          "value": 591,
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "591 Candidatures confirmées",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "admitted_count",
+          "value": 28,
+          "source_url": "https://www.optionmetier.fr/orientation/mon-master/formation/45081",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "28 Admis",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_url": "https://www.cfa-univ.fr/formation/master-methodes-informatiques-appliquees-gestion-entreprises-systemes-information-repartis-orleans-miage-sir-45",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Master méthodes informatiques appliquées à la gestion des entreprises Orléans (Master MIAGE SIR 45)",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "What are the specific language requirements (French CEFR / English CEFR or IELTS/TOEFL) for Master MIAGE parcours SIR at Université d'Orléans?",
+        "What is the specific application route and intake calendar for international applicants applying from an Études en France / Campus France country (such as Pakistan) for the 2027 cycle?"
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "application_route"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Informatique, Économie-gestion",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "PASS",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "FAIL",
+          "required_topics": [
+            "Être titulaire d'une licence mention informatique (parcours MIAGE), ou d'un diplôme reconnu équivalent avec une mention informatique ou économie-gestion."
+          ],
+          "matched_topics": [],
+          "unmatched_topics": [
+            "Être titulaire d'une licence mention informatique (parcours MIAGE), ou d'un diplôme reconnu équivalent avec une mention informatique ou économie-gestion."
+          ],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Études en France",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "VERIFIED",
+          "evidence": "Capacity: 35 seats",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "VERIFIED",
+          "evidence": "Applicants: 591, Admitted: 28",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": []
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "High selectivity: 28 admitted out of 591 applicants (~4.7% admission rate) based on published orientation data.",
+        "Candidate IELTS Speaking sub-score is 5.5, which falls below the standard CEFR B2 threshold (typically 6.0 minimum per band) often required by French higher education institutions.",
+        "The primary programme source URL is hosted on CFA Univ (Centre de Formation d'Apprentis), indicating potential apprenticeship/alternance delivery which poses legal/visa restrictions for first-year non-EU international entrants."
+      ],
+      "general_heuristics": [
+        "French Master MIAGE programs are traditionally taught in French and incorporate management/applied IT; candidate holds no DELF/DALF certification.",
+        "Candidate CGPA of 3.23/4.0 may be uncompetitive in highly selective cohorts with sub-5% acceptance rates.",
+        "Transcript match coverage registered as 0% due to unparsed text prerequisite matching rather than semantic syllabus mapping."
+      ],
+      "serious_risks": [
+        "Risk of disqualification if the programme mandates French B2 proficiency for admission or coursework integration.",
+        "Risk of ineligibility if the M1 track requires a French apprenticeship contract (contrat d'apprentissage), which generally requires prior French residency for non-EU nationals.",
+        "Risk of application rejection if institutional policy enforces strict component minimums (e.g. minimum 6.0) across all IELTS sub-scores."
+      ],
+      "unresolved_questions": [
+        "Is the Master MIAGE parcours SIR at Université d'Orléans taught in English, French, or a bilingual mix, and what are the explicit CEFR/IELTS/DELF thresholds?",
+        "Is this track available under initial training (formation initiale) for non-EU candidates applying directly via Études en France, or strictly through apprenticeship (alternance)?",
+        "What is the official application portal and schedule for Études en France applicants from Pakistan for the 2027 intake?",
+        "What are the specific language requirements (French CEFR / English CEFR or IELTS/TOEFL) for Master MIAGE parcours SIR at Université d'Orléans?",
+        "What is the specific application route and intake calendar for international applicants applying from an Études en France / Campus France country (such as Pakistan) for the 2027 cycle?",
+        "Target-cycle calendar is pending publication."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 87.0,
+      "evidence_confidence_score": 78.0,
+      "status": "VERIFIED",
+      "status_reason": null,
+      "hard_eligibility": 25.0,
+      "transcript_match": 18.0,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 7.8,
+      "total": 87.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Strong Fit — Language Verification Required",
+    "group": "C_LANGUAGE_VERIFICATION_REQUIRED",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "f5dc94180ae92f56",
+      "university": "Clermont Auvergne INP",
+      "programme": "Master Informatique et Intelligence Artificielle",
+      "track": "International of Computer Science (ICS)",
+      "level": "M1",
+      "city": "Aubière",
+      "campus": "ISIMA",
+      "public": true,
+      "programme_url": "https://www.isima.fr/postuler-en-master-informatique",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "OPEN",
+        "opening_date": null,
+        "deadline": "2026-03-16",
+        "source": "Official university admissions calendar",
+        "last_verified": null
+      },
+      "application_route": "Candidatures M1 International of Computer Science ICS en formation initiale sur dossier à adresser par mail à sophie.walsh@uca.fr",
+      "application_route_info": {
+        "platform": "Candidatures M1 International of Computer Science ICS en formation initiale sur dossier à adresser par mail à sophie.walsh@uca.fr",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": null,
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "Verified route: Candidatures M1 International of Computer Science ICS en formation initiale sur dossier à adresser par mail à sophie.walsh@uca.fr",
+        "source_url": null,
+        "unresolved_items": []
+      },
+      "deadline": "2026-03-16",
+      "deadline_cycle": "2026-2027",
+      "cycle_status": "OPEN",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": null,
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "Programme-specific English test thresholds not published.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "FAIL",
+        "required_topics": [
+          "Compétences préalables en mathématiques et en informatique"
+        ],
+        "matched_topics": [],
+        "unmatched_topics": [
+          "Compétences préalables en mathématiques et en informatique"
+        ],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [
+        "Lettre de motivation",
+        "Curriculum Vitae (CV)",
+        "Relevé de notes depuis le baccalauréat",
+        "Certificat de langue anglaise",
+        "Compétences préalables en mathématiques et en informatique"
+      ],
+      "accepted_degree_fields": [
+        "Informatique",
+        "Maths-Informatique",
+        "Mathématiques"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "isima.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Clermont Auvergne INP",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Clermont Auvergne INP",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique et Intelligence Artificielle",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Les candidatures en 1ère année du master Informatique et Intelligence Artificielle (Formation initiale) se font sur le portail Mon Master",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "International of Computer Science ICS",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Candidatures M1 International of Computer Science ICS en formation initiale. (nouveauté 2026-2027)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Candidatures M1 International of Computer Science ICS en formation initiale.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "city",
+          "value": "Aubière",
+          "source_url": "https://www.uca.fr/formation/nos-formations/catalogue-des-formations/par-type-de-diplome/masters/master-intelligence-artificielle",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Aubière",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "Candidatures M1 International of Computer Science ICS en formation initiale sur dossier à adresser par mail à sophie.walsh@uca.fr",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Candidatures M1 International of Computer Science ICS en formation initiale. (nouveauté 2026-2027)\nSur dossier à adresser par mail à sophie.walsh@uca.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "deadline",
+          "value": "2026-03-16",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Dépôt des dossiers : du 17 février 2026 au 16 mars 2026",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "deadline_cycle",
+          "value": "2026-2027",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Candidatures M1 International of Computer Science ICS en formation initiale. (nouveauté 2026-2027)",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "explicit_prerequisites",
+          "value": "Lettre de motivation, Curriculum Vitae (CV), Relevé de notes depuis le baccalauréat, Certificat de langue anglaise",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Documents à fournir par mail :\n\n Lettre de motivation\n Curriculum Vitae (CV)\n Relevé de notes depuis le baccalauréat\n Certificat de langue anglaise",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "Licence en Informatique, Maths-Informatique, Mathématiques",
+          "source_url": "https://www.formasup-auvergne.fr/formations/master-intelligence-artificielle",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Les apprenants doivent posséder les connaissances issues d’une Licence en Informatique, Maths-Informatique, Mathématiques ou d’un diplôme équivalent.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme_url",
+          "value": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Postuler en master informatique, en master intelligence artificielle et en master génie industriel",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "isima.fr",
+          "source_url": "https://www.isima.fr/postuler-en-master-informatique",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "https://www.isima.fr",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "Specific English language proficiency test thresholds (e.g. minimum overall IELTS/TOEFL scores or CEFR levels) are not defined in the source text beyond requiring a 'Certificat de langue anglaise'.",
+        "Application calendar and deadlines for the 2027 intake have not yet been published (current calendar is for 2026-2027).",
+        "Whether non-EU applicants applying via email to the ICS track must concurrently complete a Campus France / Études en France application for visa validation."
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "Informatique, Maths-Informatique, Mathématiques",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "PASS",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "FAIL",
+          "required_topics": [
+            "Compétences préalables en mathématiques et en informatique"
+          ],
+          "matched_topics": [],
+          "unmatched_topics": [
+            "Compétences préalables en mathématiques et en informatique"
+          ],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Candidatures M1 International of Computer Science ICS en formation initiale sur dossier à adresser par mail à sophie.walsh@uca.fr",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "PASS",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": []
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "The programme requires a 'Certificat de langue anglaise' without published thresholds; candidate's IELTS Speaking sub-score of 5.5 is below the common B2 CEFR sub-band benchmark (6.0), presenting an evaluation risk if sub-score minimums are applied.",
+        "The specified application route for the ICS track is direct email dossier submission to the coordinator, which may conflict with or require parallel compliance with mandatory Campus France / Études en France procedures for Pakistani applicants."
+      ],
+      "general_heuristics": [
+        "English-taught international tracks in French public engineering institutes and universities typically require CEFR B2 proficiency across all four language bands.",
+        "Direct email applications to departmental coordinators require diligent follow-up to ensure complete dossier reception and formal transmission to university admissions committees."
+      ],
+      "serious_risks": [
+        "Unverified official IELTS TRF status (official_trf_verified: false) risks rejection or delay during formal document authentication.",
+        "Applying for the 2027 intake based on 2026–2027 pilot track procedures leaves room for procedural modifications, deadline shifts, or route changes."
+      ],
+      "unresolved_questions": [
+        "What specific minimum overall and component IELTS/CEFR scores are required for the 'Certificat de langue anglaise'?",
+        "Must Pakistani applicants submitting via email also register and validate their dossier on the Études en France (EEF) platform concurrently?",
+        "What will be the exact application timeline and submission deadlines for the 2027 intake cycle?",
+        "Specific English language proficiency test thresholds (e.g. minimum overall IELTS/TOEFL scores or CEFR levels) are not defined in the source text beyond requiring a 'Certificat de langue anglaise'.",
+        "Application calendar and deadlines for the 2027 intake have not yet been published (current calendar is for 2026-2027).",
+        "Whether non-EU applicants applying via email to the ICS track must concurrently complete a Campus France / Études en France application for visa validation."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 87.0,
+      "evidence_confidence_score": 75.0,
+      "status": "VERIFIED",
+      "status_reason": null,
+      "hard_eligibility": 25.0,
+      "transcript_match": 18.0,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 7.5,
+      "total": 87.0
+    },
+    "cycle_readiness": "OPEN",
+    "classification": "Strong Fit — Language Verification Required",
+    "group": "C_LANGUAGE_VERIFICATION_REQUIRED",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  },
+  {
+    "programme": {
+      "programme_id": "ca9adec2279cd309",
+      "university": "Université de Montpellier",
+      "programme": "Master Informatique",
+      "track": "Génie logiciel",
+      "level": "M1",
+      "city": "Montpellier",
+      "campus": "Faculté des Sciences",
+      "public": true,
+      "programme_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154/genie-logiciel-PR476/m1-genie-logiciel-KMAH7TQP.html",
+      "canonical_cycle": {
+        "target_intake": "2027",
+        "status": "PENDING_PUBLICATION",
+        "opening_date": null,
+        "deadline": "Pending publication",
+        "source": null,
+        "last_verified": null
+      },
+      "application_route": "Études en France",
+      "application_route_info": {
+        "platform": "Études en France",
+        "status": "PASS",
+        "candidate_country_rule": "Pakistan is an Études en France (EEF) procedure country under Campus France.",
+        "university_instruction": "Candidature via plateforme Études en France pour les candidats des pays à procédure EEF (dont Pakistan).",
+        "target_cycle": null,
+        "opening_date": null,
+        "deadline": null,
+        "evidence": "[![Training catalog - UM](/skins/UMontpellier/resources/templates/common/img/logo-header.svg)![Training catalog - UM](/skins/UMontpellier/resources/templates/common/img/logo-header-mobile.svg)](/fr/index.html) * [Training courses](/fr/campus.html) + [Short courses](/fr/campus/formations-courtes.html",
+        "source_url": "https://formations-en.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+        "unresolved_items": []
+      },
+      "deadline": null,
+      "deadline_cycle": null,
+      "cycle_status": "PENDING_PUBLICATION",
+      "language": {
+        "teaching_language": [
+          "English",
+          "English",
+          "English"
+        ],
+        "ielts_accepted": null,
+        "ielts_overall_min": null,
+        "ielts_listening_min": null,
+        "ielts_reading_min": null,
+        "ielts_writing_min": null,
+        "ielts_speaking_min": null,
+        "toefl_min": null,
+        "english_cefr_required": null,
+        "french_level_required": null,
+        "french_cefr_required": null,
+        "english_medium_waiver_possible": null
+      },
+      "teaching_language_info": {
+        "status": "VERIFIED_ENGLISH",
+        "values": [
+          "English"
+        ],
+        "evidence": "Explicit teaching language specified.",
+        "source_url": null
+      },
+      "english_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "ielts_overall": null,
+        "ielts_speaking": null,
+        "ielts_listening": null,
+        "ielts_reading": null,
+        "ielts_writing": null,
+        "evidence": "Programme-specific English test thresholds not published.",
+        "source_url": null
+      },
+      "french_req_info": {
+        "status": "LANGUAGE_REQUIREMENT_UNVERIFIED",
+        "cefr": null,
+        "certificate_required": null,
+        "evidence": "Programme-specific French language proof requirements not published.",
+        "source_url": null
+      },
+      "programme_structure": {
+        "m1_entry": "PASS",
+        "m1_tracks": [],
+        "m2_tracks": [],
+        "specialization_starts_in": "M1",
+        "evidence": "Programme and track confirmed for M1 entry.",
+        "source_url": null
+      },
+      "transcript_match_info": {
+        "status": "UNVERIFIED",
+        "required_topics": [],
+        "matched_topics": [],
+        "unmatched_topics": [],
+        "matched_candidate_courses": [],
+        "coverage": 0.0
+      },
+      "explicit_prerequisites": [],
+      "accepted_degree_fields": [
+        "licence informatique (ou équivalent sur dossier)"
+      ],
+      "minimum_gpa_text": null,
+      "excellence_wording": null,
+      "capacity": null,
+      "applicant_count": null,
+      "admitted_count": null,
+      "entrance_exam_required": null,
+      "interview_required": null,
+      "official_university_domain": "umontpellier.fr",
+      "official_sources": [
+        {
+          "claim": "university",
+          "value": "Université de Montpellier",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Catalogue des formations - UM",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "programme",
+          "value": "Master Informatique",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "MASTER INFORMATIQUE",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "track",
+          "value": "Génie logiciel",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Ces cinq parcours sont : Algo (Algorithmique), GL (Génie Logiciel), Imagine (image et jeux vidéo), IASD (Intelligence Artificielle et Sciences des Données), ICo (Intégration de Compétences).",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "level",
+          "value": "M1",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Pour le M1, suivre la procédure « Mon Master » depuis le site :",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "accepted_degree_fields",
+          "value": "licence informatique (ou équivalent sur dossier)",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Titulaire d'une licence informatique (ou équivalent sur dossier) pour les parcours Algorithmique, Génie logiciel, Imagine et Intelligence artificielle et science des données.",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "application_route",
+          "value": "Études en France",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "Étudiants internationaux hors UE : suivre la procédure « Études en France » :",
+          "university": null,
+          "programme": null,
+          "track": null
+        },
+        {
+          "claim": "official_university_domain",
+          "value": "umontpellier.fr",
+          "source_url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "source_type": "official_university",
+          "retrieved_at": null,
+          "evidence_text": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+          "university": null,
+          "programme": null,
+          "track": null
+        }
+      ],
+      "unresolved_questions": [
+        "Teaching languages and explicit French/English CEFR language certification requirements are not specified in the catalogue overview page.",
+        "Application calendar and specific deadlines for the 2027 intake cycle are not yet published."
+      ],
+      "unresolved_fields": [
+        "teaching_language",
+        "capacity"
+      ],
+      "evidence_matrix": {
+        "degree_compatibility": {
+          "status": "PASS",
+          "evidence": "licence informatique (ou équivalent sur dossier)",
+          "source_url": null
+        },
+        "m1_eligibility": {
+          "status": "PASS",
+          "evidence": "Programme verified level: M1",
+          "source_url": null
+        },
+        "programme_structure": {
+          "status": "UNVERIFIED",
+          "evidence": null,
+          "source_url": null
+        },
+        "academic_prerequisites": {
+          "status": "UNVERIFIED",
+          "evidence": "0 matched courses (0%)",
+          "source_url": null
+        },
+        "transcript_match": {
+          "status": "UNVERIFIED",
+          "required_topics": [],
+          "matched_topics": [],
+          "unmatched_topics": [],
+          "matched_candidate_courses": [],
+          "coverage": 0.0
+        },
+        "teaching_language": {
+          "status": "PASS",
+          "evidence": "English, English, English",
+          "source_url": null
+        },
+        "english_requirement": {
+          "status": "UNVERIFIED",
+          "evidence": "IELTS min: B2 CEFR",
+          "source_url": null
+        },
+        "french_requirement": {
+          "status": "PASS",
+          "evidence": "French requirement: None stated for English track",
+          "source_url": null
+        },
+        "application_route": {
+          "status": "PASS",
+          "evidence": "Études en France",
+          "source_url": null
+        },
+        "cycle_2027": {
+          "status": "PENDING_PUBLICATION",
+          "evidence": "Status: PENDING_PUBLICATION (Target 2027)",
+          "source_url": null
+        },
+        "capacity": {
+          "status": "UNVERIFIED",
+          "evidence": "Not published",
+          "source_url": null
+        },
+        "selectivity": {
+          "status": "UNVERIFIED",
+          "evidence": "Historical selectivity not published",
+          "source_url": null
+        }
+      },
+      "scope_mismatch_flags": [],
+      "validation_status": "PASS",
+      "validation_notes": []
+    },
+    "eligibility": {
+      "degree_field": "PASS",
+      "level": "PASS",
+      "language": "PASS",
+      "french": "PASS",
+      "application_route": "PASS",
+      "deadline": "UNVERIFIED",
+      "evidence": "PASS",
+      "hard_fail": false,
+      "reasons": []
+    },
+    "curriculum_coverage": 0.0,
+    "skeptic": {
+      "fatal_issue": false,
+      "evidence_backed_risks": [
+        "Candidate IELTS speaking sub-score of 5.5 falls below the standard European B2 threshold (typically 6.0 per component) commonly enforced by French universities for English-taught programmes.",
+        "Candidate lacks an official DELF/TCF certificate despite having taken French courses, which presents a compliance risk if French proficiency proof is required.",
+        "IELTS TRF is unverified (official_trf_verified: false), which risks administrative rejection during dossier screening."
+      ],
+      "general_heuristics": [
+        "Standard national Master Informatique tracks (such as Génie Logiciel) at French public universities are typically taught in French; automated catalog scrapings listing 'English' often confuse metadata with actual instruction language.",
+        "Candidate CGPA of 3.23/4.0 meets baseline eligibility for a 4-year Bachelor's degree, but M1 Génie Logiciel is typically a high-demand, capacity-constrained track requiring strong academic standing.",
+        "Non-EU applications via Études en France require strict adherence to early calendar deadlines and formal credential attestation."
+      ],
+      "serious_risks": [
+        "High risk of rejection if the M1 Génie Logiciel track mandates B2 French proficiency, as the applicant has no certified DELF/DALF qualification.",
+        "Potential administrative disqualification if the programme enforces strict minimum IELTS band score requirements (e.g., minimum 6.0 across all components).",
+        "Transcript match coverage is currently unverified (0.0%), leaving uncertainty regarding whether specific prerequisite syllabus modules match UM's Licence Informatique requirements."
+      ],
+      "unresolved_questions": [
+        "What is the verified primary language of instruction (French or English) for the M1 Génie Logiciel track at Université de Montpellier?",
+        "What are the precise CEFR or IELTS minimum overall and sub-band score requirements for this specific track?",
+        "What is the official application timeline and deadline for Pakistani candidates applying through Études en France for the 2027 intake?",
+        "Does the admission committee require a formal DELF B2/C1 certificate for international candidates if French modules are included?",
+        "Teaching languages and explicit French/English CEFR language certification requirements are not specified in the catalogue overview page.",
+        "Application calendar and specific deadlines for the 2027 intake cycle are not yet published.",
+        "Target-cycle calendar is pending publication."
+      ]
+    },
+    "score": {
+      "profile_fit_score": 87.0,
+      "evidence_confidence_score": 63.0,
+      "status": "PROVISIONAL",
+      "status_reason": "exact language proof requirements unverified; academic prerequisites unverified",
+      "hard_eligibility": 25.0,
+      "transcript_match": 18.0,
+      "academic_competitiveness": 12.0,
+      "language_compatibility": 14.0,
+      "regional_visibility": 10.0,
+      "application_route": 0.0,
+      "sop_project_alignment": 8.0,
+      "evidence_quality": 6.3,
+      "total": 87.0
+    },
+    "cycle_readiness": "PENDING_PUBLICATION",
+    "classification": "Strong Fit — Language Verification Required",
+    "group": "C_LANGUAGE_VERIFICATION_REQUIRED",
+    "final_ready": false,
+    "rejected": false,
+    "rejection_reasons": [],
+    "validation_status": "PASS",
+    "validation_notes": []
+  }
+]

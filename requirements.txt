@@ -1,0 +1,6 @@
+langgraph
+pydantic>=2
+python-dotenv
+httpx
+beautifulsoup4
+pytest

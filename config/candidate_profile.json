@@ -1,0 +1,98 @@
+{
+  "candidate_id": "nasir_france_2027",
+  "nationality": "Pakistani",
+  "target": {
+    "country": "France",
+    "level": "M1",
+    "intake": "2027",
+    "preferred_fields": [
+      "Computer Science",
+      "Informatique",
+      "Software Engineering",
+      "Distributed Systems",
+      "Applied Computer Science",
+      "Information Systems",
+      "Applied Artificial Intelligence"
+    ],
+    "preferences": {
+      "public_university": true,
+      "outside_paris_strongly_preferred": true,
+      "smaller_or_medium_city_preferred": true,
+      "lower_international_visibility_preferred": true,
+      "english_taught_strongly_preferred": true
+    }
+  },
+  "degree": {
+    "title": "Bachelor of Science in Computer Science",
+    "institution": "COMSATS University Islamabad",
+    "campus": "Islamabad",
+    "duration_years": 4,
+    "credits": 133,
+    "cgpa": 3.23,
+    "scale": 4.0,
+    "completed": "2026-01",
+    "medium_of_instruction": "English"
+  },
+  "ielts": {
+    "overall": 6.5,
+    "listening": 7.5,
+    "reading": 6.0,
+    "writing": 6.5,
+    "speaking": 5.5,
+    "official_trf_verified": false
+  },
+  "french": {
+    "university_course_taken": true,
+    "formal_certificate": null,
+    "note": "Do not treat university French coursework as DELF/TCF/TEF equivalence."
+  },
+  "coursework": [
+    "Programming Fundamentals",
+    "Object-Oriented Programming",
+    "Data Structures and Algorithms",
+    "Design and Analysis of Algorithms",
+    "Discrete Structures",
+    "Database Systems",
+    "Operating Systems",
+    "Computer Networks",
+    "Computer Organization and Assembly Language",
+    "Theory of Automata",
+    "Graph Theory",
+    "Software Engineering",
+    "Web Technologies",
+    "Advanced Web Technologies",
+    "Mobile Application Development",
+    "Parallel and Distributed Computing",
+    "Compiler Construction",
+    "Information Security",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Calculus and Analytical Geometry",
+    "Linear Algebra",
+    "Differential Equations",
+    "Statistics and Probability Theory",
+    "Numerical Computations",
+    "Senior Design Project I",
+    "Senior Design Project II"
+  ],
+  "experience": {
+    "professional_software_development": true,
+    "professional_experience_label": "1+ year",
+    "full_stack": true,
+    "ai_rag_projects": true,
+    "production_projects": true
+  },
+  "projects": [
+    "BrainBee - AI/RAG learning platform",
+    "MobileShop SaaS / ERP-POS",
+    "NavDrive - Flutter/Mapbox navigation",
+    "Ride sharing app",
+    "Full-stack e-commerce platform"
+  ],
+  "rules": {
+    "never_fake_gpa_conversion": true,
+    "hard_fail_on_language_minimum_miss": true,
+    "do_not_treat_safe_fit_as_admission_probability": true,
+    "official_sources_required_for_final_shortlist": true
+  }
+}
