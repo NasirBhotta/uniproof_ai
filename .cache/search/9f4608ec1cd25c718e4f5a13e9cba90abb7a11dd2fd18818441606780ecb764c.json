@@ -1,0 +1,19 @@
+{
+  "query": "site:univ-lille.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Conception d'un noyau sécurisé pour objets contraints Design of ...",
+      "url": "https://pepite-depot.univ-lille.fr/LIBRE/EDMADIS/2022/2022ULILB038.pdf",
+      "snippet": "A ma famille A la mémoire de ceux qui m’ont précédé A mes rêves d’enfant Parvenu à l’issue de mon doctorat en informatique, et ayant ainsi pratiqué, dans ma quête du savoir, l’exercice d’une recherche scientifique exigeante, en cultivant la rigueur intellectuelle, la réflexivité éthique et dans le respect des principes de l’intégrité scientifique, je m’engage, pour ce qui dépendra de moi, dans la suite de ma carrière professionnelle quel qu’en soit le secteur ou le domaine d’activité, à [...] Le but est de minimiser les efforts pour 286 APPENDIX A. Résumé substantiel en français maintenir un coût de conception bas. En effet, la thèse s’appuie sur l’expertise de notre équipe de recherche qui a développé et formellement vérifié Pip. De plus, l’isolation est un principe de base en sécurité informatique mais aussi indispensable pour d’autres raisons telle que la sûreté de fonctionnement, la modularité logiciel, le recouvrement de fautes, la facilitation de l’évolution d’un systèmes.... [...] Academic Field Computer Science Specialty (in French) Informatique et applications Design of a secure kernel for constrained objects Thesis supervised by Gilles Grimaud Supervisor Julien Cartigny Co-Supervisor Chrystel Gaber Co-Monitor Committee members Referees Didier Donsez Professor at Université de Grenoble-Alpes, LIG Jean-Pierre Talpin Senior Researcher at INRIA Rennes Examiners Romain Rouvoy Professor at Université de Lille, CRIStAL (Chair) Marie-Laure Potet Professor at Université de",
+      "raw_content": null,
+      "score": 0.05582841
+    },
+    {
+      "title": "Se réorienter dans ses études",
+      "url": "https://www.univ-lille.fr/formation/sinformer-sorienter/se-reorienter",
+      "snippet": "Les candidatures sont à effectuer via l'application Réorientation. La liste des formations ouvertes à la réorientation (Formations ouvertes.pdf) Les",
+      "raw_content": null,
+      "score": 0.055275057
+    }
+  ]
+}

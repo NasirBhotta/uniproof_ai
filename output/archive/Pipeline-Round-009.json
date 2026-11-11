@@ -1,0 +1,526 @@
+{
+  "round_number": 9,
+  "stop_reason": "MAX_SEARCH_BUDGET",
+  "selected_regions": [
+    "Pays de la Loire",
+    "Bretagne",
+    "Grand Est"
+  ],
+  "universities_discovered": 10,
+  "programmes_discovered": 19,
+  "viable_newcomers": 0,
+  "searches_attempted": 12,
+  "remaining_budget": 0,
+  "summary_report": "output\\Research-Knowledge-Summary.md",
+  "round_report": "output\\Discovery-Round-009.md",
+  "latest_report": "output\\Discovery-Latest.md",
+  "new_universities_count": 0,
+  "known_universities_new_tracks": 9,
+  "frontiers_attempted": 12,
+  "queries_rewritten": 0,
+  "duplicate_queries_blocked": 0,
+  "provider_calls_attempted": 12,
+  "provider_calls_successful": 12,
+  "provider_failures": 0,
+  "cache_hits": 0,
+  "consecutive_actual_low_value": 0,
+  "candidates_deeply_verified": 0,
+  "pipeline": {
+    "migrated_records": 0,
+    "cycle1_processed": 19,
+    "cycle1_passed": 19,
+    "cycle1_rejected": 0,
+    "promoted_to_cycle2": 0,
+    "cycle2_processed": 0,
+    "cycle2_verified": 0,
+    "cycle2_rejected": 0,
+    "fields_refreshed": 0,
+    "pool_additions": 0,
+    "pool_replacements": 0,
+    "pool_unchanged_candidates": 19,
+    "errors": 0,
+    "external_searches": 6,
+    "cache_hits": 3,
+    "searches_saved_by_memory": 0,
+    "llm_calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "provider_failures": 0,
+    "page_fetches": 0,
+    "cycle1_searches": 6,
+    "cycle2_searches": 0,
+    "current_pool_size": 0,
+    "stage_events": [
+      {
+        "programme_id": "028f5367854acf53",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "028f5367854acf53",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "43cf5b2aaa70e380",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "43cf5b2aaa70e380",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4a3ef5df6b64898c",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4a3ef5df6b64898c",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4c72568ead718337",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4c72568ead718337",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "5605940865327872",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "5605940865327872",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "5f0d5760bf9e013b",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "5f0d5760bf9e013b",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "79300714efb5fded",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "79300714efb5fded",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "8a72e3ef3de4e569",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "8a72e3ef3de4e569",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "9042a3f5b173b9de",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "9042a3f5b173b9de",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "9784c86a2b2476e8",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "9784c86a2b2476e8",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "9d978747c9841be2",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "9d978747c9841be2",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "9e0dd93efec3b7af",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "9e0dd93efec3b7af",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "a48b1584ba90ec56",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "a48b1584ba90ec56",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "b6b55e9616c97508",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "b6b55e9616c97508",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "bb261f266a002db2",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "bb261f266a002db2",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "bc0baa758be4fe5e",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "bc0baa758be4fe5e",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "caab23a233ef2aff",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "caab23a233ef2aff",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "cd99a4e318ab87ea",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "cd99a4e318ab87ea",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "e6ac249d9d1093d5",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "e6ac249d9d1093d5",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "028f5367854acf53",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "028f5367854acf53",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "43cf5b2aaa70e380",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "43cf5b2aaa70e380",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "4a3ef5df6b64898c",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "4a3ef5df6b64898c",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "4c72568ead718337",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "4c72568ead718337",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "5605940865327872",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "5605940865327872",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "5f0d5760bf9e013b",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "5f0d5760bf9e013b",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "79300714efb5fded",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "79300714efb5fded",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "8a72e3ef3de4e569",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "8a72e3ef3de4e569",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "9042a3f5b173b9de",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "9042a3f5b173b9de",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "9784c86a2b2476e8",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "9784c86a2b2476e8",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "9d978747c9841be2",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "9d978747c9841be2",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "9e0dd93efec3b7af",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "9e0dd93efec3b7af",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "a48b1584ba90ec56",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "a48b1584ba90ec56",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "b6b55e9616c97508",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "b6b55e9616c97508",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "bb261f266a002db2",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "bb261f266a002db2",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "bc0baa758be4fe5e",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "bc0baa758be4fe5e",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "caab23a233ef2aff",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "caab23a233ef2aff",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "cd99a4e318ab87ea",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "cd99a4e318ab87ea",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "e6ac249d9d1093d5",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "e6ac249d9d1093d5",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      }
+    ],
+    "pending_counts": {
+      "CYCLE1_REJECTED": 5,
+      "LEGACY_REVIEW": 72,
+      "POOL_DROPPED": 39
+    },
+    "new_programmes_per_round": 19,
+    "promoted_programmes_per_round": 0,
+    "pool_replacements_per_round": 0,
+    "legacy_records_reviewed_without_cycle1_rerun": 0,
+    "legacy_first_cycle2_processed": 0,
+    "new_delta_promoted_to_cycle2": 0
+  },
+  "consecutive_rounds_without_pool_improvement": 2,
+  "regions_explored": 6,
+  "final_selection_ready": false
+}

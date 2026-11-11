@@ -1,0 +1,40 @@
+{
+  "query": "site:univ-reims.fr \"master informatique\" \"Reims\" parcours",
+  "results": [
+    {
+      "title": "Master informatique CHPS à Reims",
+      "url": "https://romeo.univ-reims.fr/chps/17_informations-pratiques.html",
+      "snippet": "#### TotalCMS\n\nPlus d'informations\n\n## Master Informatique CHPS\n\nReims\n\n# Master Informatique CHPS\n\n#### Eléments caractéristiques\n\n Le parcours HPC-Image-IA est ouvert à l'apprentissage (depuis sept. 2022)\n (sept. 2025) ouverture du parcours IA pour la Santé\n\n#### Infos pratiques (2026-2027)\n\nPour une présentation globale de la formation et les détails des deux parcours, consultez la rubrique LA FORMATION\n\n## Notre parcours HPC-Image-IA est ouvert à l'apprentissage [...] ## Les caractéristiques de notre formation (parcours HPC-Image-IA) [...] les caractéristiques du Master CHPS de Reims\n  + HPC et simulation\n  + s'appuie sur deux plateformes de l'URCA : Centre de calcul Romeo ; Centre Image\n  + nos spécificités : GPU ; imagerie numérique ; IA\n structure :\n  + organisation globale + détails\n  + détail des matières : noms, volumes horaires, modalités de contrôle\n  + synthèse des volumes horaires (hors stages) :\n    - M1 : 411h + projets tutorés + étude biliographique (70h)",
+      "raw_content": null,
+      "score": 0.8571119
+    },
+    {
+      "title": "Master informatique CHPS à Reims",
+      "url": "https://romeo.univ-reims.fr/chps",
+      "snippet": "### 2 parcours :\n\n1. HPC-Image-IA\n    Licence d'Informatique => M1 CHPS, parcours HPC-Image-IA  \n           procédure MonMaster\n    M1 CHPS => M2 CHPS, parcours HPC-Image-IA  \n           de droit (ou via eCandidat pour un changement d'établissement)\n2. IA pour la Santé (pas d'ouverture en 2026/2027)\n    M1 d'Informatique / étudiants et personnels de Santé => M2 parcours IA pour la Santé  \n           procédure eCandidat\n\n### 2 modalités : [...] #### TotalCMS\n\nPlus d'informations\n\n## Master Informatique CHPS\n\nReims\n\n# Master d'Informatique CHPS\n\n. Bac+5 en Informatique à Reims, à 40 minutes de Paris  \n . spécialisation en Calcul  Haute Performance (HPC), Simulation, Cloud, Big Data, Intelligence Artificielle, Apprentissage Profond, Deep Learning, Imagerie numérique et Visualisation Scienctifique [...] ### 2 modalités :\n\n1. Alternance (apprentissage / contrat de professionnalisation)  \n         le parcours HPC-Image-IA est ouvert à l'alternance (M1+M2 / M2)\n2. Formation initiale classique  \n         les deux parcours peuvent être suivis en formation initiale classique\n\nFiche RNCP, compétences, débouchés :",
+      "raw_content": null,
+      "score": 0.85538095
+    },
+    {
+      "title": "BUT Informatique – IUT Reims-Châlons-Charleville",
+      "url": "https://iut-info.univ-reims.fr/",
+      "snippet": "Analyser les besoins des utilisateurs.\n Concevoir et réaliser des applications informatiques.\n Optimiser la performance et la qualité logicielle.\n Administrer des systèmes d'informations.\n Gérer des pipelines de données.\n Conduire un projet informatique en équipe.\n\n## Parcours proposés à Reims\n\nÀ partir du semestre 3, les étudiants choisissent un parcours de spécialisation : [...] Poursuivre en master dans les domaines de l’informatique ou du numérique après la validation du BUT (fin de 3ᵉ année), sur dossier (plateforme mon master)\n Intégrer une école d’ingénieur sur dossier, avec des admissions possibles en fin de 2ᵉ ou de 3ᵉ année.\n S'insérer dans le monde profesionnel.\n\n## Équipe pédagogique\n\nLes enseignements sont conçus, organisés et dispensés en présentiel par une équipe pédagogique constituée : [...] Le Bachelor Universitaire de Technologie (BUT) Informatique est une formation universitaire en trois ans. Elle délivre un diplôme national (grade de Licence). Elle forme des spécialistes capables de concevoir, développer et déployer des solutions informatiques répondant aux besoins des organisations.\n\n3 ans Formation initiale\n\nSAÉ Projets encadrés évalués\n\n22 semaines Stages cumulés\n\nAlternance Possible en BUT3\n\n~2000h Enseignement\n\n45% Travaux Pratiques\n\n## Compétences développées",
+      "raw_content": null,
+      "score": 0.79293
+    },
+    {
+      "title": "Master informatique CHPS à Reims",
+      "url": "https://romeo.univ-reims.fr/chps/14_videos.html",
+      "snippet": "|  |  |\n --- |\n| Intelligence Artificielle & Deep Learning | Cloud & architecture et virtualisation des systèmes informatiques |\n| HPC, Calcul scientifique et applications. | Le Master Informatique CHPS bénéficie des plateaux techniques  Centre-Image et Centre de Calcul Régional ROMEO de l'URCA.  Le Master Informatique CHPS offre une formation en Intelligence Artificielle  dispensée par un formateur certifié du Deep Learning Institute. |\n| Algorithmique et Programmation | Imagerie numérique | [...] Chargement ... [...] | Réalité augmentée | Visualisation Scientifique |",
+      "raw_content": null,
+      "score": 0.74318707
+    },
+    {
+      "title": "Master Informatique",
+      "url": "https://www.univ-reims.fr/formation/catalogue-de-formation/master-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=1890",
+      "snippet": "Le parcours propose une formation complète en Intelligence Artificielle. Compétences acquises. BC 1 - RNCP34126BC01 - Usages avancés et spécialisés des outils",
+      "raw_content": null,
+      "score": 0.6578248
+    }
+  ]
+}

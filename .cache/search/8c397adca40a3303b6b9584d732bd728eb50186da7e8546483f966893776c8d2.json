@@ -1,0 +1,26 @@
+{
+  "query": "site:unicaen.fr \"Master Informatique Science des Données et IA\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Informatique · Université de Caen Normandie",
+      "url": "https://uniform.unicaen.fr/catalogue/formation/master/7622-master-informatique",
+      "snippet": "## Attendus\n\nPour réussir dans ce master, il est conseillé de maîtriser les fondamentaux de l’informatique et avoir une appétence particulière pour la pluridisciplinarité.\n\n## Conditions d'accès\n\n### Conditions d'accès en première année du diplôme\n\nPour accéder au master Informatique, vous devez avoir obtenu de préférence une licence Informatique ou Mathématiques appliquées, ou Mathématiques générales ou autre diplôme bac+3 équivalent. [...] Vous avez validé un autre M1 en informatique et souhaitez rejoindre le parcours Intelligence artificielle, sciences des données et santé en 2e année ? Vous pouvez candidater sur eCandidat.\n\n## Capacité d'accueil\n\nLe master Informatique offre 65 places, dont 20 pour le parcours Intelligence artificielle et facteurs humains.\n\n## Procédure d'inscription\n\nLa procédure d’inscription se passe en 3 étapes :\n\n### Candidature\n\nPour vous inscrire [...] La formation est disponible sur Mon Master. La sélection se fait sur dossier :\n\n Qualité du cursus antérieur\n Lettre de motivation démontrant votre projet professionnel et universitaire\n CV\n\n### Niveau de langue requis\n\nNiveau minimum de connaissance du français exigé : C1\n\nNiveau minimum de connaissance de l'anglais : B2\n\n### Conditions particulières\n\n### Conditions d'accès en 2e année\n\nSi vous avez validé votre M1 dans ce master, vous accédez de droit au M2.",
+      "raw_content": null,
+      "score": 0.51822984
+    },
+    {
+      "title": "Master Informatique · Université de Caen Normandie",
+      "url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+      "snippet": "## Attendus\n\nPour réussir dans ce master, il est conseillé de maîtriser les fondamentaux en informatique et avoir de bonnes connaissances en mathématiques.\n\n## Conditions d'accès\n\n### Conditions d'accès en première année du diplôme\n\nPour accéder au master Informatique, vous devez avoir obtenu de préférence une licence Informatique ou Mathématiques appliquées, ou Mathématiques générales ou autre diplôme bac+3 équivalent. [...] Intelligence artificielle et Science des données :\n  + CODAG (Contraintes, Ontologies, Données, Annotations, Graphes) : fouille de données, contraintes et graphes\n  + IMAGE : traitement et analyse de signaux, images et vidéos\n  + MAD (Modèles, Agents et Décision) : agents autonomes et systèmes multi-agents\n Algorithmique et structures informatiques :\n  + AMACC (Algorithmes, modèles de calcul, aléa, combinatoire, complexité) : recherche en informatique mathématique et modèles de calcul [...] La formation est disponible sur Mon Master. La sélection se fait sur dossier :\n\n Qualité du cursus antérieur\n Lettre de motivation démontrant votre projet professionnel et universitaire\n CV\n\n### Niveau de langue requis\n\nNiveau minimum de connaissance du français exigé : C1\n\nNiveau minimum de connaissance de l'anglais : B2\n\n### Conditions particulières\n\n### Conditions d'accès en 2e année\n\nSi vous avez validé votre M1 dans ce master, vous accédez de droit au M2.\n\n## Capacité d'accueil",
+      "raw_content": null,
+      "score": 0.51457167
+    },
+    {
+      "title": "Master Sciences de la mer · Université de Caen Normandie",
+      "url": "https://uniform.unicaen.fr/catalogue/formation/m/7746-master-sciences-de-la-mer?e=FI",
+      "snippet": "À ces enseignements scientifiques et techniques s’ajoutent, en M1 et en M2, des matières transversales pour préparer votre insertion professionnelle ou dans la recherche :\n\n Anglais et traitement de données\n Mises en situation professionnelle (projet professionnel étudiant, travail d’étude et de recherche de 8 semaines en M1, stages en laboratoire ou en entreprise selon votre l’option choisie en M2)\n Une formation de plongée niveau PE20 est également proposée mais elle n’est pas obligatoire.",
+      "raw_content": null,
+      "score": 0.10901163
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-littoral.fr \"Master Informatique Web et Science de donn?es (WeDSci)\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "[PDF] Master MSPI Mention Informatique Guide des études Année ...",
+      "url": "https://www.univ-littoral.fr/wp-content/uploads/2021/11/guide_master_info.pdf",
+      "snippet": "4 Conditions d'accès / Admission Formation initiale.\nLe M1 est accessible, sur dossier de candidature, à tout étudiant de l'ULCO ou hors ULCO ayant validé 180 crédits ECTS avec une dominante informatique.\nL'admission en 2ème année de Master est de droit pour les étudiants qui ont validé la première année du Master WeDSci ou I2L au sein de l'ULCO. Le redoublement en M2 n'est pas de droit. [...] M1 informatique (cf page 9) ; \u0016 En première année, suite aux enseignements académiques, les étudiants e\u001bectueront un projet au sein de l'université. Cinq semaines - d'avril à mi-juin - seront consacrées à ce projet. Le projet sera sanctionné par une soutenance orale et par un rapport. Cette période supplémentaire est imposée seulement aux étudiants du parcours WeDSci. [...] Parcours WeDSci L'objectif du Master WeDSci est de former des informaticien(ne)s de haut niveau en intégration de solutions Web et à base de technologies issues du monde de l'Intelligence Arti\u001ccielle, en particulier les outils du Big Data. L'étudiant(e) issu(e) de la formation sera en capacité de mener à bien des projets de développement principalement Web et mobile au sein d'architectures complexes. L'étudiant(e) sera alors sensibilisé(e) à l'ensemble du processus de dé-veloppement : design,",
+      "raw_content": null,
+      "score": 0.81875163
+    },
+    {
+      "title": "[PDF] Master MSPI Mention Informatique Guide des études Année ...",
+      "url": "https://www.univ-littoral.fr/wp-content/uploads/2025/02/Guide_Master-I2L.pdf",
+      "snippet": "4 Conditions d’accès / Admission Formation initiale.\nLe M1 est accessible, sur dossier de candidature, à tout étudiant de l’ULCO ou hors ULCO ayant validé 180 crédits ECTS avec une dominante informatique.\nL’admission en 2ème année de Master est de droit pour les étudiants qui ont validé la première année du Master WeDSci ou I2L au sein de l’ULCO. Le redoublement en M2 n’est pas de droit. [...] M1 informatique (cf page 9) ; — En première année, suite aux enseignements académiques, les étudiants effectueront un projet au sein de l’université. Cinq semaines - d’avril à mi-juin - seront consacrées à ce projet. Le projet sera sanctionné par une soutenance orale et par un rapport. Cette période supplémentaire est imposée seulement aux étudiants du parcours WeDSci.",
+      "raw_content": null,
+      "score": 0.8173562
+    },
+    {
+      "title": "Master WeDSci – Département Informatique et Signal",
+      "url": "https://dpt-info.univ-littoral.fr/?page_id=29",
+      "snippet": "La poursuite d’études en doctorat est possible.\n\nCette formation est ouverte en alternance et en formation initiale.\n\nCapacité d’accueil : 12 apprenti(e)s et 12 étudiant(e)s en formation initiale\n\n## Public concerné\n\n titulaires d’une Licence informatique ou équivalent (120 crédits)\n titulaires d’un Bachelor en informatique\n titulaires d’une première année de cycle d’ingénieurs spécialité Informatique\n\n## Procédure d’admission\n\nDossier à déposer sur la plate-forme MonMaster : [...] en formation initiale : \n en alternance : \n\nÉtude du dossier et entretien individuel pour les candidats sélectionnés.\n\nLes dossiers sont étudiés pour l’entrée en master 1 (et en master 2) selon les résultats des années passées, de la motivation du candidat à suivre une formation en master informatique, et du projet professionnel. Il est à noter que nous privilégions les étudiants n’ayant pas obtenu un master ou niveau équivalent dans la même discipline.\n\n## Compétences visées [...] maîtrise des infrastructures logicielles (web, mobile, multi-tiers, embarquée, …)\n maîtrise des méthodologies agiles\n maîtrise des environnements de développement et de déploiement du logiciel selon les principes Devops\n intégration de solutions à base d’IA\n maîtrise des outils Big Data\n initiation à la recherche (projet en collaboration avec un laboratoire de recherche)\n initiation à l’entreprenariat\n\n## Métiers visés",
+      "raw_content": null,
+      "score": 0.71758664
+    }
+  ]
+}

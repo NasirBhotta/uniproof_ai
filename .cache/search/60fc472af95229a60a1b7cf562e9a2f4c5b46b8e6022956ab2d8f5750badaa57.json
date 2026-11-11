@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rouen.fr \"Master Informatique SSI\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Conditions d'admission",
+      "url": "https://dpt-info-sciences.univ-rouen.fr/index.php/ssiadmission",
+      "snippet": "est de plein droit pour les titulaires de la première année du master Informatique, ayant suivi les options SSI ;\n se fait sur dossier pour les titulaires d'une première année d'un master d'informatique fondamentale ou d'un diplôme jugé équivalent. L'étudiant(e) doit avoir un niveau au moins B2 en anglais pour valider l'année de M2.\n\nPour les étudiants étrangers, le niveau requis en français est au minimum B2 pour le master 1, et C1 pour le master 2. [...] Il est demandé pour toute candidature de joindre une lettre de motivation précisant le parcours de M2 souhaité (GIL, SSI ou ITA).\n\nPour les étudiants étrangers, le niveau requis en français est au minimum B2 pour le master 1, et C1 pour le master 2.\n\n# Admission en M2, parcours SSI\n\nL'admission en deuxième année du master SSI :",
+      "raw_content": null,
+      "score": 0.67885995
+    },
+    {
+      "title": "Master Informatique, Sécurité des Systèmes ...",
+      "url": "https://formation.univ-rouen.fr/plugins/odf-web/www/_content/subprogram-subprogram-master-informatique-securite-des-systemes-informatiques-fr-2-fr-2/Master%20Informatique,%20S%C3%A9curit%C3%A9%20des%20Syst%C3%A8mes%20Informatiques.pdf",
+      "snippet": "- il maîtrise la langue anglaise (niveau B2 minimum) Objectifs Le titulaire du master Informatique, spécialité Sécurité des Systèmes informatiques est capable d'appréhender les différents problèmes liés à la sécurité dans le domaine de l'informatique.\nLes connaissances théoriques et pratiques acquises par le titulaire lui permettent : 1 / 6 Informations non contractuelles. [...] SCIENCES, TECHNOLOGIES, SANTÉ Master Informatique, Sécurité des Systèmes Informatiques Master Informatique  ECTS 120 crédits  Durée 2 années  Composante UFR Sciences et Techniques Présentation  L'équipe pédagogique du master Informatique, parcours SSI (Sécurité des Systèmes Informatiques) est composée : - d'enseignants et enseignants chercheurs membres du département d'informatique de l'UFR Sciences et Techniques et du Laboratoire LITIS, - de professionnels issus d'entreprises réputées dans [...] Cette dualité garantit un enseignement théorique et professionnel de grande qualité pour nos étudiants.\nLe master SSI a su tisser des relations privilégiées avec le monde de l’entreprise, facilitant ainsi l’accès à l’emploi et aux stages.",
+      "raw_content": null,
+      "score": 0.65835214
+    },
+    {
+      "title": "Master Informatique, Sécurité des Systèmes Informatiques - Catalogue des formations - Université de Rouen Normandie",
+      "url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+      "snippet": "- il connaît les méthodes, normes, certifications et guides (ISO 2700x, analyse de risques, PCA, PCI-DSS, ANSSI, CC, etc), le droit applicable au niveau français et international dans le domaine de la sécurité informatique,   \n- il sait travailler en équipe (gestion de projet) et en autonomie.  \n- il maîtrise la langue anglaise (niveau B2 minimum) [...] ### Master Informatique 1ère année\n\n ## UE1 Humanités\n\n  3 crédits\n\n  + ## Anglais\n\n    2 crédits\n  + ## Qualité et gestion en entreprise\n\n    1 crédits\n ## UE2 Calculabilité\n\n  4 crédits\n\n  + ## Calculabilité\n ## UE3 Langages Web\n\n  4 crédits\n\n  + ## Langages Web\n ## UE4 Bases de Données Avancées\n\n  4 crédits\n\n  + ## Bases de Données Avancées\n ## UE5 Administration Système\n\n  4 crédits\n\n  + ## Administration Système\n ## UE6 Spécialisation - S1\n\n  11 crédits\n\n  + ## 1 choix parmi 3 [...] Cette dualité garantit un enseignement théorique et professionnel de grande qualité pour nos étudiants.  \nLe master SSI a su tisser des relations privilégiées avec le monde de l’entreprise, facilitant ainsi l’accès à l’emploi et aux stages.",
+      "raw_content": null,
+      "score": 0.53079647
+    }
+  ]
+}

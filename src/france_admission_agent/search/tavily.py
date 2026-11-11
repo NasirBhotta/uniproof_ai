@@ -52,8 +52,10 @@ class TavilySearchClient:
                 response.raise_for_status()
                 data = response.json()
         except (httpx.TimeoutException, httpx.HTTPError) as e:
-            print(f"[!] Warning: Tavily search query timed out or failed: '{query[:60]}...' ({e})")
-            return SearchBatch(query=query, results=[])
+            # Preserve failure provenance without serializing credentials or response bodies.
+            status = e.response.status_code if isinstance(e, httpx.HTTPStatusError) else None
+            error = type(e).__name__ + (f" (HTTP {status})" if status else "")
+            return SearchBatch(query=query, results=[], error=error)
 
         results = []
         for item in data.get("results", []):

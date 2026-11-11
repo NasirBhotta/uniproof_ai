@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-lille.fr \"Master Science des données Data Science\" M1 prérequis admission formation ouverte fermeture",
+  "results": [
+    {
+      "title": "Guide des études - univ-lille.fr",
+      "url": "https://icid.univ-lille.fr/filedeccid/user_upload/SID/Documents/Guide_des_etudes/23-24/GDE_MASTER2_GIDE_Infodoc_2023_2024.pdf",
+      "snippet": "Pré-requis : Cours de base de données en master 1 Compétences visées : • Connaître la spécificité des différents systèmes de gestion de l’information et des documents. • Concevoir un schéma conceptuel de données à partir d’une situation professionnelle concrète. • Connaitre les principaux éléments devant figurer dans un cahier des charges fonctionnel.\nBibliographie : • Bigand M. Conception des systèmes d’information : modélisation des données, études de cas, Technip, 2006. [...] Pré-requis : Quelques notions de base dispensées en M1 (cours de recueil et d’analyse de données) ou l’équivalent. [...] Pré-requis : Un master 1 en sciences de l’information comprenant au moins des cours de Gestion Electronique de Document, de communication numérique et de méthodologie de collecte et traitement des données en sciences sociales Compétences visées : Savoir identifier et diagnostiquer un besoin de gestion des connaissances puis proposer une solution adéquate visant à l’amélioration de l’existant.",
+      "raw_content": null,
+      "score": 0.42362547
+    },
+    {
+      "title": "Guide des études - ICID - Université de Lille",
+      "url": "https://icid.univ-lille.fr/filedeccid/user_upload/SID/Documents/Guide_des_etudes/23-24/GDE_MASTER2_VECIS_Infodoc_2023_2024.pdf",
+      "snippet": "Pré-requis : Quelques notions de base dispensées en M1 (cours de recueil et d’analyse de données) ou l’équivalent. [...] L’approche pédagogique proposée alterne des exposés théoriques et des exercices pratiques, ces derniers doivent permettre aux étudiants de mettre en pratiques les concepts abordés dans la partie théorique du cours — Lincence Infodoc Guide des études 33 Pré-requis : Savoir manipuler un éditeur de texte basique / Maîtrise de la modélisation des données (Dictionnaire des données, Modèle conceptuel, modèle logique) / Maîtriser les notions vues en cours Normes et Formats (Master 1 SID) Compétences [...] Pré-requis : Avoir suivi le cours « approche socio-cognitive de l’information » du Master 1 ou équivalent.\nCompétences visées : • Savoir situer le cadre conceptuel des travaux et analyses en Sciences de l’information et de la communication. • Approfondir la connaissance des modèles analytiques appliqués à l’étude et à l’expertise des pratiques informationnelles et des services documentaires à travers une approche socio-cognitive et sémiotique l’information.",
+      "raw_content": null,
+      "score": 0.3492669
+    },
+    {
+      "title": "2023 - 2024 - Guide des études - Université de Lille",
+      "url": "https://icid.univ-lille.fr/filedeccid/user_upload/SID/Documents/Guide_des_etudes/23-24/GDE_MASTER_CO_APP_Infocom_2023_2024.pdf",
+      "snippet": "Retrouvez toutes les conditions de prêt sur :  Horaires d’ouverture Lundi : 9h - 18h30 Mardi-jeudi : 8h30 - 18h30 Vendredi : 8h30 - 17h Equipe Marie-Aurore HIEN (responsable) marie-aurore.hien@univ-lille.fr Tél : 03.20.41.74.58 @bibliothequeInfocomLille @InfocomBib @bibliotheque_infocom La bibliothèque Infocom — Lincence Infodoc Guide des études 12 Le règlement des études du département ACCÈS, DOUBLEMENT, ENJAMBEMENT L’accès au M1 n’est pas un passage de droit. Il est soumis à lé décision d’une [...] supports ; • Comprendre les contraintes (techniques, juridiques) ; • Connaître les possibles expressions de ces médias interactifs et les analyser en relation avec les objectifs de l’organisation qui les porte ; • Dimension marketing : analyse d’audience, acquisition d’audience qualifiée, fidélisation du public ; • Dimension juridique et bonnes pratiques autour de la donnée : RGPD ; • Les nouvelles techniques (responsive design, html5), la data ; Pré-requis : connaissances générales [...] L’accès au M2 se fait de droit pour les étudiants ayant validé le M1 de la même mention (qui est un tronc commun). Il se fait de manière sélective sur dossier pour les autres.\nConcernant le doublement d’une année, les règles (§4.2.3) sont acceptées. L’enjambement en Licence (L1-L2 ou L2-L3) doit être soumis à une décision individuelle du jury de manière annuelle.\nLe DEUST Métiers des bibliothèques et de la documentation déroge à la règle du non-enjambement.",
+      "raw_content": null,
+      "score": 0.1119482
+    }
+  ]
+}

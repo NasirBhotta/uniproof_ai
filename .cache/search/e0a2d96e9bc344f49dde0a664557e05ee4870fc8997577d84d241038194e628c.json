@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"Master Informatique Ingénierie du logiciel\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Parcours Ingénierie du logiciel, applications aux données ...",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Ing%C3%A9nierie%20du%20logiciel,%20applications%20aux%20donn%C3%A9es%20environnementales.pdf?contentId=subProgramContent%3A%2F%2F183ad319-452d-4cec-90c6-43d07875c506",
+      "snippet": "> Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] > Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] 20 crédits ECTS Volume horaire Stages : 16h Pré-requis nécessaires Maîtriser les outils et méthodes du développement logiciel.\nCompétences visées Savoir mener un travail de développement logiciel en tant qu’ingénieur informatique. : - Capacité à appréhender le cycle de vie d'un projet de développement conséquent et réaliste.\n- Capacité à intégrer une équipe de développement.\n- Capacité à mobiliser ses connaissances théoriques et pratiques pour résoudre un problème d'ingénierie informatique.",
+      "raw_content": null,
+      "score": 0.8051581
+    },
+    {
+      "title": "Parcours Technologies de l'information et ingénierie du logiciel ...",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Technologies%20de%20l'information%20et%20ing%C3%A9nierie%20du%20logiciel%20par%20alternance.pdf?contentId=subProgramContent%3A%2F%2F982a2e5b-f758-46b9-ab1e-0ed46436a4f5",
+      "snippet": "> Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] > Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] Conditions d'accès Accès en master 1 > être titulaire d'une licence d'informatique généraliste ou d'un titre équivalent Poursuite d'études Les diplômés du master TIIL-A ont pour principale vocation d'intégrer une entreprise dès l'issue de leur formation, typiquement dans la continuité de leurs contrats de professionnalisation.",
+      "raw_content": null,
+      "score": 0.7997713
+    },
+    {
+      "title": "Parcours Logiciels pour systèmes embarqués",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Logiciels%20pour%20syst%C3%A8mes%20embarqu%C3%A9s.pdf?contentId=subProgramContent%3A%2F%2F1a29a8b6-0379-4fd1-8fab-a2de798d837c",
+      "snippet": "> Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier.",
+      "raw_content": null,
+      "score": 0.69573146
+    }
+  ]
+}

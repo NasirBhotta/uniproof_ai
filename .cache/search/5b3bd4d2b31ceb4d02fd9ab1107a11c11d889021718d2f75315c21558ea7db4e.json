@@ -1,0 +1,12 @@
+{
+  "query": "site:monmaster.gouv.fr \"informatique\" \"Toulouse\"",
+  "results": [
+    {
+      "title": "monmaster mon master",
+      "url": "https://monmaster.gouv.fr/formation/0753471R/1604794MY5FW/detail",
+      "snippet": "No information is available for this page.",
+      "raw_content": null,
+      "score": 0.026197992
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "query": "site:monmaster.gouv.fr master informatique Corse",
+  "results": [
+    {
+      "title": "La saisine du recteur — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/la-saisine-du-recteur",
+      "snippet": "Il s'agit d'un cursus en deux ans (sans sélection entre la première et la seconde année) mais qui repose sur un processus de recrutement à l'entrée en première",
+      "raw_content": null,
+      "score": 0.09892066
+    },
+    {
+      "title": "mon master.gouv.fr",
+      "url": "https://monmaster.gouv.fr/formation",
+      "snippet": "No information is available for this page.",
+      "raw_content": null,
+      "score": 0.05018624
+    }
+  ]
+}

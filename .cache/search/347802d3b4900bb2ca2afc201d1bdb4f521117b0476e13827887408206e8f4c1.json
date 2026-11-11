@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rennes.fr \"Master Informatique Science Informatique\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique - ISTIC - Université de Rennes",
+      "url": "https://istic.univ-rennes.fr/sites/istic.univ-rennes.fr/files/medias/files/Fiche%20formation%20Master%20SIF.pdf",
+      "snippet": "En pratique Type de diplôme : Master Crédits (ECTS) : 120 Durée : 2 ans Niveau de sortie : Bac +5 Modalités pédagogiques : présentiel Lieu : Campus de Beaulieu - Rennes Langue : Anglais Type de formation •\tFormation initiale •\tFormation continue Prérequis •\tLicence en Informatique Chiffres clés •\t90% des diplômés trouvent un emploi dans les 6 mois après la formation. [...] A titre d’exemple, les étudiant·e·s peuvent apprendre l’architecture avancée des machines avec André Seznec, distingué par un prestigieux Intel Oustanding Researcher Award, l’infographie avec Maud Marchal, lauréate de la très sélective European ERC grant, mais aussi les langages spécifiques à un domaine avec Jean-Marc Jezequel, Médaille d’Argent du CNRS.\nAfin d’accueillir les étudiants·e·s étrangere·s , toutes les notes de cours et la plupart des conférences sont en anglais. [...] Master Informatique parcours Science Informatique (SIF) Présentation Le parcours Science Informatique (SIF) est dédié aux étudiant·e·s intéressé·e·s par une carrière dans la recherche en informatique. Cette orientation recherche est adossée à l’IRISA et à l’Inria/RBA, qui forment ensemble le plus grand laboratoire d’informatique de France. Grâce à cet adossement, le Master SIF offre un large choix de cours à la pointe de la recherche dans les différents domaines de l’informatique.",
+      "raw_content": null,
+      "score": 0.47913864
+    },
+    {
+      "title": "Partir à l'étranger | ISTIC",
+      "url": "https://istic.univ-rennes.fr/partir-letranger",
+      "snippet": "Les étudiants peuvent acquérir au cours de leur formation à l'ISTIC une expérience internationale substantielle, sous forme de stages ou de période d'étude à l'étranger.  \n Un niveau minimum en anglais est requis pour la validation du diplôme d'ingénieur, fortement recommandé pour les Master, et nous proposons un large choix de deuxième langue vivante (allemand, espagnol, chinois, japonais,...). [...] Conditions d'accès : on vous demandera souvent de justifier déjà d'une expérience professionnelle. Voir sur le site d'ETS les tests psychotechniques qui vous seront demandés pour des études au niveau graduate studies en plus du TOEFL.\n Financement : les frais de scolarité sont très élevés, mais le MBA apporte une importante plus-value sur le marché du travail.\n\nPour faire un PhD (Doctorat) : [...] Si une période d'études effectuée à l'étranger représente un atout pour votre future carrière, il est important de bien réfléchir au programme d'études que vous allez suivre, et à la cohérence de votre parcours. Une correspondance de 100 % étant quasiment impossible, des écarts sont possibles à condition que l'ensemble de votre formation (ISTIC + étranger) soit cohérent. Vu la structure des formations de l'ISTIC, le moment optimal pour partir se situe au niveau M1 avant de choisir une",
+      "raw_content": null,
+      "score": 0.22248083
+    },
+    {
+      "title": "Financial Technologies Track - EIT Digital Master School | ISTIC",
+      "url": "https://istic.univ-rennes.fr/en/node/1325",
+      "snippet": "Semester 1\n:    CU Object-Oriented Analysis and Design\n     CU Data Warehouses and NoSQL\n     CU Basics of Data Analysis\n     CU Innovation and Entrepreneurship\n     CU Business Development Lab1\n     Minor units\n      + CU Introduction to Finance\n      + CU Operations Research\n        - Module - Modelling and Discrete Optimisation\n        - Project - Operations Research [...] Two-year studies in English in two different European universities\n Two degrees from both universities and a certificate in Innovation & Entrepreneurship awarded by the European Institute of Innovation and Technology\n An internship at a company or a research institute\n Participation in a three-day business challenge, a two-week Summer School and a Graduation Ceremony\n Benefit from the EIT Digital business and alumni community [...] This new EIT Digital programme is under the European coordination of the University of Rennes and emerges in a crucial moment in which several disruptive technologies have impacted the financial ecosystem with strong investment from large companies. Strongly based on data science knowledge, our European programme on FinTech is aimed at training the new generation of computer science professionals that will develop this emerging sector.",
+      "raw_content": null,
+      "score": 0.04039294
+    }
+  ]
+}

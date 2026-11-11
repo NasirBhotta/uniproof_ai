@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-reims.fr \"Master Informatique HPC\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Master informatique CHPS à Reims",
+      "url": "https://romeo.univ-reims.fr/chps",
+      "snippet": "### 2 parcours :\n\n1. HPC-Image-IA\n    Licence d'Informatique => M1 CHPS, parcours HPC-Image-IA  \n           procédure MonMaster\n    M1 CHPS => M2 CHPS, parcours HPC-Image-IA  \n           de droit (ou via eCandidat pour un changement d'établissement)\n2. IA pour la Santé (pas d'ouverture en 2026/2027)\n    M1 d'Informatique / étudiants et personnels de Santé => M2 parcours IA pour la Santé  \n           procédure eCandidat\n\n### 2 modalités : [...] ### 2 modalités :\n\n1. Alternance (apprentissage / contrat de professionnalisation)  \n         le parcours HPC-Image-IA est ouvert à l'alternance (M1+M2 / M2)\n2. Formation initiale classique  \n         les deux parcours peuvent être suivis en formation initiale classique\n\nFiche RNCP, compétences, débouchés : [...] 1. fiche RNCP 39279 : Master CHPS / pdf\n2. objectif : répondre à une demande de plus en plus forte de compétences de haut niveau en :\n    Calcul haute performance (HPC), cloud\n    Imagerie numérique, simulation\n    Données, Intelligence Artificielle et Deep Learning\n3. Les emplois envisagés sont notamment :\n    ingénieur HPC\n    ingénieur en conduite de projet\n    en imagerie médicale\n    data scientist\n    consultant en Informatique\n    ...\n\nRetour en images....",
+      "raw_content": null,
+      "score": 0.5463757
+    },
+    {
+      "title": "Master informatique CHPS à Reims",
+      "url": "https://romeo.univ-reims.fr/chps/17_informations-pratiques.html",
+      "snippet": "3 façons de vous y inscrire :\n  + contrat d'apprentissage (FI)\n  + contrat de professionnalisation (FC)\n  + étudiant \"classique\" (FI, sans contrat) : début du stage à partir de janvier, en alternance, en suivant le même rythme d'alternance que les apprentis\n rythme de l'année :\n  + calendrier global 2026-2027, pour les 2 années, avec les dates de jury, etc.\n  + calendrier spécifique CFA pour le M1+M2 (2026-2027 + 2027-2028)\n  + calendrier spécifique CFA pour le M2 (2026-2027) [...] #### TotalCMS\n\nPlus d'informations\n\n## Master Informatique CHPS\n\nReims\n\n# Master Informatique CHPS\n\n#### Eléments caractéristiques\n\n Le parcours HPC-Image-IA est ouvert à l'apprentissage (depuis sept. 2022)\n (sept. 2025) ouverture du parcours IA pour la Santé\n\n#### Infos pratiques (2026-2027)\n\nPour une présentation globale de la formation et les détails des deux parcours, consultez la rubrique LA FORMATION\n\n## Notre parcours HPC-Image-IA est ouvert à l'apprentissage [...] ## Les caractéristiques de notre formation (parcours HPC-Image-IA)",
+      "raw_content": null,
+      "score": 0.4689128
+    },
+    {
+      "title": "Master informatique CHPS à Reims",
+      "url": "https://romeo.univ-reims.fr/chps/2_master-1.html",
+      "snippet": "| Matières | ECTS | CM | TD | TP |\n ---  --- \n| UE1 | Algorithmique et programmation parallèle | 4 | 20 | 10 | 10 |\n| Architecture HPC | 2 | 10 | 10 \n| UE2 | Administration système | 3 | 14  16 |\n| Apprentissage profond | 3 | 14  16 |\n| UE3 | Informatique graphique et réalité virtuelle | 3 | 10 | 10 | 10 |\n| Traitement d'images | 3 | 10 | 10 | 10 |\n| UE4 | Génie logiciel | 3 | 10 | 10 | 10 |\n| Introduction aux éléments finis | 3 | 14 | 6 | 10 |\n| UE5 | Anglais | 4 | 30 | [...] #### TotalCMS\n\nPlus d'informations\n\n## Master Informatique CHPS\n\nReims\n\n# Master 1 Informatique CHPS\n\nCampagne de candidature : 23 avril au 20 mai 2022\n\nCandidater au Master 1 Informatique CHPS\n\nPour candidater, une fois connecté, sur le menu de gauche choisissez \"Candidatures\", puis \"nouvelle candidature\" puis \"M1 Calcul haute performance, simulation\" [...] Chaque semestre est composé de  5 UE dont au moins 3 sont disciplinaires. Les UE sont organisées en 2 EC. Les problématiques suivantes – dans un contexte HPC – sont abordés chaque semestre :\n\n l’algorithmique et la programmation;\n l’imagerie numérique;\n l’architecture et les données.\n\nAvec un approfondissement dans le déroulement des deux années.\n\nLien vers le descriptif des matières du Master 1 Informatique CHPS  (2020-2021)",
+      "raw_content": null,
+      "score": 0.23514394
+    }
+  ]
+}

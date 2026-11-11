@@ -1,0 +1,12 @@
+{
+  "query": "site:univ-st-etienne.fr \"Master Informatique Cyber\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Licence Informatique - Université Jean Monnet",
+      "url": "https://www.univ-st-etienne.fr/fr/formation/licence-XA/licence-XA/licence-informatique-3_09_04_0002_FR.html",
+      "snippet": "L’obtention de la Licence d’Informatique permet aux étudiants de poursuivre leurs études en Master d’informatique, et en particulier dans un des parcours du Master Informatique de la Faculté des Sciences et Techniques : Données et Systèmes Connectés, Machine Learning and Data Mining, Cyber-Physical Social Systems.\n La validation de la Licence 2 ou de la Licence 3 permet de candidater à des écoles d'ingénieurs disposant d'une admission sur titres. [...] La Licence d’Informatique permet aux étudiants d’acquérir, en trois ans, des bases solides en Informatique, incluant des éléments d’algorithmique, d’informatique théorique, de programmation, d’architecture, de réseau, de gestion des masses de données, de techniques internet et de développement Web. Elle favorise également l’acquisition de compétences linguistiques (anglais), de compétences transversales (aptitude à l’analyse et à la synthèse, à l’expression écrite et orale, au travail [...] orale, au travail individuel et collectif, à la conduite de projets, au repérage et à l’exploitation des ressources documentaires, au maniement des outils numériques) et de compétences pré-professionnelles (connaissance des champs de métiers associés à la formation, élaboration du projet personnel et professionnel, capacité à réinvestir ses acquis dans un contexte professionnel).",
+      "raw_content": null,
+      "score": 0.31941903
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-lille.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Structures de Données",
+      "url": "https://pro.univ-lille.fr/fileadmin/user_upload/pages_pros/francois_boulier/GIS3-SD/support.pdf",
+      "snippet": "en œuvre cette séparation (programmation modulaire, notions de constructeur, de destructeur et d’itérateur) ; — des structures de données destinées à représenter des ensembles de données et à les énumérer suivant diﬀérents schémas (piles, ﬁles, ﬁles avec priorité) ; — des structures de données destinées à représenter des ensembles de données et à faci-liter la recherche d’informations (structures triées, listes chaînées, arbres binaires de recherche, tables de hachage) ; — des notions [...] 30 2.2 Files avec priorité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n30 2.2.1 Comment munir un tableau d’une structure de tas . . . . . . . . . . .\n31 2.2.2 Implantation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n32 3 Introduction à la notion de complexité 38 3.1 Grand O, grand Ωet grand Θ . . . . . . . . . . . . . . . . . . . . . . . . . .\n39 3.2 Déterminer la complexité d’un algorithme . . . . . . . . . . . . . . . . . . . [...] 9 1.4 Constructeurs et destructeurs . . . . . . . . . . . . . . . . . . . . . . . . . .\n9 1.5 Allocation dynamique de la mémoire . . . . . . . . . . . . . . . . . . . . . .\n10 1.5.1 Programmes exécutables et processus . . . . . . . . . . . . . . . . . .\n10 1.5.2 malloc, realloc, free . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n11 1.5.3 Mise en œuvre avec des constructeurs et des destructeurs . . . . . . .",
+      "raw_content": null,
+      "score": 0.07594738
+    },
+    {
+      "title": "Chandadevi GIRI Techniques d'IA axées sur les données ...",
+      "url": "https://pepite-depot.univ-lille.fr/LIBRE/EDMADIS/2021/2021LILUB012.pdf",
+      "snippet": "system’’) AND ( ( fashion OR garment∗OR apparel∗OR cloth∗OR textile∗) industry∗) ) AND ( LIMIT-TO (LANGUAGE, ‘‘ENGLISH’’ ) ) ) 2) SEARCH STRING FOR WEB OF SCIENCE TS = (((‘‘Machine learning OR ‘‘deep learning’’ OR ‘‘data mining’’ OR ’’artiﬁcial intelligence’’ OR ‘‘data analytics’’ OR ‘‘expert system’’ OR ‘‘knowledge system’’ OR ‘‘intelligent system’’ OR ‘‘decision support system’’) AND ( ( fashion OR garment∗OR apparel∗OR cloth∗OR textile∗) industr∗) )) Reﬁned By: LANGUAGES: (ENGLISH) where, [...] class imbalance in customer churn prediction. Expert Systems with Applications, 36(3), 4626-4636. Cambridge University. (2021). Online English dictionary. Retrieved August 23, 2021, from URL  Choi, T. M. (2016). Information systems for the fashion and apparel industry. Information Systems for the Fashion and Apparel Industry .Woodhead Publishing. Choi, T. M., Hui, C. L., Ng, S. F., & Yong, Y. (2012). Color trend forecasting of fashionable products with very few historical data. IEEE [...] fashion and apparel retailers’ decision-making. Keywords: Digitalisation, artificial intelligence, fashion and apparel industry, churn prediction, sales forecasting, campaign analysis, data-driven AI decision-making i iii Sammanfattning Datadrivna AI-tekniker för mode- och klädhandeln Digitaliseringen möjliggör nya sätt för företag att interagera med kunder och andra intressenter. Dessa digitala interaktioner generar data som kan lagras och senare processeras för olika ändamål. Modeindustrin",
+      "raw_content": null,
+      "score": 0.042154796
+    },
+    {
+      "title": "intéractifs pour l'apprentissage du language dans des ...",
+      "url": "https://pepite-depot.univ-lille.fr/LIBRE/EDSPI/2020/50376-2020-Strub.pdf",
+      "snippet": "PhD thesis, Saarland University, 2017. 2, 35, 38, 40, 51, 59 M. Malinowski and C. Doersch. The visual qa devil in the details: The impact of early fusion and batch norm on clevr. In Proceedings of European Conference on Computer Vision (ECCV), Workshop Track, 2018. 53, 61, 110, 111 M. Malinowski and M. Fritz. A multi-world approach to question answering about real-world scenes based on uncertain input. In Proceedings of Advances in Neural Information Processing Systems (NeurIPS), 2014. 59, 106 [...] AI Lab Président du jury: Prof. Patrick GALLINARI Sorbonne Université, Criteo AI Lab Rapporteur: Prof. Verena RIESER Heriot-Watt University Rapporteur: Dr. Patrick PÉREZ Valeo AI Examinateur: Prof. Aaron COURVILLE Mila, Université de Montréal Examinateur: Prof. Michèle SEBAG CNRS Examinateur: Dr. Angeliki LAZARIDOU DeepMind le 28 Janvier 2020 à Villeneuve d’Ascq, France Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL), UMR 9189 Équipe SequeL, 59650, Villeneuve [...] Criteo AI Lab Committee Chair: Prof. Patrick GALLINARI Sorbonne University, Criteo AI Lab Thesis Referee: Prof. Verena RIESER Heriot-Watt University Thesis Referee: Dr. Patrick PÉREZ Valeo AI Thesis Jury: Prof. Aaron COURVILLE Mila, University of Montreal Thesis Jury: Prof. Michèle SEBAG CNRS Thesis Jury: Dr. Angeliki LAZARIDOU DeepMind on the 28th of January, 2020 at Villeneuve d’Ascq, France Centre de Recherche en Informatique, Signal et Automatique de Lille (CRIStAL), UMR 9189 Équipe SequeL,",
+      "raw_content": null,
+      "score": 0.039184183
+    }
+  ]
+}

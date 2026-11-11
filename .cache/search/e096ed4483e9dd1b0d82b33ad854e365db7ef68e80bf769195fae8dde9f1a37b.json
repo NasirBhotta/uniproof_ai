@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-orleans.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "MASTER Informatique - Parcours Excellence Minerve - GPEX - UNIV ORLEANS",
+      "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-parcours-excellence-minerve-gpex-M42OY18S.html",
+      "snippet": "Ce parcours Excellence Minerve du master recrute en M1 uniquement pour le cycle de 2 années du master. Ce parcours d'excellence est exigeant: un excellent niveau disciplinaire requis, un goût prononcé pour la Recherche et la pluridiciplinarité et une volonté affirmée de faire carrière dans la Recherche par le doctorat.\n\nAccès en M1 uniquement :\n\n● Admission sur dossier en M1 pour les étudiants titulaires d’une Licence de la discipline ou équivalent de toutes les universités françaises. [...] ● Admission sur dossier en M1 pour les autres étudiants, notamment titulaires d’une autre licence de l’établissement ou d’autres universités, d’un équivalent étranger ou d’un BUT3 adapté.\n\nEntretien possible si nécessaire.\n\nLire plus\n\n## Modalités d'inscription\n\nDossier de candidature en M1 à déposer à l’adresse suivante :\n\nLire plus\n\n## Droits de scolarité\n\nPour les étudiants :\n\nPour les adultes en reprise d'études ; consulter le SEFCO.\n\nLire plus\n\n## Et après\n\n## Poursuite d'études [...] ·       Maîtriser l’anglais professionnel.\n\nCompétences professionnelles\n\n- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.\n\n- Identifier le processus de production, de diffusion et de valorisation des savoirs.\n\n- Travailler en équipe autant qu’en autonomie et responsabilité au service d’un projet.",
+      "raw_content": null,
+      "score": 0.63939893
+    },
+    {
+      "title": "MASTER Informatique - UNIV ORLEANS",
+      "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+      "snippet": "Ce socle commun est complété par deux orientations, l'une autour de la performance et de la sécurité, l'autre autour de la fouille de données, et notamment du machine learning.\n\nLe master 2 offre également, en option, plusieurs modules d'initiation à la recherche.\n\nLire plus\n\n## Admission\n\n## Conditions d'admission\n\nLes candidats à la première année du Master doivent être titulaires d’une Licence en Informatique. [...] D’autres diplômes Bac+3 en Informatique peuvent être considérés dans le cas de dossiers particulièrement solides et répondant aux pré-requis.\n\nLes candidatures sont examinées via la plateforme MonMaster.\n\nLire plus\n\n## Modalités d'inscription\n\nDossier de candidature en M1 à déposer à l’adresse suivante :\n\nDossier de candidature en M2 à déposer à l'adresse suivante :\n\nLire plus\n\n## Droits de scolarité\n\nPour les étudiants :\n\nPour les adultes en reprise d'études ; consulter le SEFCO.\n\nLire plus [...] Pour les étudiants s'étant formés à la recherche :\n\n Savoir lire un article de recherche, le resituer dans son domaine et le restituer de manière synthétique.\n Savoir constituer et organiser une bibliographie.\n Savoir construire une argumentation et produire le cas échéant une validation théorique ou pratique.\n\nLire plus\n\n## Contacts utiles\n\nUFR Sciences & Techniques  \nDépartement  Informatique1 rue de Chartres - 45067 ORLEANS CEDEX 2",
+      "raw_content": null,
+      "score": 0.6055431
+    },
+    {
+      "title": "Enseignement",
+      "url": "https://www.univ-orleans.fr/lifo/Members/dao/Teaching.html",
+      "snippet": "Contraintes pour l'aide à la décision, M2 IRAD\n Data Mining, M2 IMIS/MIAGE, TD\n Projet TER (Travaux d'études et de recherche), M1 Informatique\n Théorie des langages, M1 Informatique\n Calculabilité et complexité, M1 Informatique\n Structure de données dynamiques, L3 Informatique\n Théorie des langages, L3 Informatique, TD\n Projet, L3 MIAGE\n Architecture des ordinateurs, L2 Informatique\n Combinatoire pour l'informatique, L2 Informatique\n Outils du développeur, L2 Informatique, TP [...] Programmation par contraintes, M1 Informatique, CM/TD/TP\n Intelligence artificielle, M1 Informatique, CM/TD/TP\n Initiation à la recherche, M1 Informatique\n Deep Learning, M2 ARIAS, TP\n Programmation en logique et introduction à l'intelligence artificielle, L3 Informatique, CM/TD/TP\n Programmation orientée objet, L2 Informatique, TD/TP\n Suivi de stage, L3/M2\n\nAutres enseignements des années précédentes",
+      "raw_content": null,
+      "score": 0.30164018
+    }
+  ]
+}

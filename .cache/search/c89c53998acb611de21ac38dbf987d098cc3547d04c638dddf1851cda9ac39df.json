@@ -1,0 +1,26 @@
+{
+  "query": "site:u-bordeaux.fr \"Master Informatique Intelligence Artificielle\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Intelligence artificielle - Catalogue des formations de l'Université de Bordeaux",
+      "url": "https://formations.u-bordeaux.fr/details-formation?type=parcours-type&id=75224",
+      "snippet": "Aller au contenu\n\n Ma sélection (0)\n\n# Rechercher une formation\n\nOffre en cours de modification\n\nLes informations concernant le contenu des enseignements peuvent être en cours de modification\n\n# Intelligence artificielle\n\nMaster : Informatique\n\n Durée de référence4 semestres\n Crédits ECTS120\n Formations Master : Informatique\n\nEn chargement...",
+      "raw_content": null,
+      "score": 0.2717749
+    },
+    {
+      "title": "Master : Informatique - Catalogue des formations de l'Université de Bordeaux",
+      "url": "https://formations.u-bordeaux.fr/details-formation?type=formation&id=125",
+      "snippet": "Aller au contenu\n\n Ma sélection (0)\n\n# Rechercher une formation\n\nOffre en cours de modification\n\nLes informations concernant le contenu des enseignements peuvent être en cours de modification\n\nSciences, Technologies, Santé\n\n# Master : Informatique\n\nDiplôme national de master contrôlé par l'État\n\nInformatique",
+      "raw_content": null,
+      "score": 0.12439397
+    },
+    {
+      "title": "Artificial intelligence: developing research and skills - University of Bordeaux",
+      "url": "https://www.u-bordeaux.fr/en/about-us/our-strategy/institutional-projects/artificial-intelligence",
+      "snippet": "### Bordeaux is now a leading digital innovation centre in France and Europe, home to a thriving ecosystem of 29 start-ups with a link to artificial intelligence.\n\n### Robocup [...] Université de Bordeaux\n\nEducation\n\nStudy offer\n\nWork-Study\n\nBordeaux Summer Schools\n\nAdmissions\n\nHow to register\n\nTuition fees\n\nKeep track of your education\n\nSupport and success in your studies\n\nEnrich and enhance your experience\n\nResearch\n\nScientific vision\n\nMajor Research Programmes (GPRs)\n\nImpulsion Research Networks\n\nOpen Science\n\nEthics in research\n\nResearch organisation\n\nResearch departments\n\nBoost your research\n\nInnovation and the socio-economic sphere\n\nScience and society\n\nInnovation [...] ### Objective: AI\n\nDesigned by the Institut Montaigne, OpenClassrooms and the Abeona Foundation, the course (Objectif IA) presents AI from A to Z.  \nIt provides the keys to understanding and avenues to explore, in particular about the changes that AI brings about in society.\n\nLearn more\n\n### Artificial intelligence... intelligently!",
+      "raw_content": null,
+      "score": 0.046106957
+    }
+  ]
+}

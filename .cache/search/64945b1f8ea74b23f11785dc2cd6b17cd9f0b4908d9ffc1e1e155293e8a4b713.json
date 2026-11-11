@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-ubs.fr \"Master Informatique Applications Interactives et Données Numériques\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Mentions de licence",
+      "url": "https://www.univ-ubs.fr/_resource/Actes%20administratifs%20et%20r%C3%A9glementaires/D%C3%A9lib%C3%A9rations%20des%20instances/1%20-%20Conseil%20d'administration/2023/2023-03-14/PJ_MonMaster-criteres%20et%20attendus%202023-2024.pdf?download=true",
+      "snippet": "scientifique Forte capacité de travail personnel, organisation, autonomie Avoir une bonne maîtrise de la langue anglaise car ce master est dispensé en anglais SSI INFORMATIQUE Applications interactives et données numériques Informatique Connaissances en Mathématiques niveau licence (algèbre linéaire, géométrie, analyse de fonction, dérivée/intégration) Connaissances en Informatique niveau licence :enalgorithmique, programmation (langages impératif, objet, fonctionnel), système/réseaux, bases de [...] licence conseillées Connaissances attendues pour être admis en M1 Compétences attendues pour être admis en M1 critères généraux d'examen des candidatures LLSHS MÉTIERS DU LIVRE ET DE L'ÉDITION (P) M2 : Edition contemporaine et numérique (P) M2 : Document numérique et archives (P) M2 : Recherche en Humanités numériques Histoire Information-Communication Lettres capacités rédactionnelles connaissances en bureautique disposer d'une ouverture en informatique disposer de compétences à l'utilisation [...] un socle de connaissances disciplinaires Forte capacité de travail personnel, organisation, autonomie Capacité à communiquer par oral et par écrit, de façon claire et rigoureuse Aptitude à se documenter Lettre de motivation + CV Résultats académiques Cohérence du projet professionnel Adéquation de la formation suivie avec le master visé Composante Nom de la MENTION Nom du parcours Mentions de licence conseillées Connaissances attendues pour être admis en M1 Compétences attendues pour être admis",
+      "raw_content": null,
+      "score": 0.7355091
+    },
+    {
+      "title": "Master Informatique UBS",
+      "url": "https://www-informatique.univ-ubs.fr/master-info/aidn.shtml",
+      "snippet": "Prérequis : Notions de bases en système d’exploitation, programmation de scripts shell, bonne compréhension de TCP/IP\n\nINF2211 M1 - Semestre 2\n\n×\n\n##### Deep Learning\n\nCours : 21H ; TP : 21H\n\nObjectifs : [...] La partie pratique de ce cours est un projet sur lequel les étudiants travaillent en petits groupes pendant toute la durée du semestre dans notre laboratoire dédié, le VirtualLab, et expérimentent avec des capteurs et des dispositifs de rendu innovants tels que le Leap Motion, le Myo Armband, l’Open BCI, l'Hololens ou encore l’HTC Vive et l'Oculus Quest.\n\nPré-requis :\n\n Introduction à l'informatique graphique [INF2110] (M1 Informatique)\n Programmation C++ [INF1511] (L3 Informatique) [...] Contenu :\n\n Dessin de primitives 2D: lignes, polygones, caractères\n Transformations géométriques\n Voir en 3D: projection\n Modèles de surfaces: polygonales, paramétriques…\n Rendu: éclairage et lissage\n Couleurs\n OpenGL2/3\n GLSL\n\nPré-requis : Programmation C++ [INF1511] (L3 Informatique) \n\nBibliographie :\n\n Introduction to Computer Graphics, Foley, VanDam, Feiner, Hugues & Phillips\n\nINF2110 M1 - Semestre 1\n\n×\n\n##### Introduction aux systèmes distribués",
+      "raw_content": null,
+      "score": 0.5677694
+    },
+    {
+      "title": "Master Informatique UBS",
+      "url": "https://www-informatique.univ-ubs.fr/master-info/saim.shtml",
+      "snippet": "Prérequis : Notions de bases en système d’exploitation, programmation de scripts shell, bonne compréhension de TCP/IP\n\nINF2211 M1 - Semestre 2\n\n×\n\n##### Réseaux et systèmes pour applications innovantes\n\nCe cours aborde des aspects système et réseau qui fondent plusieurs catégories d’applications réparties actuelles ou relevant de la recherche et développement. L’accent est mis sur l’étude de protocoles et techniques du Web et de l'Internet de objets. [...] Contenu :\n\n Dessin de primitives 2D: lignes, polygones, caractères\n Transformations géométriques\n Voir en 3D: projection\n Modèles de surfaces: polygonales, paramétriques…\n Rendu: éclairage et lissage\n Couleurs\n OpenGL2/3\n GLSL\n\nPré-requis : Programmation C++ [INF1511] (L3 Informatique) \n\nBibliographie :\n\n Introduction to Computer Graphics, Foley, VanDam, Feiner, Hugues & Phillips\n\nINF2110 M1 - Semestre 1\n\n×\n\n##### Introduction aux systèmes distribués [...] ×\n\n##### Traitement numérique des données\n\nCette unité d’enseignement s’intéresse à la représentation et au traitement des données numériques.\n\n Rappels : algèbre linéaire, programmation scientifique en Python\n Théorie de l’échantillonnage\n Analyse de Fourier : séries de Fourier, transformée de Fourier\n Filtrage\n Exploration interactive de données\n Méthodes d’intégration, différentielles\n Régression\n\nLes cours sont associés à des travaux pratiques en Python.\n\nINF2166/INF2167 M1 - Semestre 1\n\n×",
+      "raw_content": null,
+      "score": 0.559411
+    }
+  ]
+}

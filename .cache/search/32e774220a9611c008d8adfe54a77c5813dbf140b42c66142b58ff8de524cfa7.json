@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-st-etienne.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Données et Systèmes Connectés - Université Jean Monnet",
+      "url": "https://fac-sciences.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-informatique-parcours-donnees-et-systemes-connectes-5_09_07_0006_FR.html",
+      "snippet": "Applicants must hold a BSc (or any nationally recognised first cycle degree equivalent to 180 ECTS) in computer science with skills in algorithm design and analysis, automata and language theory, C programming, object-oriented programming (Java, Python), Internet programming, databases (SQL, Conceptual Modelling), graph theory, statistics, linear algebra, etc.\n Knowledge of French (B2) and English (B2) is compulsory. [...] Les candidats doivent avoir un niveau Licence d’informatique (i.e. 180 ECTS) avec des compétences en conception et analyse d'algorithmes, automates et théorie des langages, programmation C, programmation orientée objet (Java, Python), programmation Internet, bases de données (SQL, modélisation conceptuelle), théorie des graphes, statistiques, algèbre linéaire, etc.\n La connaissance du français (B2) et de l'anglais (B2) est obligatoire. [...] ### Conditions d'admission\n\nCandidatez en M1 sur MonMaster  \nVague principale : du 25 février 2025 au 24 mars 2025  \nVague complémentaire : du 17 juin 2025 au 23 juin 2025 LES CANDIDATURES SONT TERMINÉES\n\nCandidatez en M2 sur eCandidatsVague principale : 1er avril 2025 au 16 mai 2025  \nVague complémentaire : du 24 juin 2025 au 6 juillet 2025  \nLES CANDIDATURES SONT TERMINÉES\n\n## Et après ?\n\n### Poursuite d'études\n\nLes étudiants peuvent choisir de poursuivre leurs études en doctorat.",
+      "raw_content": null,
+      "score": 0.58664185
+    },
+    {
+      "title": "Fabrice MUHLENBACH",
+      "url": "https://perso.univ-st-etienne.fr/muhlfabr",
+      "snippet": "Master Informatique – Parcours Données et Systèmes Connectés (DSC)\n  + M1 : Analyse et Traitement des Données (CM, TD, TP).\n Master Informatique international – Cyber-Physical Social Systems (CPS2)\n  + M1 : From Statistics to Data Mining (CM, TD, TP).\n  + M1 : Overview of Research, Development and Innovation – Societal, Human and Ethical Perspectives.\n  + M1 : Machine Learning (Neural Networks).\n  + M1 : Data Analysis (TP).\n  + M1 : Computer Ethics. [...] Master Informatique international – Machine Learning and Data Mining (MLDM)\n  + M2 : Data Mining (TP sous R).\n  + M1 : Data Mining and Knowledge Discovery(TD, TP sous R).\n  + M1 : Data Analysis (TP sous R).\n Master Informatique (ancien parcours Web Intelligence)\n  + M2 : Recherche et Innovation – Éthique de la recherche en informatique.\n  + M2 : Fouille de données (TP sous R).\n  + M1 : Fouille de données (TP sous R).\n  + M1 : Apprentissage automatique (Réseaux de neurones artificiels). [...] + M1 : Génie logiciel – UML.\n  + M1 : Interface Homme-Machine.\n Masters internationaux COSI, CIMET et 3D Multimedia Technology\n  + M1 : From Statistics to Data Mining (CM, TD, TP).\n  + M1 : Data Analysis and Statistics.\n  + M1 : Data Analysis (TP).",
+      "raw_content": null,
+      "score": 0.51544976
+    },
+    {
+      "title": "Master Informatique Parcours Cyberphysical and social systems (CPS2) - Université Jean Monnet",
+      "url": "https://fac-sciences.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-informatique-parcours-cyber-physical-social-systems-5_09_07_0005_FR.html",
+      "snippet": "Overview of research, development and innovation activities: 4 ECTS\n Data interoperability and semantics: 2 ECTS\n CPS2 engineering and development: 6 ECTS\n Mobile programming: 2 ECTS\n Web programming: 5 ECTS\n Programming connected devices: 5 ECTS\n Foreign language: 3 ECTS\n Machine learning: 3 ECTS\n\n### M1 Curriculum - SEMESTER 2\n\nFrom January to June [...] A double degree with Aoyama Gakuin University (Tokyo, Japan) is offered, with no extension of studies and no additional fees (application before May).\n\nMore information on CPS2\n\n## Pour qui ?\n\n### Conditions d'admission\n\nAPPLICATION FOR THE NEXT ACADEMIC YEAR  \nStudents (French and foreigners) must apply via the application form of Université Jean Monnet  \nDeadline for non-EU applicants: March 31st  \nDeadline for EU applicants: May 20th  \nFinal notification: July 1st\n\n## Et après ? [...] CPS2 is an international track of the master in Computer Science of University of Lyon, jointly operated by University of Saint-Étienne and Mines Saint-Étienne - Institut Mines Télécom. The aim of this program is to provide students with strong expertise on Artificial Intelligence and Internet of Things to develop theoretical models and technologies for current and future applications in industry and society. After validating this programme, students will master the necessary technologies and",
+      "raw_content": null,
+      "score": 0.34601128
+    }
+  ]
+}

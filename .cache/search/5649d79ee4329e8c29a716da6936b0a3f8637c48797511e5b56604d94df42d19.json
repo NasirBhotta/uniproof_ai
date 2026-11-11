@@ -1,0 +1,26 @@
+{
+  "query": "site:sorbonne-universite.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Informatique | Sorbonne Université| Sciences & Ingénierie",
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique",
+      "snippet": "## Public visé\n\nLe Master Informatique s'adresse en premier lieu aux titulaires d'une Licence mention Informatique ou tout diplôme équivalent. Les étudiantes et étudiants ayant une Licence mention Mathématiques et Informatique ou mention Électronique peuvent aussi être accueillis dans certains parcours de la mention Informatique. Enfin, les élèves en dernière année d'école d'ingénieurs ayant un cursus orienté informatique sont invités à candidater en seconde année de la mention Informatique. [...] Vous êtes français, européen ou étranger hors UE mais résidant en France depuis au moins 1 an :\n  + Vous pourrez postuler en début d'année civile via le portail national des master ()\n Vous êtes étranger hors Europe et ne résidez pas en Europe :\n  + votre pays de résidence relève de la procédure Campus France: vous devez impérativement passer par elle. Votre candidature sera rejetée si vous passez par eCandidat. Les candidatures sont ouvertes d'octobre à décembre. [...] Parcours Systèmes Electroniques et Systèmes Informatiques (SESI)\n Parcours Cryptologie, Calcul haute-performance et Algorithmique (CCA)\n Parcours Sécurité de Systèmes Informatiques en apprentissage (MSI)\n Parcours Science et Technologie du Logiciel (STL)\n Parcours Science et Technologie du Logiciel Apprentissage (STL-INSTA)\n Parcours International DIGIT\n Information Quantique (IQ)",
+      "raw_content": null,
+      "score": 0.5313802
+    },
+    {
+      "title": "MASTER INFORMATIQUE - PARCOURS RÉSEAUX (RES) - Formation Continue Sorbonne Université",
+      "url": "https://fc.sorbonne-universite.fr/nos-offres/master-informatique-parcours-reseaux-res",
+      "snippet": "Le parcours RES s’adresse principalement à des étudiants titulaires d’une Licence d’Informatique (ou diplôme équivalent). Néanmoins, des admissions seront possibles en M1 et M2 pour des candidats en Formation Continue, postulant éventuellement au titre de la Validation des Acquis et de l’Expérience (VAE), et en deuxième année de master, pour des étudiants ayant effectué leur première année de master dans une autre université française, ou pour des étudiants titulaires d’un diplôme d’ingénieur [...] Le parcours RES s’adresse principalement à des étudiants titulaires d’une Licence d’Informatique (ou diplôme équivalent). Néanmoins, des admissions seront possibles en M1 et M2 pour des candidats en Formation Continue, postulant éventuellement au titre de la Validation des Acquis et de l’Expérience (VAE), et en deuxième année de master, pour des étudiants ayant effectué leur première année de master dans une autre université française, ou pour des étudiants titulaires d’un diplôme d’ingénieur [...] ### PUBLIC VISÉ ET PRÉ-REQUIS",
+      "raw_content": null,
+      "score": 0.5249554
+    },
+    {
+      "title": "MASTER INFORMATIQUE - PARCOURS IMAGE (IMA) - Formation Continue Sorbonne Université",
+      "url": "https://fc.sorbonne-universite.fr/nos-offres/master-informatique-parcours-image-ima",
+      "snippet": "Le recrutement en M1 suit les mêmes règles que pour l’ensemble de la mention. En M2, le parcours recrute des étudiants issus du M1 IMA, des étudiants d’autres parcours (ANDROIDE ou DAC par exemple) qui souhaiteraient changer d’orientation, s’ils ont les bases requises, des étudiants d’écoles d’ingénieurs ayant suivi un cursus en informatique ou en mathématiques appliquées, des étudiants venant de formations équivalentes en France et à l’étranger. Le parcours peut également accueillir des [...] Le recrutement en M1 suit les mêmes règles que pour l’ensemble de la mention. En M2, le parcours recrute des étudiants issus du M1 IMA, des étudiants d’autres parcours (ANDROIDE ou DAC par exemple) qui souhaiteraient changer d’orientation, s’ils ont les bases requises, des étudiants d’écoles d’ingénieurs ayant suivi un cursus en informatique ou en mathématiques appliquées, des étudiants venant de formations équivalentes en France et à l’étranger. Le parcours peut également accueillir des [...] Un minimum de bases en mathématiques et en informatique est exigé, ainsi que des bases en traitement d’images pour le M2.\n\n### PROGRAMME\n\n### Méthodes\n\nCours en Présentiel et / ou à distance, TD, TP, Projet.\n\n### Modalités d’évaluation\n\nExamens et/ou contrôle en cours de formation (CCF)\n\n### Débouchés\n\nVeuillez nous contacter.\n\n## \n\n### OBJECTIFS / COMPÉTENCES VISÉES",
+      "raw_content": null,
+      "score": 0.36357963
+    }
+  ]
+}

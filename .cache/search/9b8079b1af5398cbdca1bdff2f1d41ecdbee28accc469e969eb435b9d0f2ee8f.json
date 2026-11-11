@@ -1,0 +1,40 @@
+{
+  "query": "site:univ-artois.fr \"master informatique\" \"Lens\" parcours",
+  "results": [
+    {
+      "title": "Informatique - Faculté des Sciences Jean Perrin",
+      "url": "https://www.sciences.univ-artois.fr/sites/default/files/2026-01/master_informatique_2025.pdf",
+      "snippet": "Contact : fcu-pac@univ-artois.fr Sciences UNIVERSITÉ D’ARTOIS MASTER Informatique LENS CODE RNCP : 39278 - Nombre de places disponibles : 30 Master Informatique : Ingénierie logicielle pour l’internet Ingénierie logicielle pour les jeux Intelligence artificielle Les informations relatives à cette formation sont données à titre indicatif et peuvent être modifiées LE RYTHME DE LA FORMATION Les enseignements théoriques et méthodologiques du Master ont lieu de septembre à mars auxquels s’ajoute un [...] CONDITIONS D’ACCÈS MASTER 1 Sur dossier pour les étudiants ayant validé une Licence fondamentale en informatique ou un niveau équivalent MASTER 2 Sur dossier pour les étudiants ayant validé les deux premiers semestres d’un Master à forte composante informatique ou ayant validé un niveau équivalent FORMATION CONTINUE Le Master est accessible aux salariés ou demandeurs d’emploi. Contact : fcu-fare-lens@univ-artois.fr Ils peuvent faire reconnaître leur expérience pour intégrer le Master via la [...] LE PROGRAMME DE LA FORMATION Le master en informatique de l’université d’Artois se compose de deux parcours : Ingénierie Logicielle pour l’Internet et Ingénierie Logicielle pour les Jeux. La première année de master est commune aux deux parcours. La seconde propose une partie commune et des unités spécifiques à chaque parcours.",
+      "raw_content": null,
+      "score": 0.7672197
+    },
+    {
+      "title": "Formations en Informatique et IA | UFR sciences",
+      "url": "https://www.sciences.univ-artois.fr/formations-en-informatique-et-ia",
+      "snippet": "Le Master Informatique évolue et ne contiendra plus que 2 parcours : le parcours Ingénierie Logicielle pour l'Internet (ILI). le parcours Ingénierie",
+      "raw_content": null,
+      "score": 0.61196244
+    },
+    {
+      "title": "Master Informatique",
+      "url": "https://formations.univ-artois.fr/fr/formations/feuilleter-le-catalogue/master-lmd-XB/master-informatique-MQULARUB.html",
+      "snippet": "La première année du master est donc commune aux trois parcours et la seconde année propose un tronc commun et des unités spécifiques à chaque parcours. Ce",
+      "raw_content": null,
+      "score": 0.44420364
+    },
+    {
+      "title": "Master Informatique - Université d'Artois",
+      "url": "http://informatique.univ-artois.fr/master",
+      "snippet": "Le master d'informatique de l'Université d'Artois vise à former des informaticiens de niveau BAC+5 ayant une formation générale solide dans les",
+      "raw_content": null,
+      "score": 0.2441516
+    },
+    {
+      "title": "Master Intelligence artificielle",
+      "url": "https://formations.univ-artois.fr/fr/formations/feuilleter-le-catalogue/master-lmd-XB/master-intelligence-artificielle-LJ6XJLMS.html",
+      "snippet": "Le master Intelligence Artificielle propose deux spécialisations sous forme de parcours dès la première année, permettant aux étudiants d'orienter",
+      "raw_content": null,
+      "score": 0.11802905
+    }
+  ]
+}

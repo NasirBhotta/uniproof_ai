@@ -1,0 +1,230 @@
+{
+  "round_number": 13,
+  "stop_reason": "FRONTIERS_DEFERRED",
+  "selected_regions": [
+    "Auvergne-Rhône-Alpes",
+    "Centre-Val de Loire",
+    "Bourgogne-Franche-Comté"
+  ],
+  "universities_discovered": 11,
+  "programmes_discovered": 8,
+  "viable_newcomers": 0,
+  "searches_attempted": 10,
+  "remaining_budget": 2,
+  "summary_report": "D:\\france_admission_agent\\output\\Research-Knowledge-Summary.md",
+  "round_report": "D:\\france_admission_agent\\output\\Discovery-Round-013.md",
+  "latest_report": "D:\\france_admission_agent\\output\\Discovery-Latest.md",
+  "new_universities_count": 2,
+  "known_universities_new_tracks": 5,
+  "frontiers_attempted": 10,
+  "queries_rewritten": 4,
+  "duplicate_queries_blocked": 4,
+  "provider_calls_attempted": 10,
+  "provider_calls_successful": 10,
+  "provider_failures": 0,
+  "cache_hits": 0,
+  "consecutive_actual_low_value": 0,
+  "candidates_deeply_verified": 0,
+  "pipeline": {
+    "migrated_records": 0,
+    "repaired_cycle1_records": 0,
+    "cycle1_processed": 1,
+    "cycle1_passed": 0,
+    "cycle1_rejected": 0,
+    "cycle1_review_required": 1,
+    "cycle1_deferred": 7,
+    "promoted_to_cycle2": 0,
+    "cycle2_processed": 0,
+    "cycle2_verified": 0,
+    "cycle2_rejected": 0,
+    "fields_refreshed": 0,
+    "pool_additions": 0,
+    "pool_replacements": 0,
+    "pool_unchanged_candidates": 0,
+    "errors": 0,
+    "external_searches": 6,
+    "cache_hits": 11,
+    "searches_saved_by_memory": 1,
+    "llm_calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "provider_failures": 0,
+    "page_fetches": 6,
+    "cycle1_searches": 6,
+    "cycle2_searches": 0,
+    "page_diagnostics": [
+      {
+        "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-parcours-systemes-d-information-repartis-sir-JDO80NG2.html",
+        "status": "FETCHED",
+        "characters": 4918
+      },
+      {
+        "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+        "status": "FETCHED",
+        "characters": 7825
+      },
+      {
+        "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://www.univ-orleans.fr/upload/public/2022-01/2021-113_D%C3%A9lib%C3%A9ration%20PV%20CA_20211210_El%C3%A9ments%20r%C3%A8glementaires%20fix%C3%A9s%20pour%20la%20campagne%20Masters%202022%20-%20Capacit%C3%A9s%20d%27accueil.pdf",
+        "status": "UNSUPPORTED_CONTENT_TYPE"
+      },
+      {
+        "url": "https://www.univ-orleans.fr/fr/sciences-techniques/formation/informatique/master-miage",
+        "status": "FETCHED",
+        "characters": 6211
+      },
+      {
+        "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://www.univ-orleans.fr/upload/public/2025-01/2024-111_D%C3%A9lib%C3%A9ration%20PV%20CA_20241213_Mon%20Master%202025.pdf",
+        "status": "UNSUPPORTED_CONTENT_TYPE"
+      },
+      {
+        "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.univ-orleans.fr/fr/iaeorleans/admission/candidature-en-l3m1m2",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://www.univ-orleans.fr/fr/iaeorleans/admission/candidature-en-l3m1m2"
+      },
+      {
+        "url": "http://www.univ-orleans.fr/fr/iaeorleans/admission/candidature-en-l3m1m2",
+        "status": "FETCHED",
+        "characters": 2768
+      },
+      {
+        "url": "http://www.univ-orleans.fr/fr/iaeorleans/admission/candidature-en-l3m1m2",
+        "status": "SCOPE_MISMATCH"
+      }
+    ],
+    "current_pool_size": 0,
+    "stage_events": [
+      {
+        "programme_id": "070c2088193abfb7",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "070c2088193abfb7",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_REVIEW_REQUIRED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "1448acca9e546f2d",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "1448acca9e546f2d",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "1c1dc06329ef952c",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "1c1dc06329ef952c",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "38183302bc5c7671",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "38183302bc5c7671",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4563cce16a0d38b9",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4563cce16a0d38b9",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4e7a2e38b97b03cf",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4e7a2e38b97b03cf",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "5bf304986c48a0e8",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "5bf304986c48a0e8",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "c91497bd7dfb5e73",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "c91497bd7dfb5e73",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      }
+    ],
+    "pending_counts": {
+      "CYCLE1_PENDING": 7,
+      "CYCLE1_REJECTED": 6,
+      "CYCLE1_REVIEW_REQUIRED": 50,
+      "LEGACY_REVIEW": 72,
+      "POOL_DROPPED": 17
+    },
+    "reports": {
+      "cycle1_details": "D:\\france_admission_agent\\output\\Cycle1-Detailed-Latest.md",
+      "cycle1_ranking": "D:\\france_admission_agent\\output\\Cycle1-Ranking.md"
+    },
+    "new_programmes_per_round": 8,
+    "promoted_programmes_per_round": 0,
+    "pool_replacements_per_round": 0,
+    "legacy_records_reviewed_without_cycle1_rerun": 0,
+    "legacy_first_cycle2_processed": 0,
+    "new_delta_promoted_to_cycle2": 0
+  },
+  "consecutive_rounds_without_pool_improvement": 4,
+  "regions_explored": 12,
+  "final_selection_ready": false
+}

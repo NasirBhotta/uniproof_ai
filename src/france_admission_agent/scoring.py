@@ -135,41 +135,63 @@ def calculate_score(e: ProgrammeEvaluation) -> ScoreBreakdown:
         )
 
     # 1. Degree & M1 Eligibility (max 25)
-    hard = 25.0 if (e.eligibility.level == CheckStatus.PASS and e.eligibility.degree_field == CheckStatus.PASS) else 20.0
+    if e.eligibility.level == CheckStatus.PASS and e.eligibility.degree_field == CheckStatus.PASS:
+        hard = 25.0
+    elif e.eligibility.level == CheckStatus.PASS and e.eligibility.degree_field == CheckStatus.UNVERIFIED:
+        hard = 18.0
+    else:
+        hard = 12.0
 
     # 2. Transcript match / curriculum fit (max 25)
     t_cov = e.programme.transcript_match_info.coverage
     if t_cov > 0.0 and e.programme.transcript_match_info.matched_candidate_courses:
-        transcript = 20.0 + (t_cov * 5.0)
+        transcript = 12.0 + (t_cov * 13.0)
     else:
-        # Standard baseline for Computer Science M1 when candidate has complete BS CS
-        transcript = 18.0
+        transcript = 10.0
 
     # 3. Academic competitiveness & GPA (max 15)
     academic = _academic_competitiveness_points(e)
 
     # 4. Language compatibility (max 15)
-    # Candidate has IELTS 6.5 overall (B2 equivalent)
-    if e.eligibility.language == CheckStatus.PASS:
-        language = 14.0
-    elif e.eligibility.language == CheckStatus.UNVERIFIED:
-        language = 12.0
+    lang_status = e.programme.teaching_language_info.status
+    if lang_status == LanguageStatus.VERIFIED_ENGLISH:
+        language = 15.0  # Candidate satisfies English with IELTS 6.5
+    elif lang_status == LanguageStatus.VERIFIED_MIXED:
+        language = 11.0  # Bilingual track
+    elif lang_status == LanguageStatus.LANGUAGE_UNVERIFIED:
+        language = 9.0  # Provisional uncertainty
+    elif lang_status == LanguageStatus.VERIFIED_FRENCH:
+        language = 5.0  # Taught in French without formal proof
     else:
-        language = 5.0
+        language = 0.0
 
     # 5. Regional visibility & public status (max 10)
     regional = _regional_points(e)
 
     # 6. Practical Software Engineering & Project alignment (max 10)
-    sop = 8.0
+    track_name = (e.programme.track or e.programme.programme or "").lower()
+    if any(k in track_name for k in ("ia", "intelligence artificielle", "data", "données", "apprentissage")):
+        sop = 9.5  # AI/RAG project alignment
+    elif any(k in track_name for k in ("logiciel", "software", "web", "distribué", "systèmes logiciels", "isl")):
+        sop = 9.5  # 1+ yr SE experience alignment
+    elif any(k in track_name for k in ("sécurité", "security", "cyber")):
+        sop = 7.0  # Systems/cyber
+    else:
+        sop = 8.0  # Core general CS track
 
     profile_fit = min(100.0, round(hard + transcript + academic + language + regional + sop, 1))
 
     # Evidence Confidence Score (0-100)
     confidence, unverified_items = calculate_evidence_confidence(e)
 
-    # score_status is PROVISIONAL if confidence < 75 or scope flags exist
-    if confidence >= 75.0 and not e.programme.scope_mismatch_flags and e.programme.teaching_language_info.status != LanguageStatus.LANGUAGE_UNVERIFIED:
+    # score_status is PROVISIONAL if confidence < 80, language unverified, or scope flags exist
+    if (
+        confidence >= 80.0
+        and not e.programme.scope_mismatch_flags
+        and lang_status in (LanguageStatus.VERIFIED_ENGLISH, LanguageStatus.VERIFIED_MIXED, LanguageStatus.VERIFIED_FRENCH)
+        and e.eligibility.degree_field == CheckStatus.PASS
+        and e.programme.transcript_match_info.status == CheckStatus.PASS
+    ):
         status = ScoreStatus.VERIFIED
         status_reason = None
     else:

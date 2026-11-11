@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-nantes.fr \"Master Informatique Informatique\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique - UFR Sciences et techniques",
+      "url": "https://sciences-techniques.univ-nantes.fr/formations/masters/master-informatique",
+      "snippet": "L'ouverture à l'International  \nVous aurez l’opportunité d’effectuer une mobilité internationale qui aura été préparée par des enseignements en anglais. Vous pourrez également côtoyer des étudiants du monde entier dans des parcours ouverts à l’international.\n\n### Lieux\n\nNantes\n\n### Partenariats\n\n#### Laboratoires\n\nLS2N\n\n#### Établissements\n\nCo-accréditation avec l'IMT Atlantique (Mines Nantes)\n\n#### En convention avec\n\n## Admission\n\n### Prérequis\n\n#### Formation(s) requise(s) [...] A l’issue du Master, les diplômé·es peuvent devenir ingénieur·e en Recherche Opérationnelle ; ingénieur·e recherche et développement ; expert·e en méthodes et outils de l’informatique pour l’aide à la décision ; responsable en systèmes d’informations et informatique décisionnelle ; chef·fe de projet optimisation ; ingénieur·e en logistique ; etc.  \n  \nDevenez ingénieur ou chercheur de haut niveau capable de travailler à la pointe de la technologie numérique et d'en repousser les limites. [...] Ils auront également une compréhension de l’intelligence artificielle et de l’apprentissage automatique, ainsi qu’une maîtrise des fondements théoriques de l’informatique, du génie logiciel, des architectures logicielles, des systèmes et bases de données réparties, et du web.",
+      "raw_content": null,
+      "score": 0.2938911
+    },
+    {
+      "title": "Masters internationaux - Polytech Nantes - Ecole d'ingénieurs",
+      "url": "https://polytech.univ-nantes.fr/fr/les-formations/masters-internationaux",
+      "snippet": "> parcours Data science (DS) - Ce parcours, proposé en 2e année du Master Informatique, a pour objectif un approfondissement à la science des données et aborde les théories et technologies de destockage, l'indexation et l'interrogation de données ainsi que les questions liées à l'exploitation des données au sens large (fouille, classification, apprentissage, visualisation, etc.).\n\nConsulter la fiche formation en anglais / en français [...] > parcours Visual computing (VICO) -Ce parcours, proposé en 2e année du Master Informatique, a pour objectif un approfondissement au traitement informatique des données visuelles, qui comprend l'analyse, la transmission et la perception humaine d'images et de vidéos, la capture et la représentation de contenus 3D, la reconnaissance de formes ainsi que les interactions homme-machine, basées sur des données visuelles.\n\nConsulter la fiche formation en anglais / en français [...] ## Génie des procédés et bioprocédés\n\n## \n\n## Six parcours sont proposés en Master 2 :\n\n## 2 parcours en Master Informatique",
+      "raw_content": null,
+      "score": 0.2619492
+    },
+    {
+      "title": "Licence Informatique - UFR Sciences et techniques",
+      "url": "https://sciences-techniques.univ-nantes.fr/formations/licences-generales/licence-informatique",
+      "snippet": "Le programme disciplinaire est complété par des enseignements transversaux (anglais, connaissance du monde de l’entreprise...) et des stages ou projets, dont un obligatoire en 3e année.   \n   \n Cette Licence représente une durée de 1575 heures de formation, réparties sur six semestres. A son issue, les étudiant·es auront acquis 180 ECTS. [...] Il s’agit d’une formation généraliste qui permet d’obtenir des bases solides en informatique, de ses aspects les plus théoriques aux applications pratiques. Elles sont indispensables pour poursuivre leurs études en Master et s’insérer sereinement dans le monde des entreprises du numérique. [...] Utiliser les outils numériques de référence et appliquer les règles de sécurité informatique pour acquérir, traiter, produire et diffuser de l’information, ainsi que pour collaborer en interne et en externe ;\n Communiquer à l’écrit et à l’oral en langue vivante étrangère dans un contexte professionnel ;\n Travailler en équipe et en autonomie avec responsabilité au service d’un projet.",
+      "raw_content": null,
+      "score": 0.17088155
+    }
+  ]
+}

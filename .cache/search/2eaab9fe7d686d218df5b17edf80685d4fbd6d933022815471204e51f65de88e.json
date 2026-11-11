@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-tlse3.fr \"Master Informatique Intelligence artificielle\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "SYLLABUS MASTER Mention Informatique M1 Intelligence ...",
+      "url": "https://www.univ-tlse3.fr/syllabus/SYL_M1_INF_IAFA.pdf",
+      "snippet": "PRÉ-REQUIS Connaissances en Intelligence Artificielle, notions d’espace de recherche, de graphe de problème, d’arbres de recherche.\nCOMPÉTENCES VISÉES Capcité à modéliser un système complexe naturel ou artificiel dans le paradigme des systèmes multi-agents et utiliser cette modélisation à des fins de simulation, contrôle, optimisation, apprentissage ou résolution auto-organisée de problèmes. [...] PRÉ-REQUIS Avoir des connaissances en algèbre linéaire RÉFÉRENCES BIBLIOGRAPHIQUES Pattern Classification, G. Stork, Peter E. Hart et Richard O. Duda, WileyPattern Recognition and Machine Lear-ning, C. M. Bishop, SpringerUtilisation de python notebook pour les TP et des librairies Numpy, Sklearn, scipy MOTS-CLÉS Apprentissage, prétraitement, classification, régression, évaluation 16 UE TRAVAUX D’INITIATION À LA RECHERCHE-PROJET 6 ECTS 2nd semestre Sous UE Travaux d’initiation à la recherche [...] — La modélisation de séquences avec les réseaux de neurones récurrents : RNN, LSTM, GRU. L ’algorithme de rétropropagation à travers le temps.\n— Introduction aux réseaux de neurones sequence-to-sequence et aux mécanismes d’attention.\n— Introduction à l’explicabilité, techniques de détection de saillance. Limites et perspectives.\nPRÉ-REQUIS Avoir suivi le cours \"Calcul Scientifique Apprentissage Automatique\" du tronc commun. Connaissances en ana-lyse, algèbre linéaire, probabilités.",
+      "raw_content": null,
+      "score": 0.68697983
+    },
+    {
+      "title": "Master mention Informatique - Université de Toulouse",
+      "url": "https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-mention-informatique",
+      "snippet": "Activités visées / compétences attestées\n\n### Débouchés professionnels\n\nSecteurs d'activité\n\nSecteurs d'activité ou type d'emploi\n\n## Tous les parcours disponibles dans le cursus Master mention Informatique\n\n### Master parcours Computer science for aerospace (CSA)\n\nCe parcours ne sera pas ouvert aux inscriptions sur l'année 2026/2027\n\nFormation\nMis à jour le27 août 2026\n\n### Master parcours Intelligence artificielle : fondements et applications (IAFA) [...] Le parcours IMA a pour objectif de former des experts dans le domaine de l'IA, en alliant des compétences scientifiques fondamentales à la fois en mathématique et en informatique. Ce parcours ne sera pas ouvert aux inscriptions sur l'année 2026/2027\n\nFormation\nMis à jour le27 août 2026\n\n### Master parcours Recherche opérationnelle optimisation (RO)",
+      "raw_content": null,
+      "score": 0.6461259
+    },
+    {
+      "title": "Master parcours Intelligence artificielle : fondements et applications (IAFA) - Université de Toulouse",
+      "url": "https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-intelligence-artificielle-fondements-et-applications-iafa",
+      "snippet": "## Tous les parcours disponibles dans le cursus Master mention Informatique\n\n### Master parcours Computer science for aerospace (CSA)\n\nCe parcours ne sera pas ouvert aux inscriptions sur l'année 2026/2027\n\nFormation\nMis à jour le27 août 2026\n\n### Master parcours Interaction homme machine (IHM) [...] A l'interface des Mathématiques appliquées, de l'Informatique et de l'Ingénierie, la RO modélise les systèmes complexes de l'industrie et des grandes organisations pour concevoir des outils d'aide à la décision. Non ouvert sur l'année 2026/2027\n\nFormation\nMis à jour le27 août 2026\n\n### Master parcours Sciences et ingénierie des données (SID) [...] Le parcours IMA a pour objectif de former des experts dans le domaine de l'IA, en alliant des compétences scientifiques fondamentales à la fois en mathématique et en informatique. Ce parcours ne sera pas ouvert aux inscriptions sur l'année 2026/2027\n\nFormation\nMis à jour le27 août 2026\n\n### Master parcours Recherche opérationnelle optimisation (RO)",
+      "raw_content": null,
+      "score": 0.63777614
+    }
+  ]
+}

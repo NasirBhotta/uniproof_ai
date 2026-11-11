@@ -1,0 +1,33 @@
+{
+  "stop_reason": "MAX_ROUNDS",
+  "rounds_completed": 2,
+  "verified_pool_size": 0,
+  "finalists": 0,
+  "rounds": [
+    {
+      "stage": "TARGETED_BACKLOG",
+      "round_number": null,
+      "stop_reason": "BATCH_COMPLETE",
+      "new_programmes": 0,
+      "cycle1_processed": 3,
+      "cycle2_processed": 0,
+      "pool_additions": 0,
+      "pool_replacements": 0,
+      "provider_calls_successful": 9,
+      "verified_pool_size": 0
+    },
+    {
+      "stage": "TARGETED_BACKLOG",
+      "round_number": null,
+      "stop_reason": "BATCH_COMPLETE",
+      "new_programmes": 0,
+      "cycle1_processed": 3,
+      "cycle2_processed": 0,
+      "pool_additions": 0,
+      "pool_replacements": 0,
+      "provider_calls_successful": 10,
+      "verified_pool_size": 0
+    }
+  ],
+  "final_report": "D:\\france_admission_agent\\output\\Final-Selection.md"
+}

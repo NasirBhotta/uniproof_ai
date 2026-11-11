@@ -1,0 +1,110 @@
+python : INFO:france_admission_agent.discovery.round_runner:Discovery Round 5: Selected priority regions = ['Corse', 
+'Bourgogne-Franche-Comt�', 'Centre-Val de Loire']
+At line:31 char:1
++ python output/discovery-diagnostics/trace_cli.py *> output/discovery- ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO:france_adm...-Val de Loire']:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO:httpx:HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+======================================================================
+ [*] STARTING ITERATIVE DISCOVERY ROUND (Bounded Regional Expansion)
+======================================================================
+[+] Loading Persistent Local Research Memory: D:\france_admission_agent\data\france_research.db
+[+] Identifying under-explored regions and unresearched universities...
+TRACE state {"searches_attempted": null, "consecutive_actual_low_value": null, "stop_reason": null}
+TRACE get_default_search_client configured
+TRACE state {"searches_attempted": 0, "consecutive_actual_low_value": null, "stop_reason": null}
+TRACE state {"searches_attempted": 0, "consecutive_actual_low_value": 0, "stop_reason": null}
+TRACE state {"searches_attempted": 0, "consecutive_actual_low_value": 0, "stop_reason": ""}
+TRACE generate_frontier_query ('site:monmaster.gouv.fr "informatique" "Corte"', 'monmaster_catalogue_city')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master informatique" "Corte" universit�', 'city_first_discovery')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master g�nie logiciel" "Corte"', 'long_tail_track_discovery')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master informatique" "syst�mes" "Corte" universit�', 'programme_search_systems')
+TRACE is_exact_duplicate False
+TRACE cache_wrapper_calls "master informatique" "syst�mes" "Corte" universit�
+TRACE tavily_calls "master informatique" "syst�mes" "Corte" universit�
+TRACE provider results 5
+TRACE state {"searches_attempted": 1, "consecutive_actual_low_value": 0, "stop_reason": ""}
+TRACE extract_candidates_from_search_results 0
+TRACE state {"searches_attempted": 1, "consecutive_actual_low_value": 1, "stop_reason": ""}
+TRACE generate_frontier_query ('site:monmaster.gouv.fr "informatique" "Dijon"', 'monmaster_catalogue_city')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master informatique" "Dijon" universit�', 'city_first_discovery')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master g�nie logiciel" "Dijon"', 'long_tail_track_discovery')
+TRACE is_exact_duplicate False
+TRACE cache_wrapper_calls "master g�nie logiciel" "Dijon"
+TRACE tavily_calls "master g�nie logiciel" "Dijon"
+TRACE provider results 5
+TRACE state {"searches_attempted": 2, "consecutive_actual_low_value": 1, "stop_reason": ""}
+TRACE extract_candidates_from_search_results 2
+TRACE state {"searches_attempted": 2, "consecutive_actual_low_value": 0, "stop_reason": ""}
+TRACE generate_frontier_query ('site:monmaster.gouv.fr "informatique" "Besan�on"', 'monmaster_catalogue_city')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master informatique" "Besan�on" universit�', 'city_first_discovery')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master g�nie logiciel" "Besan�on"', 'long_tail_track_discovery')
+TRACE is_exact_duplicate False
+TRACE cache_wrapper_calls "master g�nie logiciel" "Besan�on"
+TRACE tavily_calls "master g�nie logiciel" "Besan�on"
+TRACE provider results 5
+TRACE state {"searches_attempted": 3, "consecutive_actual_low_value": 0, "stop_reason": ""}
+TRACE extract_candidates_from_search_results 0
+TRACE state {"searches_attempted": 3, "consecutive_actual_low_value": 1, "stop_reason": ""}
+TRACE generate_frontier_query ('site:monmaster.gouv.fr "informatique" "Tours"', 'monmaster_catalogue_city')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master informatique" "Tours" universit�', 'city_first_discovery')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master g�nie logiciel" "Tours"', 'long_tail_track_discovery')
+TRACE is_exact_duplicate False
+TRACE cache_wrapper_calls "master g�nie logiciel" "Tours"
+TRACE tavily_calls "master g�nie logiciel" "Tours"
+TRACE provider results 5
+TRACE state {"searches_attempted": 4, "consecutive_actual_low_value": 1, "stop_reason": ""}
+TRACE extract_candidates_from_search_results 2
+TRACE state {"searches_attempted": 4, "consecutive_actual_low_value": 0, "stop_reason": ""}
+TRACE generate_frontier_query ('site:monmaster.gouv.fr "informatique" "Orl�ans"', 'monmaster_catalogue_city')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master informatique" "Orl�ans" universit�', 'city_first_discovery')
+TRACE is_exact_duplicate True
+TRACE generate_frontier_query ('"master g�nie logiciel" "Orl�ans"', 'long_tail_track_discovery')
+TRACE is_exact_duplicate False
+TRACE cache_wrapper_calls "master g�nie logiciel" "Orl�ans"
+TRACE tavily_calls "master g�nie logiciel" "Orl�ans"
+TRACE provider results 5
+TRACE state {"searches_attempted": 5, "consecutive_actual_low_value": 0, "stop_reason": ""}
+TRACE extract_candidates_from_search_results 0
+TRACE state {"searches_attempted": 5, "consecutive_actual_low_value": 1, "stop_reason": ""}
+TRACE state {"searches_attempted": 5, "consecutive_actual_low_value": 1, "stop_reason": "REGIONS_SATURATED"}
+
+======================================================================
+ DISCOVERY ROUND 5 EXECUTION SUMMARY
+======================================================================
+ Round Stop Reason: REGIONS_SATURATED
+ Selected Priority Regions: Corse, Bourgogne-Franche-Comt�, Centre-Val de Loire
+ Discovery Frontiers Attempted: 5
+ External Search Calls Actually Executed: 5
+ Provider Calls (Attempted/Successful): 5/5
+ Queries Blocked as Exact Duplicates: 0
+ Queries Rewritten After Duplication: 11
+ Universities Attempted: 2
+ New Universities: 0
+ Known Universities With New Tracks: 2
+ New Programmes Found: 2
+ Candidates Deeply Verified: 2
+ Remaining Search Budget: 7
+ Summary Knowledge Base: output\Research-Knowledge-Summary.md
+ Detailed Round Report: output\Discovery-Round-005.md
+ Latest Round Report: output\Discovery-Latest.md
+======================================================================
+
+[+] Bounded round complete (Reason: REGIONS_SATURATED). Memory updated. STOPPING.
+TRACE boundary counts {"cache_wrapper_calls": 5, "tavily_calls": 5}

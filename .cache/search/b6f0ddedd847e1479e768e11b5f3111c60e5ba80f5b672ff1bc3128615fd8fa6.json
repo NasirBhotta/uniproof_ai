@@ -1,0 +1,40 @@
+{
+  "query": "site:univ-artois.fr \"master informatique\" \"Arras\" parcours",
+  "results": [
+    {
+      "title": "Master Informatique - Université d'Artois",
+      "url": "http://informatique.univ-artois.fr/master",
+      "snippet": "Le master d'informatique de l'Université d'Artois vise à former des informaticiens de niveau BAC+5 ayant une formation générale solide dans les",
+      "raw_content": null,
+      "score": 0.42033842
+    },
+    {
+      "title": "Université d'Artois | Université d'Artois",
+      "url": "https://www.univ-artois.fr/",
+      "snippet": "EN\n ES\n 中文\n\n Suivez-nous sur facebook\n Suivez-nous sur linkedin\n Suivez-nous sur youtube\n Suivez-nous sur instagram\n\nPôle d'Arras\n\nCarousel Faculté des sciences de Lens\n\nCarousel Faculté de Droit de Douai\n\nCarousel Faculté des sports de Liévin\n\nCarousel Faculté des sciences appliquées de Béthune\n\nEcole d'ingénieurs de l'Artois\n\nCarousel IUT de Lens\n\nCarousel IUT de Béthune\n\n#### Rechercher une formation\n\nAccédez au catalogue des formations\n\n#### Admission / Inscription [...] Procédures, calendriers, formulaires, FAQ...\n\n## Actualités\n\nToutes les actualités\n\n## Agenda\n\nTout l'agenda\n\n12300\n\nétudiants\n\n1105\n\npersonnels administratifs et enseignants\n\n11\n\nCOMPOSANTES (8 UFR, 2 IUT, 1 École d'Ingénieurs)\n\n14\n\nlaboratoires de recherche\n\n3000\n\nINSCRITS EN FORMATION CONTINUE\n\nArras / Béthune / Douai / Lens / Liévin\n\n## Situation géographique\n\nSituée dans les Hauts-de-France, l'Université d'Artois est implantée sur 5 villes : Arras, Béthune, Douai, Lens et Liévin. [...] Son siège se trouve à Arras.\n\nL’université d’Artois est située à mi-chemin entre Londres, Bruxelles et Paris\n\n##### Envoyer",
+      "raw_content": null,
+      "score": 0.23792146
+    },
+    {
+      "title": "Master (LMD)",
+      "url": "https://formations.univ-artois.fr/fr/formations/feuilleter-le-catalogue/master-lmd-XB.html",
+      "snippet": "Master Informatique · Ingénierie Logicielle pour l'Internet · Ingénierie ... Master Mathématiques parcours Mathématiques fondamentales · Master Monnaie",
+      "raw_content": null,
+      "score": 0.23712559
+    },
+    {
+      "title": "Master Intelligence artificielle",
+      "url": "https://formations.univ-artois.fr/fr/formations/feuilleter-le-catalogue/master-lmd-XB/master-intelligence-artificielle-LJ6XJLMS.html",
+      "snippet": "Le master Intelligence Artificielle propose deux spécialisations sous forme de parcours. MASTER 1 Sur dossier pour. Licence fondamentale en informatique ou en",
+      "raw_content": null,
+      "score": 0.20577498
+    },
+    {
+      "title": "Parcours Intelligence Artificielle Appliquée (I2A)",
+      "url": "https://formations.univ-artois.fr/fr/formations/feuilleter-le-catalogue/master-lmd-XB/master-intelligence-artificielle-LJ6XJLMS/parcours-intelligence-artificielle-appliquee-i2a-MQUJ9OVX.html",
+      "snippet": "Le parcours I2A prépare les étudiants à une insertion professionnelle rapide en tant qu'ingénieurs ou experts en IA appliquée, tout en conservant une solide",
+      "raw_content": null,
+      "score": 0.065563075
+    }
+  ]
+}

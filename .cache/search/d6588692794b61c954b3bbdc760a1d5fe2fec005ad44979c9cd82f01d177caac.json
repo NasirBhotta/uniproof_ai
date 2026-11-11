@@ -1,0 +1,40 @@
+{
+  "query": "site:univ-pau.fr \"master informatique\" \"Pau\" parcours",
+  "results": [
+    {
+      "title": "Master Mention Informatique - Pau - Formation - UPPA",
+      "url": "https://formation.univ-pau.fr/fr/catalogue/master-XB/master-mention-informatique-L3Y98DNU.html",
+      "snippet": "Le parcours TI, dispensé sur Pau, est orienté génie logiciel et systèmes distribués. Il vise typiquement les métiers de conception des applications",
+      "raw_content": null,
+      "score": 0.890761
+    },
+    {
+      "title": "Parcours Technologies de l'internet - Formation",
+      "url": "https://formation.univ-pau.fr/plugins/odf-web/formation/_content/subprogram-parcours-technologies-de-l-internet/Parcours%20Technologies%20de%20l'internet%20.pdf",
+      "snippet": "SCIENCES, TECHNOLOGIES, SANTÉ Parcours Technologies de l'internet Master Mention Informatique  ECTS 120 crédits  Durée 2 ans  Composante Collège Sciences et Technologies pour l’Energie et l’Environnement (STEE)  Langue(s) d'enseignement Français Présentation Le parcours TI, dispensé sur Pau, est orienté génie logiciel et systèmes distribués. Il vise typiquement les métiers de conception des applications informatiques, depuis leur modélisation jusqu’à leur développement, avec des technologies [...] Stages Stage : Obligatoire Durée du stage : 5 mois Admission Conditions d'admission Depuis la loi n° 2016-1828 du 23 décembre 2016, le master est un cursus de 4 semestres, sans sélection intermédiaire, conduisant au diplôme national de master. 3 / 8 Université de Pau et des Pays de l'Adour (UPPA) Dernière mise à jour le 04 mars 2026 Cette loi introduit un recrutement des étudiants à l'entrée en première année du master (sur dossier ou concours). Chaque mention ou parcours ﬁxe une capacité [...] Stages à l'étranger Possibilité de suivre 1 ou 2 semestres à l’étranger et de valider les crédits obtenus dans le cadre du master (ECTS : European Credits Transfer System) Passerelles et réorientation Un accord a été signé en 2014 avec l’EISTI Pau (Ecole Internationale des Sciences du Traitement de l'Information) : accueil d’étudiants de dernière année de l’EISTI qui souhaiteraient s’orienter vers la recherche en M2 parcours TI et accès à des étudiants de M2 TI à l’UE « Culture d’entreprise »,",
+      "raw_content": null,
+      "score": 0.8533396
+    },
+    {
+      "title": "L1, L2 et L3 parcours Informatique - Formation - Université de Pau et des Pays de l'Adour (UPPA)",
+      "url": "https://formation.univ-pau.fr/fr/catalogue/licence-XA/licence-informatique-L3VENPWZ/l1-l2-et-l3-parcours-informatique-L3VEOQMB.html",
+      "snippet": "Le titulaire du parcours informatique met en œuvre, administre un système informatique quel que soit le contexte matériel (Micro informatique, gros systèmes, ...) et en définit l’architecture logicielle.\n\nIl développe des applications informatiques (en participant aux phases de programmation, conception technique, analyse) dans les domaines de l’informatique scientifique et technique, l’Internet et les bases de données. [...] La licence informatique donne aux étudiants les connaissances fondamentales en informatique leur permettant d’occuper des postes techniques dans les entreprises, sociétés de services en informatique, administrations. Cette formation permet également aux étudiants de poursuivre leurs études et de se spécialiser dans un des domaines de l’informatique en intégrant des masters informatiques. [...] Un autre objectif est de fournir aux étudiants une base de connaissances large et solide pour réaliser les travaux pratiques des autres UE de la licence informatique (programmation Java pour le parallélisme, le Web, etc.).\n\nLa maîtrise de Java est en outre essentielle pour envisager une poursuite d'études en master informatique.\n\nVoir la page complète\n\n## Bases de données 2\n\n Ajouter à la sélection\n\n ## ECTS\n\n  4 crédits\n ## Composante",
+      "raw_content": null,
+      "score": 0.8088086
+    },
+    {
+      "title": "M1/M2 Parcours Management des organisations et technologies de l'information - Formation - Université de Pau et des Pays de l'Adour (UPPA)",
+      "url": "https://formation.univ-pau.fr/fr/catalogue/master-XB/master-mention-management-des-systemes-d-information-L3WQ0O82/m1-m2-parcours-management-des-organisations-et-technologies-de-l-information-L3WQ118Q.html",
+      "snippet": "Quatre anciens étudiants du Master Management des Systèmes d'Information – Parcours Management des Organisations et Technologies de l'Information partagent leurs parcours professionnels et les postes qu’ils occupent aujourd'hui.\n\nLa diversité des secteurs et des métiers qu’ils présentent illustre parfaitement la polyvalence de cette formation, qui dote les diplômés de compétences transversales recherchées dans de nombreux domaines d’activité. [...] Lire moins\n\n## Votre université\n\nLa vidéo ci-dessous vous partage la vision croisée d'étudiants en alternance et d'anciens étudiants tous issus de la formation du master Management des Systèmes d'Information - Parcours Management des Organisations et Technologies de l'Information.\n\nCes étudiants et alumni travaillent au sein de l'entreprise Octime, partenaire de longue date de l'IAE Pau-Bayonne. [...] En Master 1 :2 à 3 mois de stage (facultatif).\n En Master 2 : Une formation par alternance, atout majeur pour l’insertion professionnelle, véritable tremplin pour l’emploi.\n\n## Accompagnement des étudiants\n\nL’IAE accompagne les étudiants dans la recherche d’une alternance et dans sa réalisation en entreprise.",
+      "raw_content": null,
+      "score": 0.80625874
+    },
+    {
+      "title": "Parcours Technologies de l'internet - Pau - Formation",
+      "url": "https://formation.univ-pau.fr/fr/catalogue/master-XB/master-mention-informatique-L3Y98DNU/parcours-technologies-de-l-internet-L3Y98T3K.html",
+      "snippet": "Ce parcours a pour objectif de former des spécialistes, au niveau ingénieur, du génie logiciel, des systèmes distribués dont l'Internet est l'illustration la",
+      "raw_content": null,
+      "score": 0.7062922
+    }
+  ]
+}

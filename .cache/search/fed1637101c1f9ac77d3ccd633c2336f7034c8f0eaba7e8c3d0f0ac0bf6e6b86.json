@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"Master Informatique Logiciels pour systèmes embarqués\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Logiciels pour systèmes embarqués - Catalogue des Formations",
+      "url": "https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3//parcours-logiciels-pour-systemes-embarques-INRBVC8Q.html?search-keywords=publics++sp%C3%A9cifiques",
+      "snippet": "|  |  |  |\n --- \n| S9 LSE Modèles et Langages pour le parallélisme | 4 crédits | 48h |\n| S9 LSE Objets Connectés et Sécurité | 4 crédits | 48h |\n| S9 LSE Systèmes d'exploitation pour l'embarqué | 4 crédits | 48h |\n| S9 LSE System On Chip | 4 crédits | 48h |\n| S9 LSE IA embarquée | 4 crédits | 48h |\n| S9 LSE Sûreté de Fonctionnement | 4 crédits | 48h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Communication | 2 crédits | 22h |\n| Anglais | 3 crédits | 22h | [...] | S7 INF Théorie des programmes | 4 crédits | 44h |\n| S7 INF Interface Homme-Machine | 4 crédits | 44h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Communication | 2 crédits | 22h |\n| Anglais | 3 crédits | 22h |\n| Entreprise | 1 crédits | 10h | [...] | S8 INF Méthodes computationnelles | 3 crédits | 44h |\n| S8 INF Expérience professionnelle, obligatoire : | 8 crédits |\n| 1 option(s) au choix parmi 2 |\n| S8 INF Temps d'accueil en laboratoire TAL | 8 crédits | 6h |\n| S8 INF Stage | 8 crédits | 6h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Anglais | 3 crédits | 22h |\n| Communication | 2 crédits | 22h |\n| Entreprise | 1 crédits | 10h |",
+      "raw_content": null,
+      "score": 0.6554468
+    },
+    {
+      "title": "Parcours Logiciels pour systèmes embarqués",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Logiciels%20pour%20syst%C3%A8mes%20embarqu%C3%A9s.pdf?contentId=subProgramContent%3A%2F%2F1a29a8b6-0379-4fd1-8fab-a2de798d837c",
+      "snippet": ": - S8 INF Temps d'accueil en laboratoire TAL 6h - S8 INF Stage 6h Préparation à la vie professionnelle - Anglais 22h - Communication 22h - Entreprise 10h M2 Semestre 9 S9 LSE Modèles et Langages pour le parallélisme 48h S9 LSE Objets Connectés et Sécurité 48h S9 LSE Systèmes d'exploitation pour l'embarqué 48h S9 LSE System On Chip 48h S9 LSE IA embarquée 48h S9 LSE Sûreté de Fonctionnement 48h Préparation à la vie professionnelle - Communication 22h - Anglais 22h - Entreprise 10h Semestre 10 [...] Master Informatique Parcours Logiciels pour systèmes embarqués Objectifs Le parcours LSE est indifférencié, c'est une formation orientée vers l’ingénierie et la recherche dans le domaine des systèmes embarqués. Les systèmes embarqués constituent un domaine en fort développement, que ce soit dans le secteur des produits grand public (smartphones, objets connectés GPS, set top box, consoles de jeux) ou dans le secteur des dispositifs enfouis de contrôle de véhicules (avions, automobiles, drones) [...] L’objectif de ce master est de former les étudiants aux outils et techniques logicielles nécessaires à l’élaboration d’applications embarquées, mais aussi (c’est sa spécificité) de donner aux étudiants la capacité de concevoir des méthodes et outils de développement pour ce domaine dans les secteurs clés : développement logiciel, système d’exploitation, compilation, configuration des ressources matérielles, optimisation, test et vérification...",
+      "raw_content": null,
+      "score": 0.5660431
+    },
+    {
+      "title": "Formations | Département informatique",
+      "url": "https://univ-brest.fr/departement-informatique/fr/page/formations",
+      "snippet": "oriente l’étudiant vers l’ingénierie et la recherche dans le domaine des systèmes embarqués. C’est un domaine en très fort développement dans le secteur grand public (smartphones, consoles de jeux, GPS) ou dans le secteur des dispositifs enfouis de contrôles de véhicules et de chaînes de production. Le master forme donc les étudiants aux outils et techniques logicielles nécessaires à l’élaboration d’applications embarquées, et leur donne la capacité de concevoir leurs propres outils de [...] Le Parcours Logiciels pour les Systèmes Embarqués (LSE)",
+      "raw_content": null,
+      "score": 0.38609254
+    }
+  ]
+}

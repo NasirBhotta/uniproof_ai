@@ -1,0 +1,40 @@
+{
+  "query": "site:univ-st-etienne.fr \"master informatique\" \"Saint-Étienne\" parcours",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Cyber-Physical Social Systems",
+      "url": "https://www.univ-st-etienne.fr/plugins/stetienne/ujm/_content/tab1/program-master-informatique-parcours-cyber-physical-social-systems.pdf",
+      "snippet": "Master Informatique Parcours Cyber-Physical Social Systems Diplôme Master Domaine d'étude Sciences, Technologies, Santé Mention Informatique Parcours Cyber-Physical Social Systems Objectifs CPS2 est un parcours international du master en Informatique de l’Université de Lyon proposé en commun par l’Université de Saint-Étienne et Mines Saint-Étienne - Institut Mines Télécom. Le but de ce programme est de donner aux étudiants une solide expertise en Intelligence Artificielle et Internet des Objets, [...] CPS2 is an international track of the master in Computer Science of University of Lyon, jointly operated by University of Saint-Étienne and Mines Saint-Étienne - Institut Mines Télécom. The aim of this program is to provide students with strong expertise on Artificial Intelligence and Internet of Things to develop theoretical models and technologies for current and future applications in industry and society. After validating this programme, students will master the necessary technologies and [...] 2 ECTS M2 Curriculum - SEMESTER 2 > Master thesis: 30 ECTS Coût de l'inscription € Détail coût d'inscription More information Contact Responsable(s) Fabrice MUHLENBACH Responsable du Département Informatique fabrice.muhlenbach@univ-st-etienne.fr Amaury HABRARD Responsable de l'équipe pédagogique du Master amaury.habrard@univ-st-etienne.fr Pierre MARET Responsable pédagogique du parcours CPS2 pierre.maret@univ-st-etienne.fr Contact(s) scolarité Campus Manufacture",
+      "raw_content": null,
+      "score": 0.8978479
+    },
+    {
+      "title": "Master Informatique Parcours Cyberphysical and social ...",
+      "url": "https://www.univ-st-etienne.fr/fr/formation/master-XB/master-XB/master-informatique-parcours-cyberphysical-and-social-systems-cps2-5_09_07_0005_FR.html",
+      "snippet": "CPS2 est un parcours international du master en Informatique de l'Université de Lyon proposé en commun par l'Université de Saint-Étienne et Mines Saint-Étienne",
+      "raw_content": null,
+      "score": 0.8805613
+    },
+    {
+      "title": "Catalogue des formations - Université Jean Monnet",
+      "url": "https://www.univ-st-etienne.fr/fr/formation/catalogue-des-formations.html",
+      "snippet": "- DU Gestion juridique et Comptabilité\n  + Licence\n    - La Licence Gestion de l'IAE de Saint-Étienne\n  + Master\n    - Master Comptabilité, Contrôle, Audit\n    - Master Contrôle de Gestion et Audit Organisationnel Parcours Management de la performance et des risques\n    - Master Design Parcours Prospective Design\n    - Master Finance Parcours Conseils et Ingénierie Financière\n    - Master Information-Communication Parcours Stratégies de communication, management et marketing digital [...] + Licence\n    - Licence Economie\n  + Master\n    - Master Analyse et politique économique Parcours Data Science & Management de l’Innovation\n    - Master Analyse et politique économique Parcours Economics, Data and Decision Science\n    - Master Analyse et politique économique Parcours Territoires et transitions\n Télécom Saint-Etienne\n  + Bachelor\n    - Bachelor Global Communication & Digital Design\n  + D.U.\n    - DU CITISE\n    - DU Innov' iT [...] - Licence professionnelle Assurance, Banque, Finance: chargé de clientèle\n  + Master\n    - Master Électronique, Énergie Électrique, automatique parcours Traitement de l'Information et Instrumentation pour l'Ingénieur\n    - Master Génie industriel Parcours Gestion et Ingénierie des Systèmes Industriels et de Santé (GISIS)\n    - Master Génie industriel Parcours Méthodes Avancées de Génie Industriel pour l'industrie du Futur (MAGIF)\n IUT de Saint-Etienne\n  + B.U.T.",
+      "raw_content": null,
+      "score": 0.7144891
+    },
+    {
+      "title": "Computer Science Department - Université Jean Monnet",
+      "url": "https://fac-sciences.univ-st-etienne.fr/en/departments/computer-science-department.html",
+      "snippet": "Educational programs-Bachelor in Computer Science  \n-Master Informatique Parcours Cyber-Physical Social Systems (full programme in English)  \n-Master Informatique Parcours Données et Systèmes Connectés (50% in French / 50% in English)  \n-Master Informatique Parcours Machine Learning and Data Mining (full programme in English)  \n-PhD in Computer Science.\n\nCourses in English  \nCourses can be offered in English or with special adaptation to non-French speakers. [...] # Computer Science Department\n\nGo to contentGo to searchGo to menu\n\nMenu\n\n Main menu\n\nen\n\n fr\n es\n\nSaint-Etienne University link\n\nYou are here:\n\n Home\n > Departments\n > Computer Science Department\n\n# Computer Science Department\n\n\n\nThe computer science department belongs to the Faculty of Science. It delivers Bachelor, Master and PhD degrees in Computer Science. [...] Master thesis or laboratory placementsEnglish can be the working language.  \nDuring the thesis/placement, you will work in a research laboratory under the supervision of a researcher. A placement can be combined with courses.  \nApply for a laboratory placement targeting one or several topics addressed in our university.  \nCredits: 5 ECTS per working month. ECTS Credits are delivered only after report validation and the defense.",
+      "raw_content": null,
+      "score": 0.54753727
+    },
+    {
+      "title": "Master Informatique Parcours Données et Systèmes Connectés",
+      "url": "https://fac-sciences.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-informatique-parcours-donnees-et-systemes-connectes-5_09_07_0006_FR.html",
+      "snippet": "Le parcours vise à former des informaticiens capables de répondre aux problématiques de la massification des données et de l'interconnexion des systèmes",
+      "raw_content": null,
+      "score": 0.53196377
+    }
+  ]
+}

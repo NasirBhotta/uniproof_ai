@@ -1,0 +1,352 @@
+{
+  "round_number": 8,
+  "stop_reason": "FRONTIERS_DEFERRED",
+  "selected_regions": [
+    "Centre-Val de Loire",
+    "Bourgogne-Franche-Comté",
+    "Normandie"
+  ],
+  "universities_discovered": 7,
+  "programmes_discovered": 6,
+  "viable_newcomers": 0,
+  "searches_attempted": 7,
+  "remaining_budget": 5,
+  "summary_report": "output\\Research-Knowledge-Summary.md",
+  "round_report": "output\\Discovery-Round-008.md",
+  "latest_report": "output\\Discovery-Latest.md",
+  "new_universities_count": 0,
+  "known_universities_new_tracks": 4,
+  "frontiers_attempted": 7,
+  "queries_rewritten": 0,
+  "duplicate_queries_blocked": 0,
+  "provider_calls_attempted": 7,
+  "provider_calls_successful": 7,
+  "provider_failures": 0,
+  "cache_hits": 0,
+  "consecutive_actual_low_value": 0,
+  "candidates_deeply_verified": 0,
+  "pipeline": {
+    "migrated_records": 0,
+    "cycle1_processed": 6,
+    "cycle1_passed": 6,
+    "cycle1_rejected": 0,
+    "promoted_to_cycle2": 1,
+    "cycle2_processed": 1,
+    "cycle2_verified": 0,
+    "cycle2_rejected": 0,
+    "fields_refreshed": 0,
+    "pool_additions": 0,
+    "pool_replacements": 0,
+    "pool_unchanged_candidates": 20,
+    "errors": 0,
+    "external_searches": 10,
+    "cache_hits": 4,
+    "searches_saved_by_memory": 1,
+    "llm_calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "provider_failures": 0,
+    "page_fetches": 6,
+    "cycle1_searches": 6,
+    "cycle2_searches": 4,
+    "current_pool_size": 0,
+    "stage_events": [
+      {
+        "programme_id": "349990842acda180",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "349990842acda180",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "40a29659ad41f697",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "40a29659ad41f697",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "979dc10f9d2258da",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "979dc10f9d2258da",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "b77bbe2ae231b9c5",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "b77bbe2ae231b9c5",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "c77b4272d79a465e",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "c77b4272d79a465e",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "faf1ec48a8b1515b",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "faf1ec48a8b1515b",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PASSED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "1dd0d15beb2379a6",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "1dd0d15beb2379a6",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "241542b76c0fe682",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "241542b76c0fe682",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "6cdf0e7da2bd2357",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "6cdf0e7da2bd2357",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "CYCLE2_PENDING",
+        "reason": "COMPLEMENT_EXISTING: Build a credible working pool"
+      },
+      {
+        "programme_id": "d1172ed14d796c1a",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "d1172ed14d796c1a",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "dd14b0cc5ef4d577",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "dd14b0cc5ef4d577",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "e88178bda5ea2cc3",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "e88178bda5ea2cc3",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "349990842acda180",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "349990842acda180",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "40a29659ad41f697",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "40a29659ad41f697",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "979dc10f9d2258da",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "979dc10f9d2258da",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "b77bbe2ae231b9c5",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "b77bbe2ae231b9c5",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "c77b4272d79a465e",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "c77b4272d79a465e",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "faf1ec48a8b1515b",
+        "from_state": "CYCLE1_PASSED",
+        "to_state": "PROMOTION_REVIEW",
+        "reason": "Compare saved dimensions"
+      },
+      {
+        "programme_id": "faf1ec48a8b1515b",
+        "from_state": "PROMOTION_REVIEW",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: No evidence of academic or degree compatibility yet"
+      },
+      {
+        "programme_id": "6cdf0e7da2bd2357",
+        "from_state": "CYCLE2_PENDING",
+        "to_state": "CYCLE2_PROCESSING",
+        "reason": "Promoted challenger only"
+      },
+      {
+        "programme_id": "6cdf0e7da2bd2357",
+        "from_state": "CYCLE2_PROCESSING",
+        "to_state": "CYCLE2_REVIEW_REQUIRED",
+        "reason": "Deep targeted checks completed"
+      },
+      {
+        "programme_id": "f5dc94180ae92f56",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "4cb77900ea4201bd",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "ca9adec2279cd309",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "c6e84287c4366383",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "da5e59fd2e1c82a7",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "1398c04d118bab69",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "6cdf0e7da2bd2357",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "085e2e20b37f2190",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      },
+      {
+        "programme_id": "8bd5267274de9f9b",
+        "from_state": "CYCLE2_REVIEW_REQUIRED",
+        "to_state": "POOL_DROPPED",
+        "reason": "INSUFFICIENT_EVIDENCE: Critical evidence remains unresolved or stale"
+      }
+    ],
+    "pending_counts": {
+      "CYCLE1_REJECTED": 5,
+      "LEGACY_REVIEW": 72,
+      "POOL_DROPPED": 20
+    },
+    "new_programmes_per_round": 6,
+    "promoted_programmes_per_round": 1,
+    "pool_replacements_per_round": 0,
+    "legacy_records_reviewed_without_cycle1_rerun": 14,
+    "legacy_first_cycle2_processed": 1,
+    "new_delta_promoted_to_cycle2": 0
+  },
+  "consecutive_rounds_without_pool_improvement": 1,
+  "regions_explored": 3,
+  "final_selection_ready": false
+}

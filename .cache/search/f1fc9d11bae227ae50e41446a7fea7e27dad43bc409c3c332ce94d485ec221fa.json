@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-reims.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Candidater - Étudiant international",
+      "url": "https://www.univ-reims.fr/iut-rcc//minisite_155/candidater/etudiant-international/candidater-etudiant-international,23619,39751.html",
+      "snippet": "Les candidats internationaux résidant dans un pays n'appartenant pas à un espace Campus France, ou étudiant actuellement dans un lycée français à l'étranger",
+      "raw_content": null,
+      "score": 0.68496037
+    },
+    {
+      "title": "Admission des étudiants internationaux hors programmes ...",
+      "url": "https://www.univ-reims.fr/etudiants-internationaux",
+      "snippet": "Les candidatures sur \"Etudes en France\" pour notre établissement pourront être déposées : pour les formations de 1ère année : du 1er octobre 2026 au 15 décembre",
+      "raw_content": null,
+      "score": 0.5113512
+    },
+    {
+      "title": "Accès aux études de Santé pour les étudiants internationaux",
+      "url": "https://www.univ-reims.fr/acces-sante-internationaux",
+      "snippet": "L'admission se fait par le biais d'un dossier complété et retourné auprès de l'espace Campus France de votre pays d'origine avant le 1er février. Les pièces à",
+      "raw_content": null,
+      "score": 0.4928966
+    }
+  ]
+}

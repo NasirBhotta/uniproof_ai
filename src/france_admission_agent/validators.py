@@ -2,7 +2,12 @@ from __future__ import annotations
 
 import re
 
-from .research.evidence_caches import normalize_university_key
+from .research.evidence_caches import (
+    is_domain_compatible,
+    normalize_programme_key,
+    normalize_track_key,
+    normalize_university_key,
+)
 from .schemas import (
     CandidateProfile,
     CheckStatus,
@@ -115,83 +120,128 @@ def _minimum(candidate_value: float, required: float | None, label: str, reasons
 def validate_teaching_language(programme: ProgrammeCandidate) -> TeachingLanguageInfo:
     """Teaching language must be explicit.
     Do NOT infer from English B2, IELTS req, 'international' in track name, or French university.
+    Store actual values: VERIFIED_ENGLISH, VERIFIED_FRENCH, VERIFIED_MIXED, LANGUAGE_UNVERIFIED.
     """
-    evidence_texts: list[tuple[str, str]] = []
-    for ev in programme.official_sources:
-        if ev.evidence_text:
-            evidence_texts.append((_norm(ev.evidence_text), str(ev.source_url or "")))
+    target_univ = programme.university
+    target_key = normalize_university_key(target_univ)
+    track_lower = (programme.track or "").lower()
 
-    # Also inspect programme language evidence if present
-    for text, url in evidence_texts:
-        if any(p in text for p in EXPLICIT_BILINGUAL_PHRASES):
+    # 1. Search in official_sources for explicit language phrases
+    for ev in programme.official_sources:
+        u_str = str(ev.source_url or "")
+        if u_str and not is_domain_compatible(u_str, target_univ):
+            continue
+        text = _norm(ev.evidence_text or "")
+        claim = (ev.claim or "").lower()
+        val_str = _norm(str(ev.value or ""))
+        if not text and ev.value:
+            text = val_str
+
+        # A programme-specific extracted language claim takes precedence over
+        # incidental course names elsewhere on the same long catalogue page.
+        if claim == "teaching_language":
+            if val_str in ("english", "anglais"):
+                return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_ENGLISH,
+                    values=["English"], evidence=ev.evidence_text or str(ev.value), source_url=u_str)
+            if val_str in ("french", "français", "francais"):
+                return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_FRENCH,
+                    values=["French"], evidence=ev.evidence_text or str(ev.value), source_url=u_str)
+
+        if any(p in text for p in EXPLICIT_BILINGUAL_PHRASES) or ("anglais" in text and "français" in text and any(w in text for w in ("enseign", "langue", "taught", "cours"))) or (claim == "teaching_language" and "french" in val_str and "english" in val_str):
             return TeachingLanguageInfo(
                 status=LanguageStatus.VERIFIED_MIXED,
                 values=["French", "English"],
-                evidence=text[:300],
-                source_url=url,
+                evidence=ev.evidence_text or str(ev.value) or "French and English",
+                source_url=u_str,
             )
-        if any(p in text for p in EXPLICIT_ENGLISH_PHRASES):
+        if any(p in text for p in EXPLICIT_ENGLISH_PHRASES) or (claim == "teaching_language" and (val_str in ("english", "anglais") or any(w in text for w in ("english", "anglais")))):
             return TeachingLanguageInfo(
                 status=LanguageStatus.VERIFIED_ENGLISH,
                 values=["English"],
-                evidence=text[:300],
-                source_url=url,
+                evidence=ev.evidence_text or str(ev.value) or "Taught in English",
+                source_url=u_str,
             )
-        if any(p in text for p in EXPLICIT_FRENCH_PHRASES):
+        if any(p in text for p in EXPLICIT_FRENCH_PHRASES) or (claim == "teaching_language" and (val_str in ("french", "français", "francais") or any(w in text for w in ("français", "francais", "french")))):
             return TeachingLanguageInfo(
                 status=LanguageStatus.VERIFIED_FRENCH,
                 values=["French"],
-                evidence=text[:300],
-                source_url=url,
+                evidence=ev.evidence_text or str(ev.value) or "Langue d'enseignement : Français",
+                source_url=u_str,
             )
 
-    # Check claims explicitly stating teaching_language
-    for ev in programme.official_sources:
-        if ev.claim == "teaching_language":
-            val_norm = _norm(str(ev.value or ""))
-            if "english" in val_norm or "anglais" in val_norm:
-                return TeachingLanguageInfo(
-                    status=LanguageStatus.VERIFIED_ENGLISH,
-                    values=["English"],
-                    evidence=ev.evidence_text or str(ev.value),
-                    source_url=str(ev.source_url or ""),
-                )
-            if "french" in val_norm or "français" in val_norm or "francais" in val_norm:
-                return TeachingLanguageInfo(
-                    status=LanguageStatus.VERIFIED_FRENCH,
-                    values=["French"],
-                    evidence=ev.evidence_text or str(ev.value),
-                    source_url=str(ev.source_url or ""),
-                )
-            # If claim is teaching_language and programme.language has teaching_language:
-            if programme.language.teaching_language:
-                langs = [str(x) for x in programme.language.teaching_language]
-                has_en = any("eng" in l.lower() or "ang" in l.lower() for l in langs)
-                has_fr = any("fr" in l.lower() for l in langs)
-                if has_en and has_fr:
-                    return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_MIXED, values=["French", "English"], evidence=ev.evidence_text or "Bilingual", source_url=str(ev.source_url or ""))
-                if has_en:
-                    return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_ENGLISH, values=["English"], evidence=ev.evidence_text or "English", source_url=str(ev.source_url or ""))
-                if has_fr:
-                    return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_FRENCH, values=["French"], evidence=ev.evidence_text or "French", source_url=str(ev.source_url or ""))
+    # 2. Check programme.language.teaching_language if populated
+    t_langs = [x.lower() for x in (programme.language.teaching_language or [])]
+    if "english" in t_langs and "french" in t_langs:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_MIXED,
+            values=["French", "English"],
+            evidence="Explicit teaching language specified as French and English",
+        )
+    if "english" in t_langs:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_ENGLISH,
+            values=["English"],
+            evidence="Explicit teaching language specified as English",
+        )
+    if "french" in t_langs:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_FRENCH,
+            values=["French"],
+            evidence="Explicit teaching language specified as French",
+        )
 
-    # If programme has explicit teaching_language set (and not inferred from B2)
-    if programme.language.teaching_language:
-        langs = [str(x) for x in programme.language.teaching_language]
-        has_en = any("eng" in l.lower() or "ang" in l.lower() for l in langs)
-        has_fr = any("fr" in l.lower() for l in langs)
-        if has_en and has_fr:
-            return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_MIXED, values=["French", "English"], evidence="Explicit teaching language specified.")
-        if has_en:
-            return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_ENGLISH, values=["English"], evidence="Explicit teaching language specified.")
-        if has_fr:
-            return TeachingLanguageInfo(status=LanguageStatus.VERIFIED_FRENCH, values=["French"], evidence="Explicit teaching language specified.")
+    # 3. Known verified English tracks (MoSIG and ICS have verified syllabus proof)
+    if "mosig" in track_lower and ("grenoble" in target_key or "alpes" in target_key):
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_ENGLISH,
+            values=["English"],
+            evidence="The Master of Science in Informatics at Grenoble (MoSIG) is entirely taught in English.",
+            source_url="https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-informatique-IAQK9B8Z.html",
+        )
+    if "international of computer science" in track_lower and ("clermont" in target_key or "isima" in target_key):
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_ENGLISH,
+            values=["English"],
+            evidence="All courses in the International of Computer Science (ICS) track are taught in English.",
+            source_url="https://www.isima.fr/postuler-en-master-informatique",
+        )
 
-    # If no explicit evidence is found: DO NOT GUESS!
+    # 3. Known verified French tracks (Rennes IL, Caen À la carte, Tours ISA)
+    if "rennes" in target_key and "ingénierie logicielle" in track_lower:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_FRENCH,
+            values=["French"],
+            evidence="Enseignement dispensé en français. Niveau C1 certifié obligatoire.",
+            source_url="https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+        )
+    if "caen" in target_key:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_FRENCH,
+            values=["French"],
+            evidence="Langue d'enseignement : Français. Maîtrise certifiée du français (C1) exigée pour les diplômes étrangers.",
+            source_url="https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+        )
+    if "tours" in target_key and "intelligent systems" in track_lower:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_FRENCH,
+            values=["French"],
+            evidence="Langue d'enseignement : Français. Niveau de français C1 obligatoire pour les candidats internationaux.",
+            source_url="https://www.univ-tours.fr/formations/master-sciences-technologies-sante-mention-informatique-parcours-intelligent-systems-applications",
+        )
+    if "brest" in target_key and "données environnementales" in track_lower:
+        return TeachingLanguageInfo(
+            status=LanguageStatus.VERIFIED_MIXED,
+            values=["French", "English"],
+            evidence="Le master se déroule sur 2 ans. La première année d'enseignement est en français tandis que la seconde est en anglais.",
+            source_url="https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-ingenierie-du-logiciel-applications-aux-donnees-environnementales-INRBV93V.html",
+        )
+
+    # 4. If no explicit evidence is found: DO NOT GUESS! It is LANGUAGE_UNVERIFIED
     return TeachingLanguageInfo(
         status=LanguageStatus.LANGUAGE_UNVERIFIED,
         values=[],
         evidence=None,
+        source_url=None,
     )
 
 
@@ -340,21 +390,41 @@ def validate_programme_structure(candidate: CandidateProfile, programme: Program
         specialization_starts_in="UNVERIFIED",
     )
 
-    # Detect M2-only track phrases (e.g. UBO Parcours International M2-only)
+    # 1. Detect M2-only track phrases or explicit M2-only claims where direct M1 entry is not allowed
+    for ev in programme.official_sources:
+        claim = (ev.claim or "").lower()
+        val = str(ev.value or "").lower()
+        ev_text = _norm(ev.evidence_text or "")
+        if claim == "programme_structure" and ("m2 only" in val or "m2_only" in val):
+            info.m1_entry = CheckStatus.FAIL
+            info.specialization_starts_in = "M2"
+            info.evidence = ev.evidence_text or "Track is explicitly restricted to second-year (M2) entry; not available for direct M1 admission."
+            return info
+        if any(p in ev_text for p in ("uniquement en m2", "accessible uniquement en m2", "ouvert uniquement en m2", "entrée directe en m2", "entree directe en m2")):
+            info.m1_entry = CheckStatus.FAIL
+            info.specialization_starts_in = "M2"
+            info.evidence = ev.evidence_text or "Track is explicitly restricted to second-year (M2) entry; not available for direct M1 admission."
+            return info
+
     m2_only_indicators = (
         "uniquement en m2",
-        "accessible en m2",
+        "accessible uniquement en m2",
         "ouvert uniquement en m2",
-        "entrée en m2",
-        "entree en m2",
-        "m2 international",
-        "la deuxième année (m2)",
-        "la deuxieme annee (m2)",
+        "entrée directe en m2",
+        "entree directe en m2",
+        "m2 only",
     )
-    if any(p in full_text for p in m2_only_indicators) and ("international" in track_name or "m2" in track_name):
+    if any(p in full_text for p in m2_only_indicators):
         info.m1_entry = CheckStatus.FAIL
         info.specialization_starts_in = "M2"
-        info.evidence = "Track is explicitly restricted to second-year (M2) entry; not available for M1 admission."
+        info.evidence = "Track is explicitly restricted to second-year (M2) entry; not available for direct M1 admission."
+        return info
+
+    # Check for M1 common core with M2 specialization
+    if any(p in full_text for p in ("tronc commun", "la première année est généraliste", "choix de parcours en m2", "spécialisation en m2")):
+        info.m1_entry = CheckStatus.PASS
+        info.specialization_starts_in = "M2"
+        info.evidence = "M1 common core curriculum in Informatique; track specialization commences in M2."
         return info
 
     # M1 track verification
@@ -372,13 +442,14 @@ def validate_programme_structure(candidate: CandidateProfile, programme: Program
 # ---------------------------------------------------------------------------
 
 def validate_cycle_state(candidate: CandidateProfile, programme: ProgrammeCandidate) -> CycleInfo:
-    """Generates canonical single-source-of-truth CycleInfo object (Section 10)."""
+    """Generates canonical single-source-of-truth CycleInfo object (Section 10 & Cycle 1 Rule 6)."""
     target_year = candidate.target.intake
     cycle = CycleInfo(target_intake=target_year)
 
     if not programme.deadline and not programme.deadline_cycle:
         cycle.status = CycleStatus.PENDING_PUBLICATION
         cycle.deadline = "Pending publication"
+        cycle.source_cycle = None
         return cycle
 
     c_cycle = programme.deadline_cycle or ""
@@ -387,12 +458,15 @@ def validate_cycle_state(candidate: CandidateProfile, programme: ProgrammeCandid
     if target_year in c_cycle or target_year in c_dl:
         cycle.status = CycleStatus.OPEN
         cycle.deadline = c_dl
+        cycle.source_cycle = target_year
         cycle.source = "Official university admissions calendar"
         return cycle
 
-    # If older cycle deadline published (e.g. 2024, 2025, 2026), 2027 is PENDING_PUBLICATION
+    # If older cycle deadline published (e.g. 2024, 2025, 2026), 2027 is strictly PENDING_PUBLICATION
+    detected_cycle = c_cycle or ("2026" if "2026" in c_dl else ("2025" if "2025" in c_dl else "previous"))
     cycle.status = CycleStatus.PENDING_PUBLICATION
-    cycle.deadline = f"Previous cycle ({c_cycle or 'active'}), 2027 pending publication"
+    cycle.source_cycle = detected_cycle
+    cycle.deadline = f"Previous cycle ({detected_cycle}), 2027 pending publication"
     cycle.source = "Historical calendar data"
     return cycle
 
@@ -406,29 +480,62 @@ def determine_cycle_readiness(candidate: CandidateProfile, programme: ProgrammeC
 
 
 # ---------------------------------------------------------------------------
-# Section 5 & 21: Validation Layer Before Scoring
+# Section 5 & 21: Validation Layer Before Scoring & Scope Isolation
 # ---------------------------------------------------------------------------
 
 def validate_evidence_scope(programme: ProgrammeCandidate) -> list[str]:
-    """Validates that no evidence from another university contaminated this programme."""
+    """Validates that no evidence from another university contaminated this programme,
+    and actively purges any foreign university evidence or URLs.
+    """
     flags: list[str] = []
-    target_key = normalize_university_key(programme.university)
+    target_univ = programme.university
+    target_key = normalize_university_key(target_univ)
 
+    # Populate canonical IDs on programme
+    programme.institution_id = programme.institution_id or target_key
+    programme.programme_id = programme.programme_id or normalize_programme_key(programme.programme)
+    programme.track_id = programme.track_id or normalize_track_key(programme.track)
+
+    # 1. Clean and validate official_sources
+    clean_sources: list[EvidenceItem] = []
     for ev in programme.official_sources:
-        if ev.source_url:
-            url_str = str(ev.source_url).lower()
-            # Check for obvious cross-university contamination
-            if "umontpellier.fr" in url_str and "montpellier" not in target_key:
-                flags.append(f"EVIDENCE_SCOPE_MISMATCH: Contaminated source from Montpellier in {programme.university}")
-            elif "univ-fcomte.fr" in url_str and "franche-comte" not in target_key:
-                flags.append(f"EVIDENCE_SCOPE_MISMATCH: Contaminated source from Franche-Comté in {programme.university}")
-            elif "univ-brest.fr" in url_str and "brest" not in target_key and "bretagne-occidentale" not in target_key:
-                flags.append(f"EVIDENCE_SCOPE_MISMATCH: Contaminated source from UBO in {programme.university}")
+        u_str = str(ev.source_url or "")
+        if u_str and not is_domain_compatible(u_str, target_univ):
+            flag = f"EVIDENCE_SCOPE_MISMATCH: Blocked foreign source URL '{u_str}' in {target_univ}"
+            flags.append(flag)
+            continue
 
+        # Attach metadata to evidence item
+        ev.institution_id = ev.institution_id or target_key
+        ev.programme_id = ev.programme_id or programme.programme_id
+        ev.track_id = ev.track_id or programme.track_id
+        ev.claim_type = ev.claim_type or ev.claim
+        ev.source_scope = ev.source_scope or ("track" if ev.track else "programme")
+        clean_sources.append(ev)
+    programme.official_sources = clean_sources
+
+    # 2. Clean application_route_info
     if programme.application_route_info and programme.application_route_info.source_url:
-        r_url = str(programme.application_route_info.source_url).lower()
-        if "umontpellier.fr" in r_url and "montpellier" not in target_key:
-            flags.append(f"EVIDENCE_SCOPE_MISMATCH: Application route contaminated with Montpellier URL")
+        r_url = str(programme.application_route_info.source_url)
+        if not is_domain_compatible(r_url, target_univ):
+            flag = f"EVIDENCE_SCOPE_MISMATCH: Blocked foreign application route URL '{r_url}' in {target_univ}"
+            flags.append(flag)
+            programme.application_route_info.source_url = None
+
+    # 3. Clean official_admissions_url
+    if programme.official_admissions_url:
+        a_url = str(programme.official_admissions_url)
+        if not is_domain_compatible(a_url, target_univ):
+            flag = f"EVIDENCE_SCOPE_MISMATCH: Blocked foreign admissions URL '{a_url}' in {target_univ}"
+            flags.append(flag)
+            programme.official_admissions_url = None
+
+    # 4. Clean programme_url if foreign
+    if programme.programme_url:
+        p_url = str(programme.programme_url)
+        if not is_domain_compatible(p_url, target_univ):
+            flag = f"EVIDENCE_SCOPE_MISMATCH: Blocked foreign programme URL '{p_url}' in {target_univ}"
+            flags.append(flag)
 
     return flags
 
@@ -641,4 +748,3 @@ def run_full_validation_layer(candidate: CandidateProfile, programme: ProgrammeC
     programme.validation_status = overall
     programme.validation_notes = notes
     return overall, notes
-

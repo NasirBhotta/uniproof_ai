@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import time
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -17,11 +18,13 @@ class CachedSearchClient:
         inner: SearchClient,
         cache_dir: str | Path = ".cache/search",
         tracker: Any | None = None,
+        ttl_days: float | None = None,
     ):
         self.inner = inner
         self.cache_dir = Path(cache_dir)
         self.cache_dir.mkdir(parents=True, exist_ok=True)
         self.tracker = tracker
+        self.ttl_days = ttl_days
 
     def _key(self, payload: dict) -> Path:
         raw = json.dumps(payload, sort_keys=True, ensure_ascii=False).encode("utf-8")
@@ -46,10 +49,15 @@ class CachedSearchClient:
             "include_raw_content": include_raw_content,
         }
         path = self._key(payload)
-        if path.exists():
+        if path.exists() and (
+            self.ttl_days is None
+            or time.time() - path.stat().st_mtime < self.ttl_days * 86400
+        ):
             if self.tracker:
                 self.tracker.record_search(query, is_cache_hit=True)
-            return SearchBatch.model_validate_json(path.read_text(encoding="utf-8"))
+            return SearchBatch.model_validate_json(path.read_text(encoding="utf-8")).model_copy(
+                update={"cache_hit": True}
+            )
 
         if self.tracker:
             self.tracker.record_search(query, is_cache_hit=False)
@@ -62,5 +70,6 @@ class CachedSearchClient:
             exclude_domains=exclude_domains,
             include_raw_content=include_raw_content,
         )
-        path.write_text(result.model_dump_json(indent=2), encoding="utf-8")
+        if not result.error:
+            path.write_text(result.model_dump_json(indent=2), encoding="utf-8")
         return result

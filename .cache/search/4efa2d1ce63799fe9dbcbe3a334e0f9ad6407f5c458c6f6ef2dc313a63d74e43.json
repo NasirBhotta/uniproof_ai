@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-tlse3.fr \"Master Informatique Intelligence artificielle\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "SYLLABUS MASTER Mention Informatique M2 Intelligence ...",
+      "url": "https://www.univ-tlse3.fr/syllabus/SYL_M2_INF_IAFA.pdf",
+      "snippet": "ECTS Obligatoire Facultatif Cours Master Class Cours-TD TD TP Projet Stage∗ 18 KINX9AC1 TD 2 : Analyse du son, des images et vision par ordinateur (SIV) 12 6 10 16 KINI9AC2 TD 2 : Cohérences des traitements et SGBD répartis (BDR) 12 10 6 20 KINX9AC3 TD 2 : Analyse du son, des images et vision par ordinateur - MC (SIVMC) 2 17 KINI9AC4 TD 2 : Cohérences des traitements et SGBD répartis - MC (BDR) 2 34 KINI9AMU MISE À NIVEAU I 0 O 24 35 KINI9AVU ANGLAIS (ANGLAIs) I 3 O 24 KINI9AHU INFORMATIQUE [...] - Produire un écrit scientifique ou technique dans un anglais adapté, de qualité et respectant les normes et usages de la communauté scientifique anglophone.\n-Interagir à l’oral en anglais : réussir ses échanges formels et informels lors des colloques, réunions ou entretiens professionnels. [...] 12 8 10 14 KINX9AB2 IA 2 - Réseaux bayésiens et modèles pour la planification (IA2RBP) 12 8 8 15 KINX9AB3 IA 2 - MC (IA2MC) 2 34 KINI9AMU MISE À NIVEAU I 0 O 24 35 KINI9AVU ANGLAIS (ANGLAIs) I 3 O 24 KINI9ACU TRAITEMENT DE DONNÉES 2 I 6 O 18 KINX9AC1 TD 2 : Analyse du son, des images et vision par ordinateur (SIV) 12 6 10 16 KINI9AC2 TD 2 : Cohérences des traitements et SGBD répartis (BDR) 12 10 6 20 KINX9AC3 TD 2 : Analyse du son, des images et vision par ordinateur - MC (SIVMC) 2 17 KINI9AC4",
+      "raw_content": null,
+      "score": 0.44898248
+    },
+    {
+      "title": "Master parcours Interactions de l'informatique et des mathématiques pour l'intelligence artificielle (IMA) - Université de Toulouse",
+      "url": "https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-interactions-de-linformatique-et-des-mathematiques-pour-lintelligence-artificielle-ima",
+      "snippet": "Niveau de sortie\n\nBac + 5 (Niveau 7)\n\n### Compétences visées\n\nActivités visées / compétences attestées\n\n### Poursuite d'études\n\nÀ l’UT\n\n### Débouchés professionnels\n\nSecteurs d'activité\n\nMétier(s)\n\nSecteurs d'activité ou type d'emploi\n\nSecteur(s) d’activité(s)\n\nMétiers\n\n## Admission\n\n### Pré-requis\n\nNiveau(x) de recrutement\n\nBac + 3\n\nFormation(s) requise(s)\n\n### Candidature\n\nModalités de candidature\n\n## Tous les parcours disponibles dans le cursus Master mention Informatique",
+      "raw_content": null,
+      "score": 0.34237418
+    },
+    {
+      "title": "SYLLABUS MASTER Mention Informatique M2 Computer ...",
+      "url": "https://www.univ-tlse3.fr/syllabus/SYL_M2_INF_CSA.pdf",
+      "snippet": "— La représentation et le traitement des connaissances en intelligence artificielle, liens avec la robotique.\n— L ’interaction entre l’homme et la machine et les contraintes ergonomiques et cognitives y afférant. [...] - Produire un écrit scientifique ou technique dans un anglais adapté, de qualité et respectant les normes et usages de la communauté scientifique anglophone.\n-Interagir à l’oral en anglais : réussir ses échanges formels et informels lors des colloques, réunions ou entretiens professionnels. [...] cedex 9 TABLEAU SYNTHÉTIQUE DES UE DE LA FORMATION page Code Intitulé UE semestre∗ ECTS Obligatoire Facultatif Cours Master Class Cours-TD TD TP Stage∗ Premier semestre 17 KINR9FRU MISE À NIVEAU I 0 F 24 Choisir 1 UE parmi les 2 UE suivantes : 15 KINR9AVU ANGLAIS (ANGLAIs) I 3 O 24 16 KINR9AZU FRANCAIS LANGUE ETRANGERE (FSI.Groupe-Langues) I 3 O 24 14 KINR9AGU STAGE OU THÈSE DE MASTER I 6 O 4 KINR9AFU CALCUL SCIENTIFIQUE ET APPRENTISSAGE AUTOMA-TIQUE I 6 O 13 KINX7AF1 Calcul scientifique et",
+      "raw_content": null,
+      "score": 0.32174814
+    }
+  ]
+}

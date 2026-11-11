@@ -1,0 +1,26 @@
+{
+  "query": "site:uphf.fr \"Master Informatique Unspecified track\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Master Informatique - Université Polytechnique - Hauts-de-France",
+      "url": "https://formations.uphf.fr/fr/formations/master-master/master-informatique-KZZQ4B8O.html",
+      "snippet": "List of subjects to be presented to the students : Subjects related to the smart and sustainable mobility in company departments or research laboratories\n\nVoir la page complète\n\n## Admission\n\n## Conditions d'admission\n\nPour les admissions en M1 : les candidatures s’effectuent via la plateforme nationale MonMaster :   \nPour les admissions en M2 : les candidatures s’effectuent via la plateforme e-Candidat de l’UPHF \n\nAdmission en Master 1 : Licence dans le même domaine (180 crédits) [...] ● Introduction to networking  \nLayered architectures. ISO/OSI Reference Model. TCP/IP architecture. Multiplexing techniques. Circuit and packet switching.  \n● Data transmission  \nEncoding and framing techniques. Error control. Retransmission schemes. Sliding window flow control. Examples of data-link protocols.  \n● Multiple access networks [...] • Data storage:  \n- Relational databases (SQL)  \n- Non-Relational databases (NoSQL)  \n- Graph based, document based, etc.  \n• Introduction to distributed semantic web of data  \n• Information and data modeling  \n- Visual representation  \n- Languages (RDF, OWL, JSON-LD, etc.): namespaces, relationships, entities, properties.  \n- Data storage: Triplestore, Graph Databases, etc.  \n- Query languages and engines: SPARQL  \n• Taxonomy and Ontology  \n- Inference, Equivalence, Transitivity",
+      "raw_content": null,
+      "score": 0.4420348
+    },
+    {
+      "title": "Licence Informatique - Université Polytechnique - Hauts-de-France",
+      "url": "https://formations.uphf.fr/fr/formations/licence-licence/licence-informatique-L06U2R2L.html",
+      "snippet": "Travailler en autonomie (M) : le diplômé doit savoir établir des priorités, gérer son temps, s’autoévaluer, développer un esprit critique.\n Utiliser les technologies de l’information et de la communication (M).\n Effectuer une recherche d’information (U), selon différents modes d’accès (Internet, bibliographie), et doit pouvoir faire une analyse de pertinence et une synthèse. [...] Respecter l’éthique scientifique et connaître les bases réglementaires de son domaine de formation scientifique (U)\n Faire preuve de capacité d’abstraction (M)\n Analyser une situation complexe et savoir repérer les éléments dominants (U)\n Utiliser des logiciels d’acquisition et d’analyse de données adaptés (M)\n Utiliser des outils mathématiques et statistiques (U)\n Utiliser un langage de programmation (M)\n Adopter une approche pluridisciplinaire (I) [...] • Algorithmique et structures de données  \n• Programmation impérative  \n• Programmation orientée objet (Java, C++)  \n• Architecture des ordinateurs  \n• Systèmes d’exploitation  \n• Bases de données  \n• Réseaux  \n• Technologies du Web  \n• Programmation fonctionnelle, logique  \n• Développement d’applications mobiles  \n• Théorie des graphes  \n• Théorie des langages et grammaire  \n• Génie logiciel  \n• Simulation et file d’attente  \n• Anglais  \n• Projets professionnels et techniques\n\nLire plus",
+      "raw_content": null,
+      "score": 0.182907
+    },
+    {
+      "title": "Statistique - Analyse des Données (CaSSAD)",
+      "url": "https://formations.uphf.fr/plugins/odf-web/odf/_content/subprogram-calcul-scientifique-statistique-analyse-des-donnees/Calcul%20Scientifique%20-%20Statistique%20-%20Analyse%20des%20Donn%C3%A9es%20(CaSSAD).pdf",
+      "snippet": "• Proposer et développer des modèles statistiques pertinents.\n• Modéliser un phénomène complexe et le simuler.\n• Analyser l'adéquation ou la validité d'un modèle au regard de données expérimentales.\n• Maîtriser les logiciels courants de la statistique (R, SAS), du calcul scientiﬁque (matlab, freefem++), et les langages de programmation (C++, Python, MPI, OpenMP , Cuda) • Formaliser correctement un problème d’optimisation convexe. [...] numérique des EDO et méthodes de différences ﬁnies pour les EDP UE 4 crédits Statistique Mathématique UE 4 crédits Optimisation UE 4 crédits Analyse de Données UE 4 crédits Module Polytechnique UE 4 crédits Module d’Ouverture UE 2 crédits Anglais UE 4 crédits Semestre 8 Nature CM TD TP Crédits Outils Informatiques et Professionnels 2 UE 4 crédits Méthodes d’éléments ﬁnis et méthodes spectrales UE 4 crédits Processus Stochastiques UE 4 crédits Méthodes de volumes ﬁnis UE 4 crédits Apprentissage [...] Dernière mise à jour le 09 novembre 2023 Programme Liste des principaux enseignements • Statistique mathématique • Apprentissage statistique automatique • Analyse de données • Résolution numérique des équations différentielles ordinaires • Résolution numérique des équations aux dérivées partielles • Optimisation • C++, Python, R, R Markdown, R Shiny Volume horaire global : 810 Année 4 Semestre 7 Nature CM TD TP Crédits Outils Informatiques et Professionnels 1 UE 4 crédits Résolution numérique",
+      "raw_content": null,
+      "score": 0.113059744
+    }
+  ]
+}

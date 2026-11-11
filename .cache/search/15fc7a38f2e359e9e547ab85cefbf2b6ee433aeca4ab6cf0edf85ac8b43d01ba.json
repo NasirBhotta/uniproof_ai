@@ -1,0 +1,40 @@
+{
+  "query": "site:u-bordeaux.fr \"master informatique\" \"Bordeaux\" parcours",
+  "results": [
+    {
+      "title": "Intelligence artificielle",
+      "url": "https://formations.u-bordeaux.fr/details-formation?type=parcours-type&id=75224",
+      "snippet": "Le parcours Intelligence Artificielle (IA) du Master Informatique de l'Université de Bordeaux est une formation de deux ans, visant à former des experts en",
+      "raw_content": null,
+      "score": 0.8952393
+    },
+    {
+      "title": "start [UF Informatique] - Université de Bordeaux",
+      "url": "https://uf-informatique.emi.u-bordeaux.fr/",
+      "snippet": "2019 : Ouverture du parcours Ingénierie De l'Informatique du master informatique. Un master en FTLV sur 4 ans. Projets de l'UF. Forte de ses",
+      "raw_content": null,
+      "score": 0.8409005
+    },
+    {
+      "title": "start [Master Informatique - Université de Bordeaux]",
+      "url": "https://masterinfo.emi.u-bordeaux.fr/",
+      "snippet": "Parcours issus du tronc commun informatique · Parcours mutualisé avec le master mathématiques · Parcours international · Parcours en Formation",
+      "raw_content": null,
+      "score": 0.80405265
+    },
+    {
+      "title": "Génie logiciel - Catalogue des formations de l'Université de Bordeaux",
+      "url": "https://formations.u-bordeaux.fr/details-formation?type=parcours-type&id=603",
+      "snippet": "Aller au contenu\n\n Ma sélection (0)\n\n# Rechercher une formation\n\nOffre en cours de modification\n\nLes informations concernant le contenu des enseignements peuvent être en cours de modification\n\n# Génie logiciel\n\nMaster : Informatique\n\n Durée de référence4 semestres\n Crédits ECTS120\n Formations Master : Informatique\n\nEn chargement...",
+      "raw_content": null,
+      "score": 0.7116118
+    },
+    {
+      "title": "Master : Informatique - Catalogue des formations de l'Université de Bordeaux",
+      "url": "https://formations.u-bordeaux.fr/details-formation?type=formation&id=125",
+      "snippet": "Aller au contenu\n\n Ma sélection (0)\n\n# Rechercher une formation\n\nOffre en cours de modification\n\nLes informations concernant le contenu des enseignements peuvent être en cours de modification\n\nSciences, Technologies, Santé\n\n# Master : Informatique\n\nDiplôme national de master contrôlé par l'État\n\nInformatique",
+      "raw_content": null,
+      "score": 0.67527276
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "query": "site:monmaster.gouv.fr master informatique Grand Est",
+  "results": [
+    {
+      "title": "La saisine du recteur — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/la-saisine-du-recteur",
+      "snippet": "Tout titulaire d'un diplôme national de licence français (DNL) qui le souhaite doit se voir proposer une poursuite d'études dans un cursus conduisant au DNM.",
+      "raw_content": null,
+      "score": 0.055397574
+    }
+  ]
+}

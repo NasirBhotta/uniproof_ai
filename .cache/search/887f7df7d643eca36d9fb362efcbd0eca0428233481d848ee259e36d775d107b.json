@@ -1,0 +1,26 @@
+{
+  "query": "site:unicaen.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Les démarches préalables à votre arrivée en France · Université de Caen Normandie",
+      "url": "https://www.unicaen.fr/international/bienvenue/etudiants-individuels/demarches/demarches-prealables",
+      "snippet": "Études en France, Espaces Campus France, Parcoursup, E-candidat, procédure DAP… Il existe de nombreux moyens différents pour candidater à UNICAEN, en fonction notamment de votre pays d’origine et de votre niveau d’études préalable.\n\nPour savoir quelle procédure vous concerne, consultez les procédures de candidature.\n\nContacts utiles :  \nProjet d’études – Espaces Campus France, Espace orientation insertion Unicaen · EOI  \nProcédures de candidature – Bureau des admissions [...] UNICAEN ne propose pas de bourses aux étudiants internationaux. Vous êtes cependant peut-être éligible à d’autres types de financements.\n\n Bourse d’excellence Eiffel  \n  Pour les étudiants candidatant à un Master uniquement\n Bourses du Ministère de l’Europe et des affaires étrangères (MEAE)Se renseigner auprès de son espace Campus France.\n Autres boursesConsulter CampusBourses, l’annuaire des programmes de bourses répertoriés par Campus France. [...] Une fois que vous aurez reçu votre lettre d’admission nominative (à télécharger sur votre espace personnel pour les étudiants relevant de la procédure Études en France), vous devrez faire une demande de visa étudiant, toujours sur votre espace en ligne Études en France.\n\nSi votre pays de résidence n’est pas connecté au réseau Campus France, vous devrez alors prendre contact avec les autorités consulaires françaises de votre pays pour effectuer votre demande.",
+      "raw_content": null,
+      "score": 0.56661874
+    },
+    {
+      "title": "Diplôme d'Université Études Françaises · DUEF · Université de Caen Normandie",
+      "url": "https://www.unicaen.fr/international/bienvenue/etudier-le-francais/duef",
+      "snippet": "## ATTENTION\n\nContrairement aux informations relayées sur différents réseaux sociaux (Youtube, TikTok, etc.) de manière officieuse, nous vous rappelons que le DUEF est destiné aux non-francophones désirant apprendre le français. Selon votre pays d’origine, le passage par « Etudes en France » pour obtenir votre visa long séjour peut être obligatoire. Vous devez vous renseigner auprès de Campus France dans votre pays d’origine.\n\nContact [...] Si vous êtes demandeur d’emploi inscrit à France Travail ou salarié d’une entreprise en France et que vous souhaitez solliciter un financement au titre de la formation continue, merci de nous contacter directement à intl.fc@unicaen.fr. [...] Cette procédure n’est valable que pour le DUEF. Il ne s’agit en aucun cas d’une préinscription aux autres formations de l’université de Caen Normandie.\n\nLors de leur préinscription les candidats doivent justifier de leur niveau préalable de français (DELF/DALF, TCF, TEF) ou se soumettre au test en ligne fourni par le Carré international. Ils seront évalués une 2ème fois à leur arrivée pour procéder au placement définitif dans un groupe de niveau.",
+      "raw_content": null,
+      "score": 0.35575303
+    },
+    {
+      "title": "Calendrier des inscriptions et réinscriptions · Rentrée 2026 · Université de Caen Normandie",
+      "url": "https://www.unicaen.fr/formation/candidater-sinscrire/informations-pratiques/calendriers/calendrier-des-inscriptions",
+      "snippet": "dès à présent pour les nouvelles inscriptions et réinscriptions à l’université des étudiants admis via les plateformes (Parcoursup, MonMaster, eCandidat, Études en France) [...] ### 1re inscription dans une formation ou réinscription\n\n du 20 au 24 juillet 2026 et du 18 au 31 août 2026.\n\nLes candidats admis par la procédure eCandidat à partir du 22 août 2026 bénéficieront d’un délai de 8 jours après la réception de la proposition d’admission pour procéder aux démarches administratives obligatoire.\n\n### Candidats en attente de visa",
+      "raw_content": null,
+      "score": 0.3281423
+    }
+  ]
+}

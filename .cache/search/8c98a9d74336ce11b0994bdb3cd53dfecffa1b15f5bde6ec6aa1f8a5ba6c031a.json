@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"Master Informatique International\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique Parcours International - Catalogue des Formations",
+      "url": "https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-international-IOTPFS6H.html",
+      "snippet": "| S7 INF Théorie des programmes | 4 crédits | 44h |\n| S7 INF Interface Homme-Machine | 4 crédits | 44h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Communication | 2 crédits | 22h |\n| Anglais | 3 crédits | 22h |\n| Entreprise | 1 crédits | 10h | [...] | S8 INF Méthodes computationnelles | 3 crédits | 44h |\n| S8 INF Expérience professionnelle, obligatoire : | 8 crédits |\n| 1 option(s) au choix parmi 2 |\n| S8 INF Temps d'accueil en laboratoire TAL | 8 crédits | 6h |\n| S8 INF Stage | 8 crédits | 6h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Anglais | 3 crédits | 22h |\n| Communication | 2 crédits | 22h |\n| Entreprise | 1 crédits | 10h | [...] A l’issue de leur formation, les étudiants pourront valoriser leur expérience auprès de leur futur employeur en déclinant notamment les aspects suivants : maîtrise d’une langue étrangère, mobilité, connaissance d’un pays et d’une culture, contacts personnels et formation de haut niveau en informatique.\n\n### Compétences acquises",
+      "raw_content": null,
+      "score": 0.5158888
+    },
+    {
+      "title": "Licence Informatique | Département informatique",
+      "url": "https://www.univ-brest.fr/departement-informatique/fr/page/licence-informatique",
+      "snippet": "## Admission\n\nL'admission est de droit en première année pour le parcours Informatique à tout titulaire d'un baccalauréat. Un niveau minimum en anglais est requis pour s'inscrire dans le parcours International. L'admission dans les autres années se fait sur dossier.\n\n## Débouchés [...] Le parcours International, enfin, est semblable au parcours généraliste IFA avec un renforcement des enseignements en anglais, une UE disciplinaire faite en anglais par semestre et un stage obligatoire d'un semestre dans une université étrangère.",
+      "raw_content": null,
+      "score": 0.40260404
+    },
+    {
+      "title": "Parcours International | Département informatique",
+      "url": "https://www.univ-brest.fr/departement-informatique/fr/page/parcours-international",
+      "snippet": "L’étudiant inscrit dans ce parcours bénéficie également d'une formation renforcée en anglais, incluant deux stages intensifs obligatoires en plus des cours d'anglais de licence, et certifiée au semestre S4 par le passage du CLES 2 en anglais (certificat de langues de l'enseignement supérieur niveau B2. Cet examen valide des compétences linguistiques permettant à l'étudiant de suivre les cours dispensés dans les universités à l'international). En complément, il est à noter que le département [...] Pour l'entrée en L1 : Possession d'un baccalauréat, de préférence scientifique, de bonnes connaissances en anglais, acquises par exemple dans une section européenne, ainsi que de bons résultats lors des examens du premier semestre de L1. La candidature au parcours International se fait sur dossier au début du deuxième semestre pour une intégration en deuxième année. L'entrée dans ce parcours sera également conditionné à la présence obligatoire de l'étudiant au stage intensif d'anglais de fin [...] d'anglais de fin de première année, stage pendant lequel seront vérifiés le niveau en anglais et les motivations du candidat.",
+      "raw_content": null,
+      "score": 0.3743566
+    }
+  ]
+}

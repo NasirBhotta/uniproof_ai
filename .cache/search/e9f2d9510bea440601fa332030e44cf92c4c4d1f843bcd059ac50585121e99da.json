@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-grenoble-alpes.fr \"Master Informatique Master of Science in Informatics at Grenoble\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Informatique - UGA - Catalogue des formations - Université Grenoble Alpes",
+      "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+      "snippet": "Parcours Informatique classique 1re année\n Parcours Communications engineering and data science (CODAS)\n Parcours Master of Science in Informatics at Grenoble (MoSIG)\n Parcours Génie informatique 2e année\n Parcours Génie informatique 2 année / Alternance\n Parcours Operations research, combinatorics and optimization (ORCO) 2e année\n Parcours Cybersecurity 2e année\n Parcours Compétences complémentaires en informatique (CCI) 2e année\n Parcours Cybersécurité et informatique légale 2e année [...] Génie Informatique (GI) : format alternance et classique\n Master of Science In Informatics at Grenoble (MoSIG) : en anglais, ouvert à l’international\n Operations Resarch, Combinatories and Optimization (ORCO) : commun avec la mention Mathématiques et applications\n Cybersecurity (CS) : en anglais, ouvert à l’international, commun avec la mention Mathématiques et applications [...] Compétences Complémentaires en Informatique (CCI): s’adresse à des étudiants issus d’un master 1re année d’une autre discipline scientifique que l’informatique, double compétences\n Réseaux informatiques d'entreprise (RIE) accessible en alternance (apprentissage) ou formation continue (ce parcours est proposé par Grenoble INP)\n Communications engineering and data science 1re année",
+      "raw_content": null,
+      "score": 0.6768127
+    },
+    {
+      "title": "Master Electronique, énergie électrique, automatique - UGA - Catalogue des formations - Université Grenoble Alpes",
+      "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-electronique-energie-electrique-automatique-IFZ3DRB9.html",
+      "snippet": "+ ## UE FLE\n\n    3 crédits\n  + ## UE Anglais - Master 2 - Semestre 10\n\n    3 crédits\n\n## Admission\n\n## Conditions d'admission\n\n Entrée en 1re année : titulaires d'une licence mention EEA ou physique ou d'un diplôme équivalent\n Entrée en 2e année  : étudiants ayant validé la 1re année de master ou une formation d'un niveau équivalent dans les domaines de l'EEA\n\nPublic formation continue : Vous relevez de la formation continue : [...] 6 crédits\n ## UE Informatique et architecture\n\n  6 crédits\n ## Au choix : 1 parmi 2\n\n  + ## UE Conception de systèmes sur puce\n\n    3 crédits\n  + ## UE Traitement de l'information\n\n    3 crédits\n ## Au choix : 1 à 2 parmi 3\n\n  + ## UE Projet\n\n    9 crédits\n  + ## GS\\_SUMMIT\\_UE\\_projet\n\n    7 crédits\n  + ## GS\\_SUMMIT\\_UE\\_Hackathon\n\n    2 crédits\n\n ## UE Stage\n\n  24 crédits\n ## UE Connaissance de l'industrie microélectronique\n\n  3 crédits\n ## Au choix : 1 parmi 2 [...] The program consists of a common core in semesters 7 and 8 which correspond to the first year of the Masters degree. In semesters 9 and 10, students will choose to pursue their studies in one of the following areas:\n\n Computational Sciences for Electrical Engineering (CompSEE)\n Master in Systems, Control and Information Technologies (MISCIT)\n Wireless Integrated Circuits and Systems (WICS)\n\nVoir la page complète de ce parcours\n\n ## UE Signals and systems",
+      "raw_content": null,
+      "score": 0.35555163
+    },
+    {
+      "title": "Master Mathématiques et applications - UGA - Catalogue des formations - Université Grenoble Alpes",
+      "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-applications-IAQKA8QE.html",
+      "snippet": "Les objectifs visés sont de former des spécialistes de mathématiques et d’informatique pour les métiers de l’ingénierie, de l’enseignement et de la recherche dans un large spectre de domaines des mathématiques pures et appliquées où la demande socio-économique est forte : sécurité et cryptologie, calcul scientifique, recherche opérationnelle, analyse des grandes masses de données, synthèse et traitement d’image, statistique, enseignement etc. [...] UFR Informatique, mathématiques et mathématiques appliquées (IM2AG), UFR Sciences de l'Homme et de la Société (SHS), Grenoble INP - Ensimag (Informatique, mathématiques appliquées et télécommunications), UGA\n ## Langue(s) d'enseignement\n\n  Anglais, Français\n\n## Présentation\n\nVoici un schéma de la structure du master Mathématiques et applications : à gauche les masters 1re année de tronc commun et de parcours,  au centre et à droite les masters 2e années. [...] ORCO accessible via les troncs communs Applied mathematics et Mathématiques générales ainsi que via le tronc commun Informatique de la mention Informatique",
+      "raw_content": null,
+      "score": 0.2577655
+    }
+  ]
+}

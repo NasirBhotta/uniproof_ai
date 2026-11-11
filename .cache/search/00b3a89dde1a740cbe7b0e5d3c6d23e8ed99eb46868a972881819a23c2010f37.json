@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-lehavre.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Étudiants internationaux - UNIVERSITÉ LE HAVRE NORMANDIE - ULHN",
+      "url": "https://www.univ-lehavre.fr/fr/international/venir-au-havre/etudiants-internationaux",
+      "snippet": "Les candidatures envoyées directement à Campus France ou à un responsable de formation seront rejetées. Un candidat présenté par plusieurs établissements sera également disqualifié.\n\nConditions d’éligibilité : Nationalité : réservé aux candidats internationaux. Les binationaux ayant la nationalité française ne sont pas éligibles.\n\nge limite :\n\n Master : être gé de 29 ans maximum (né après le 31 mars 1996)\n Doctorat : être gé de 35 ans maximum (né après le 31 mars 1990) [...] Le formulaire de candidature dûment complété\n Le contrat d’études (Learning Agreement)\n Les documents justificatifs requis\n\nCe dossier doit être envoyé à la Direction des Relations Internationales à l’adresse mail dri@univ-lehavre.fr\n\n Avant le 30 avril pour une mobilité au premier semestre ou pour l’année académique complète.\n Avant le 30 novembre pour une mobilité au second semestre.\n\nDès réception, votre dossier sera examiné par un référent académique. [...] ### Programme France Excellence Eiffel\n\nLe programme de bourses Eiffel, lancé par le Ministère de l’Europe et des Affaires étrangères, vise à attirer les meilleurs étudiants internationaux en Master et Doctorat dans les établissements français.\n\nIl forme les futurs cadres étrangers, publics et privés, dans des domaines prioritaires :",
+      "raw_content": null,
+      "score": 0.5996498
+    },
+    {
+      "title": "Informations - eCandidat - Université Le Havre Normandie",
+      "url": "https://ecandidature.univ-lehavre.fr/candidature",
+      "snippet": "La procédure eCandidat concerne les candidatures en L2-2ème année de Licence, L3-3ème année de Licence, LP-Licence Professionnelle, M2-2ème année de Master",
+      "raw_content": null,
+      "score": 0.42935818
+    },
+    {
+      "title": "Licence 2 ou 3 - UNIVERSITÉ LE HAVRE NORMANDIE",
+      "url": "https://www.univ-lehavre.fr/fr/formation/candidater-a-une-formation/licence-2-ou-3",
+      "snippet": "Si vous êtes étudiant international non européen résidant dans un pays à procédure Études en France (Cf. liste des pays ci-dessous) : vous",
+      "raw_content": null,
+      "score": 0.30912846
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query": "site:sorbonne-universite.fr \"Master Informatique Unspecified track\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Candidatures master BMC | Sorbonne Université| Sciences & Ingénierie",
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-biologie-moleculaire-et-cellulaire-bmc-2",
+      "snippet": "|  |  |  |\n --- \n| Candidatures en M1 | MonMaster 17 Février-16 Mars | eCandidat 26 Mars - 11 Juin |\n| Formations classiques | M1 Biologie Moléculaire et Cellulaire (tronc commun) | X | Non accessible |\n| M1 Bio-Informatique | X |\n|  | M1 Interfaces Chimie-biologie : ingénierie moléculaire du vivant | X |\n| Formations par apprentissage | M1 Innovation en biotechnologies | X |\n| M1 Qualité Environnement Sécurité Sanitaire | X |",
+      "raw_content": null,
+      "score": 0.37772483
+    },
+    {
+      "title": "M1 ScLan : Langue et Informatique - Catalogue des formations - UPS",
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/index/master-XB/arts-lettres-langues-ALL/master-sciences-du-langage-langue-et-informatique-MSCLA1L_613/m1-sclan-langue-et-informatique-M4MW9U7K.html",
+      "snippet": "Catalogue 2025-2029\n Catalogue 2025-2029\n Master\n Arts, Lettres, Langues\n MASTER Sciences du langage : Langue et Informatique\n M1 ScLan : Langue et Informatique\n\n# M1 ScLan : Langue et Informatique\n\n ## ECTS\n\n  60 crédits crédits\n ## Composante\n\n  SOCIOLOGIE ET INFORMATIQUE POUR LES SCIENCES HUMAINES\n\n## Programme\n\n ## UE1 Méthodologie et épistémologie en linguistique\n\n  7 crédits\n ## UE2 Informatique fondamentale pour les Sciences Humaines\n\n  7 crédits\n ## UE3 Ingénierie des connaissances",
+      "raw_content": null,
+      "score": 0.2619492
+    },
+    {
+      "title": "Candidatures en Master Santé et Santé publique 2026-2027 - Université Sorbonne - Master Santé",
+      "url": "https://master-sante.sorbonne-universite.fr/candidatures-en-master-sante-et-sante-publique-2022-2023",
+      "snippet": "Les étudiants, internes en  cours de Formation Initiale\n Les chefs de clinique inscrits en DESC\n\nFormation en apprentissage (FA)\n\nEtre gé-e de moins de 30 ans pour bénéficier d’un contrat d’apprentissage et avoir validé :\n\n La 5e année de Pharmacie ou être titulaire du diplôme de Docteur en Pharmacie,\n ou la 1re année de Master en biologie, santé publique, sciences du médicament, informatique, mathématiques, physiologie, chimie…,\n ou avoir une formation paramédicale avec M1 validé [...] Le dossier de candidature Sorbonne université pour l’admission en master (M1 ou M2) est constitué des éléments suivants :\n Un dossier détaillé du cursus du candidat permettant d’apprécier les compétences et connaissances précises acquises par le candidat au cours de sa formation antérieure ; [...] Attention :Le calendrier de dépôt des candidatures diffère selon le pays de résidence des candidats mais celui de l’examen des candidatures de l’université (soit la campagne d’admission) a une date butoir propre à notre Établissement.\n\n#### Date butoir pour la Faculté de Santé de Sorbonne université : le 15/12/2025 pour la rentrée 2026-2027\n\n## Calendrier des parcours\n\nLes candidatures sont exclusivement dématérialisées via la plateforme eCandidat.",
+      "raw_content": null,
+      "score": 0.23108497
+    }
+  ]
+}

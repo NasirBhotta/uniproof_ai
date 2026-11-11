@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-st-etienne.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Données et Systèmes Connectés - Université Jean Monnet",
+      "url": "https://fac-sciences.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-informatique-parcours-donnees-et-systemes-connectes-5_09_07_0006_FR.html",
+      "snippet": "Les candidats doivent avoir un niveau Licence d’informatique (i.e. 180 ECTS) avec des compétences en conception et analyse d'algorithmes, automates et théorie des langages, programmation C, programmation orientée objet (Java, Python), programmation Internet, bases de données (SQL, modélisation conceptuelle), théorie des graphes, statistiques, algèbre linéaire, etc.\n La connaissance du français (B2) et de l'anglais (B2) est obligatoire. [...] Ce parcours est dispensé pour moitié en français et pour l'autre moitié en anglais. Il est accessible en alternance au niveau M2. [...] Applicants must hold a BSc (or any nationally recognised first cycle degree equivalent to 180 ECTS) in computer science with skills in algorithm design and analysis, automata and language theory, C programming, object-oriented programming (Java, Python), Internet programming, databases (SQL, Conceptual Modelling), graph theory, statistics, linear algebra, etc.\n Knowledge of French (B2) and English (B2) is compulsory.",
+      "raw_content": null,
+      "score": 0.52057004
+    },
+    {
+      "title": "Master Informatique Parcours Cyberphysical and social systems (CPS2) - Université Jean Monnet",
+      "url": "https://fac-sciences.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-informatique-parcours-cyber-physical-social-systems-5_09_07_0005_FR.html",
+      "snippet": "Faculté des Sciences et Techniques  \n23, rue Docteur Paul Michelon  \n42100 Saint-Etienne  \n04 77 48 15 00  \n  \nfac-sciences.univ-st-etienne.fr\n\n## Organisation\n\n- Formation initialeNiveau d'étude : BAC +5  \nDurée : 2 ans  \n120 crédits  \nLieu d’enseignement : \n\n Saint-Etienne\n\n## Coût de l'inscription\n\n€\n\nDétail coût d'inscription\n\nMore information\n\n## En savoir plus\n\nCursus 100% English  \nCPS2 brochure [...] CPS2 is an international track of the master in Computer Science of University of Lyon, jointly operated by University of Saint-Étienne and Mines Saint-Étienne - Institut Mines Télécom. The aim of this program is to provide students with strong expertise on Artificial Intelligence and Internet of Things to develop theoretical models and technologies for current and future applications in industry and society. After validating this programme, students will master the necessary technologies and [...] Overview of research, development and innovation activities: 4 ECTS\n Data interoperability and semantics: 2 ECTS\n CPS2 engineering and development: 6 ECTS\n Mobile programming: 2 ECTS\n Web programming: 5 ECTS\n Programming connected devices: 5 ECTS\n Foreign language: 3 ECTS\n Machine learning: 3 ECTS\n\n### M1 Curriculum - SEMESTER 2\n\nFrom January to June",
+      "raw_content": null,
+      "score": 0.3644614
+    },
+    {
+      "title": "Licence Informatique - Université Jean Monnet",
+      "url": "https://www.univ-st-etienne.fr/fr/formation/licence-XA/licence-XA/licence-informatique-3_09_04_0002_FR.html",
+      "snippet": "Langages formels 2 (parcours classique) : 3 ECTS\n Synthèse et Animation d’Images (parcours classique) : 5 ECTS\n Développement Web 2 : 5 ECTS\n Algorithmique des Graphes 2 (parcours classique) : 3 ECTS\n Traitement Automatique des Langues Naturelles (parcours classique) : 5 ECTS\n Anglais appliqué à l’informatique : 3 ECTS\n Enseignements d’ouverture et de sensibilisation (parcours classique) : 2 ECTS\n Méthodologie/gestion de projet (parcours classique) : 1 ECTS [...] La Licence d’Informatique permet aux étudiants d’acquérir, en trois ans, des bases solides en Informatique, incluant des éléments d’algorithmique, d’informatique théorique, de programmation, d’architecture, de réseau, de gestion des masses de données, de techniques internet et de développement Web. Elle favorise également l’acquisition de compétences linguistiques (anglais), de compétences transversales (aptitude à l’analyse et à la synthèse, à l’expression écrite et orale, au travail [...] ### SEMESTRE 3\n\n Programmation Impérative 2 : 5 ECTS\n Bases de Données 2 : 5 ECTS\n Système d’Exploitation : 5 ECTS\n Architecture des Ordinateurs : 5 ECTS\n Mathématiques pour l’Informatique 2 (parcours classique) : 4 ECTS\n Programmation (parcours en alternance) : 4 ECTS\n Anglais général : 2 ECTS\n Enseignements d’ouverture et de sensibilisation : 2 ECTS\n Projet Personnel Professionnel : 2 ECTS\n\n### SEMESTRE 4",
+      "raw_content": null,
+      "score": 0.23348822
+    }
+  ]
+}

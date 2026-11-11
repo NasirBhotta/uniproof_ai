@@ -1,0 +1,43 @@
+{
+  "migrated_records": 0,
+  "repaired_cycle1_records": 0,
+  "scope_demotions": 0,
+  "duplicate_ids": 0,
+  "cycle1_processed": 0,
+  "cycle1_passed": 0,
+  "cycle1_rejected": 0,
+  "cycle1_review_required": 0,
+  "cycle1_deferred": 0,
+  "promoted_to_cycle2": 0,
+  "cycle2_processed": 0,
+  "cycle2_verified": 0,
+  "cycle2_rejected": 0,
+  "fields_refreshed": 0,
+  "pool_additions": 0,
+  "pool_replacements": 0,
+  "pool_unchanged_candidates": 0,
+  "errors": 0,
+  "external_searches": 0,
+  "cache_hits": 0,
+  "searches_saved_by_memory": 0,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "provider_failures": 0,
+  "page_fetches": 0,
+  "cycle1_searches": 0,
+  "cycle2_searches": 0,
+  "page_diagnostics": [],
+  "current_pool_size": 0,
+  "stage_events": [],
+  "pending_counts": {
+    "CYCLE1_REJECTED": 6,
+    "CYCLE1_REVIEW_REQUIRED": 108,
+    "LEGACY_REVIEW": 72,
+    "POOL_DROPPED": 26
+  },
+  "reports": {
+    "cycle1_details": "D:\\france_admission_agent\\output\\Cycle1-Detailed-Latest.md",
+    "cycle1_ranking": "D:\\france_admission_agent\\output\\Cycle1-Ranking.md"
+  }
+}

@@ -1,0 +1,130 @@
+python : INFO france_admission_agent.discovery.round_runner: Discovery Round 8: Selected priority regions = 
+['Centre-Val de Loire', 'Bourgogne-Franche-Comté', 'Normandie']; generated frontiers = 7
+At line:67 char:1
++ python run_discovery_round.py *> output/incremental-diagnostics/contr ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO france_adm...d frontiers = 7:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Tours" 
+university France English; remaining budget=12
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=11
+INFO france_admission_agent.discovery.round_runner: Useful candidates=0
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=1 low_value=1 frontiers=1
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Orléans" 
+university France English; remaining budget=11
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=10
+INFO france_admission_agent.discovery.round_runner: Useful candidates=2
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=2 low_value=0 frontiers=2
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Dijon" 
+university France English; remaining budget=10
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=9
+INFO france_admission_agent.discovery.round_runner: Useful candidates=0
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=3 low_value=1 frontiers=3
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Besançon" 
+university France English; remaining budget=9
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=8
+INFO france_admission_agent.discovery.round_runner: Useful candidates=0
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=4 low_value=2 frontiers=4
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Rouen" 
+university France English; remaining budget=8
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=7
+INFO france_admission_agent.discovery.round_runner: Useful candidates=1
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=5 low_value=0 frontiers=5
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Caen" university 
+France English; remaining budget=7
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=6
+INFO france_admission_agent.discovery.round_runner: Useful candidates=5
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=6 low_value=0 frontiers=6
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master computer science" "Le Havre" 
+university France English; remaining budget=6
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=5
+INFO france_admission_agent.discovery.round_runner: Useful candidates=2
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=7 low_value=0 frontiers=7
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: GET https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master
+-informatique-L56FBPB3/master-informatique-genie-de-l-informatique-logicielle-L56FBPLQ.html "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: GET https://universitice.univ-rouen.fr/course/search.php?search=anglais&perpage=all 
+"HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: GET 
+https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3.html 
+"HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: GET https://dpt-info-sciences.univ-rouen.fr/ "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: GET https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master
+-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: GET https://dpt-info-sciences.univ-rouen.fr/index.php/ssiadmission "HTTP/1.1 200 OK"
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+======================================================================
+ [*] STARTING ITERATIVE DISCOVERY ROUND (Bounded Regional Expansion)
+======================================================================
+[+] Loading Persistent Local Research Memory: D:\france_admission_agent\data\france_research.db
+[+] Identifying under-explored regions and unresearched universities...
+
+======================================================================
+ DISCOVERY ROUND 8 EXECUTION SUMMARY
+======================================================================
+ Round Stop Reason: FRONTIERS_DEFERRED
+ Selected Priority Regions: Centre-Val de Loire, Bourgogne-Franche-Comté, Normandie
+ Discovery Frontiers Attempted: 7
+ External Search Calls Actually Executed: 7
+ Provider Calls (Attempted/Successful): 7/7
+ Queries Blocked as Exact Duplicates: 0
+ Queries Rewritten After Duplication: 0
+ Universities Attempted: 7
+ New Universities: 0
+ Known Universities With New Tracks: 4
+ New Programmes Found: 6
+ Candidates Deeply Verified: 0
+ Remaining Search Budget: 5
+ Pipeline migrated_records: 0
+ Pipeline cycle1_processed: 6
+ Pipeline cycle1_passed: 6
+ Pipeline cycle1_rejected: 0
+ Pipeline promoted_to_cycle2: 1
+ Pipeline cycle2_processed: 1
+ Pipeline cycle2_verified: 0
+ Pipeline cycle2_rejected: 0
+ Pipeline fields_refreshed: 0
+ Pipeline pool_additions: 0
+ Pipeline pool_replacements: 0
+ Pipeline pool_unchanged_candidates: 20
+ Pipeline errors: 0
+ Pipeline external_searches: 10
+ Pipeline cache_hits: 4
+ Pipeline searches_saved_by_memory: 1
+ Pipeline llm_calls: 0
+ Pipeline input_tokens: 0
+ Pipeline output_tokens: 0
+ Pipeline provider_failures: 0
+ Pipeline page_fetches: 6
+ Pipeline cycle1_searches: 6
+ Pipeline cycle2_searches: 4
+ Pipeline current_pool_size: 0
+ Summary Knowledge Base: output\Research-Knowledge-Summary.md
+ Detailed Round Report: output\Discovery-Round-008.md
+ Latest Round Report: output\Discovery-Latest.md
+======================================================================
+
+[+] Bounded round complete (Reason: FRONTIERS_DEFERRED). Memory updated. STOPPING.

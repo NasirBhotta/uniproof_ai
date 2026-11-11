@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-ubs.fr \"Master Informatique Science des Données et IA\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Cursus Master en Ingénierie (CMI) Science des Données ( ...",
+      "url": "https://www-facultesciences.univ-ubs.fr/_attachment/cursus-master-en-ingenierie-cmi-article-2/Syllabus_Dossier_CMI_Science_Des_Donnees.pdf?download=true",
+      "snippet": "de traitement automatique des langues — structure du web et analyse des liens (algorithme du PageRank) Prérequis — Mathématiques et informatique de niveau L3, M1 informatique. [...] Au début du Semestre 2, les étudiants doivent contacter leur directeur des études ou un enseignant du master aﬁn de choisir leur sujet. Des réunions régulières entre l’étudiant et son tuteur permettent la bonne avancée du projet. A la ﬁn du Semestre 2, les étudiants rendent un rapport scientiﬁque et soutiennent publiquement leur travail.\nPrérequis Licence de mathématiques et premier semestre du M1.\nBibliographie La bibliographie adaptée au projet sera communiquée par le tuteur. [...] l’entrepôt : outils ETL — Qualité des données — Métadonnées et référentiel de données — Organisation et stockage des données dans l’entrepôt — Socle, historisation, agrégats, magasins de données (datamarts) — Optimisation : gestion des agrégats, parallélisme, fragmentation — Structures multidimensionnelles et OLAP Prérequis Connaissance en système d’information et d’un SGBD [INF2105].",
+      "raw_content": null,
+      "score": 0.6612456
+    },
+    {
+      "title": "Master Informatique UBS",
+      "url": "https://www-informatique.univ-ubs.fr/master-info/aidn.shtml",
+      "snippet": "Prérequis : Notions de bases en système d’exploitation, programmation de scripts shell, bonne compréhension de TCP/IP\n\nINF2211 M1 - Semestre 2\n\n×\n\n##### Deep Learning\n\nCours : 21H ; TP : 21H\n\nObjectifs : [...] La partie pratique de ce cours est un projet sur lequel les étudiants travaillent en petits groupes pendant toute la durée du semestre dans notre laboratoire dédié, le VirtualLab, et expérimentent avec des capteurs et des dispositifs de rendu innovants tels que le Leap Motion, le Myo Armband, l’Open BCI, l'Hololens ou encore l’HTC Vive et l'Oculus Quest.\n\nPré-requis :\n\n Introduction à l'informatique graphique [INF2110] (M1 Informatique)\n Programmation C++ [INF1511] (L3 Informatique) [...] Contenu :\n\n Dessin de primitives 2D: lignes, polygones, caractères\n Transformations géométriques\n Voir en 3D: projection\n Modèles de surfaces: polygonales, paramétriques…\n Rendu: éclairage et lissage\n Couleurs\n OpenGL2/3\n GLSL\n\nPré-requis : Programmation C++ [INF1511] (L3 Informatique) \n\nBibliographie :\n\n Introduction to Computer Graphics, Foley, VanDam, Feiner, Hugues & Phillips\n\nINF2110 M1 - Semestre 1\n\n×\n\n##### Introduction aux systèmes distribués",
+      "raw_content": null,
+      "score": 0.54521364
+    },
+    {
+      "title": "Master Informatique UBS",
+      "url": "https://www-informatique.univ-ubs.fr/master-info/saim.shtml",
+      "snippet": "Prérequis : Notions de bases en système d’exploitation, programmation de scripts shell, bonne compréhension de TCP/IP\n\nINF2211 M1 - Semestre 2\n\n×\n\n##### Réseaux et systèmes pour applications innovantes\n\nCe cours aborde des aspects système et réseau qui fondent plusieurs catégories d’applications réparties actuelles ou relevant de la recherche et développement. L’accent est mis sur l’étude de protocoles et techniques du Web et de l'Internet de objets. [...] Contenu :\n\n Dessin de primitives 2D: lignes, polygones, caractères\n Transformations géométriques\n Voir en 3D: projection\n Modèles de surfaces: polygonales, paramétriques…\n Rendu: éclairage et lissage\n Couleurs\n OpenGL2/3\n GLSL\n\nPré-requis : Programmation C++ [INF1511] (L3 Informatique) \n\nBibliographie :\n\n Introduction to Computer Graphics, Foley, VanDam, Feiner, Hugues & Phillips\n\nINF2110 M1 - Semestre 1\n\n×\n\n##### Introduction aux systèmes distribués [...] Organisation et stockage des données dans l’entrepôt\n\n+ Socle, historisation, agrégats, magasins de données (datamarts)\n+ Optimisation : gestion des agrégats, parallélisme, fragmentation\n+ Structures multidimensionnelles et OLAP\n\nPré-requis : Connaissance en système d’information et d’un SGBD.\n\nBibliographie :",
+      "raw_content": null,
+      "score": 0.51618147
+    }
+  ]
+}

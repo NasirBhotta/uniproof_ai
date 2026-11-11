@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-grenoble-alpes.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique - UGA - Catalogue des formations - Université Grenoble Alpes",
+      "url": "https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-informatique-IAQK9B8Z.html",
+      "snippet": "## Niveau d'étude visé\n\n  Bac +5\n ## ECTS\n\n  120 crédits\n ## Durée\n\n  2 ans\n ## Composante\n\n  UFR Informatique, mathématiques et mathématiques appliquées (IM2AG), Grenoble INP - Ensimag (Informatique, mathématiques appliquées et télécommunications), UGA\n ## Langue(s) d'enseignement\n\n  Français, Anglais\n ## Bi-langue\n\n  Partiellement en anglais\n\n## Présentation\n\nFormation co-accréditée entre l'Université Grenoble Alpes et l'Institut polytechnique de Grenoble\n\nElle offre les parcours suivants : [...] La première année propose un parcours en français et un parcours en anglais (première année de MOSIG) avec des mutualisations. Elle offre un large choix d'enseignement de base (tronc commun) et avancé (en options) en informatique. Les unités d’enseignement des deux langues sont accessibles aux étudiants ayant au moins le niveau B2 dans la langue d'enseignement. Les étudiants choisissent la langue d’enseignement (parcours classique ou MOSIG) ce qui définit complètement les cours de tronc commun. [...] Génie Informatique (GI) : format alternance et classique\n Master of Science In Informatics at Grenoble (MoSIG) : en anglais, ouvert à l’international\n Operations Resarch, Combinatories and Optimization (ORCO) : commun avec la mention Mathématiques et applications\n Cybersecurity (CS) : en anglais, ouvert à l’international, commun avec la mention Mathématiques et applications",
+      "raw_content": null,
+      "score": 0.5215936
+    },
+    {
+      "title": "Master Informatique - UGA - Catalogue des formations - Université Grenoble Alpes",
+      "url": "https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-informatique-IAQK9B8Z.html",
+      "snippet": "La première année propose un parcours en français et un parcours en anglais (première année de MOSIG) avec des mutualisations. Elle offre un large choix d'enseignement de base (tronc commun) et avancé (en options) en informatique. Les unités d’enseignement des deux langues sont accessibles aux étudiants ayant au moins le niveau B2 dans la langue d'enseignement. Les étudiants choisissent la langue d’enseignement (parcours classique ou MOSIG) ce qui définit complètement les cours de tronc commun. [...] Génie Informatique (GI) : format alternance et classique\n Master of Science In Informatics at Grenoble (MoSIG) : en anglais, ouvert à l’international\n Operations Resarch, Combinatories and Optimization (ORCO) : commun avec la mention Mathématiques et applications\n Cybersecurity (CS) : en anglais, ouvert à l’international, commun avec la mention Mathématiques et applications [...] Les compétences communes sont l’acquisition d’une culture générale et d’un socle de base solide en informatique : langages de programmation, systèmes d’exploitation, bases de données, réseaux, génie logiciel, logiciels interactifs, conception / programmation orientées objet, complexité et algorithmique. Ces cours fondamentaux sont proposés en français et en anglais en première année de Master. Ils représentent 30 ECTS auxquels viennent s’ajouter un projet informatique d’un mois et un projet",
+      "raw_content": null,
+      "score": 0.47373086
+    },
+    {
+      "title": "Language requirements - UFR Informatique, mathématiques, mathématiques appliquées de Grenoble - IM2AG - Université Grenoble Alpes",
+      "url": "https://im2ag.univ-grenoble-alpes.fr/formation/candidatures/language-requirements-1488005.kjsp",
+      "snippet": "Cambridge C2 Proficiency (CPE)                  C\n\nIELTS Academic                                           6.0\n\nPearson Test of English Academic PTE   A62\n\nTOEFL IBT (Internet-based test)                 78\n\nTOEFL ITP (Paper-delivered test)              547\n\nTOEIC  (4skills)                                           700",
+      "raw_content": null,
+      "score": 0.3634441
+    }
+  ]
+}

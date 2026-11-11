@@ -1,0 +1,26 @@
+{
+  "query": "site:umontpellier.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Candidatures/Inscriptions – Master Physique Fondamentale et Applications",
+      "url": "https://master-physique.edu.umontpellier.fr/candidatures",
+      "snippet": "Étudiants français\n Étudiants de l’Union Européenne (UE)\n Étudiants hors UE ayant étudié en France l’année précédente\n\nPour la rentrée 2026, les candidatures seront ouvertes (en cours d’élaboration).\n\nEn parallèle de l’inscription sur eCandidat, les candidats en alternance doivent contacter le CFA.\n\nVoir les contacts sur la page dédiée.\n\n### Étudiants hors UE\n\nLes étudiants hors UE doivent obligatoirement candidater via Études en France. [...] Chaque parcours/année peut avoir des demandes spécifiques.\n\nLa liste complète est précisée sur les sites MonMaster, eCandidat ou Études en France\n\n## PLUS D’INFORMATIONS\n\nLes responsables de parcours et le secrétariat pédagogique sont à votre disposition pour répondre à vos questions et vous présenter en détail:\n\n Le déroulement et le contenu du Master : contacter les responsables du parcours\n Les modalités d’inscription et de candidature : contacter le secrétariat pédagogique",
+      "raw_content": null,
+      "score": 0.6246834
+    },
+    {
+      "title": "Venir étudier à l’université de Montpellier – Université de Montpellier",
+      "url": "https://www.umontpellier.fr/international/etudier-a-letranger/venir-etudier-a-luniversite-de-montpellier",
+      "snippet": "Liste des pays Campus France\n Procédure « Étude en France »\n Application en ligne e-international Welcome Desk\n\nInscriptions\n\nVotre candidature a été acceptée par l’Université de Montpellier après la procédure Etudes en France, vous souhaitez avoir plus d’informations sur les modalités d’inscription: veuillez vous mettre en contact avec la scolarité de votre UFR, école, institut d’accueil\n\n Frais de scolarité / droits d’inscriptions [...] Avant de préparer votre arrivée en France, veuillez contacter l’espace Campus France de votre pays d’origine. Si votre pays fait partie de la liste des pays Campus France, la procédure veut que les candidatures soient déposées à Campus France avant de pouvoir envisager une inscription à l’Université de Montpellier. Vous trouverez ici la procédure « Étude en France » pour candidater selon votre niveau d’étude. [...] Pour tout renseignement concernant les bourses et les aides financières pour les étudiants internationaux, vous pouvez consulter la page dédiée de Campus France\n\n Études doctorales\n\nVeuillez trouver les contacts de votre école doctorale ainsi que les « Formalités Administratives » pour connaître le processus d’inscription en doctorat.\n\n Aides financières pour les doctorants\n\n Open 4 Research\n ANDès\n ANR\n ADUM",
+      "raw_content": null,
+      "score": 0.47738418
+    },
+    {
+      "title": "Questions/Réponses – Département d’enseignement EEA – Faculté des Sciences",
+      "url": "https://eea-fds.edu.umontpellier.fr/questions-reponses",
+      "snippet": "La commission de recrutement demande au moins un niveau français de type B2 (demandé sur la plate forme Etude en France). Cela vous permettra de suivre correctement les enseignements dispensés. Si votre langue maternelle est le français, vous devez l’indiquer clairement sur votre dossier de candidature.\n\n#### Candidat non ressortissant de l’Union européenne : liste des pays et régions nécessitant une inscription sur plateforme Etude en France [...] #### Candidature d’étudiants Européens ou ayant un diplôme Européen\n\nLe site de candidature ouvre début avril Candidature FdS. Si vous êtes non Européen, renseignez vous sur Etude en France pour savoir si vous pouvez directement candidater sur le site de la Faculté des Sciences Candidature FdS.\n\n#### Augmentation des frais d’inscription pour étudiants étrangers\n\nÀ compter de la rentrée universitaire 2026-2027, l’Université de Montpellier va appliquer les droits différenciés. [...] #### Candidat non ressortissant de l’Union européenne : inscription au Master EEA\n\nSi vous devez faire acte de candidature par Etude en France c’est la seule façon de candidater au Master EEA. Une inscription sur site d’inscription de la Faculté des Sciences sera automatiquement rejetée si vous devez passer par Etude en France\n\n#### Relevés de notes, diplômes, et autres documents de ce type",
+      "raw_content": null,
+      "score": 0.40627348
+    }
+  ]
+}

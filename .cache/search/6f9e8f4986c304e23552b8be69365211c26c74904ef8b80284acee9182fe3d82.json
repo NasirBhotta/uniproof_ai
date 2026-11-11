@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-st-etienne.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Master Economie Parcours Data Science & Management de l’Innovation - Université Jean Monnet",
+      "url": "https://iae.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-economie-parcours-data-science-management-de-l-innovation-5_05_07_0003_FR.html",
+      "snippet": "Étudiants internationaux (hors Union Européenne et hors programmes d'échange) titulaires d'un diplôme étranger doivent candidater sur Études en France(pour les ressortissants des 65 pays relevant de la procédure Études en France) et eCandidat pour tous les autres. Toute autre voie de candidature sera refusée.\n Étudiants en reprise d'étude : contactez le plut tôt possible le responsable pédagogique de la formation et le Service de formation continue au 04 77 43 79 50 ou par email. [...] Obligatoires : \n\n Solides compétences et connaissances en économie et techniques quantitatives\n Anglais : niveau B2 minimum (cours en français et quelques cours en anglais ; 80 % / 20%)\n Français : niveau B2 minimum (C1-C2 recommandé)\n\n### Conditions d'admission\n\nPréparer sa candidature en;)Master;).\n\nLes candidatures se font en ligne via la plateforme Mon Master.\n\nÀ l'exception des candidatures des étudiants étrangers qui dépendent de la procédure Études En France.",
+      "raw_content": null,
+      "score": 0.798077
+    },
+    {
+      "title": "Admission - Université Jean Monnet",
+      "url": "https://se2.univ-st-etienne.fr/en/studying-at-se2/admission.html",
+      "snippet": "International student (who are not part of the European Union or exchange programs) : for foreign students with international degrees, applications must be filed via Etudes en France(65 countries are part of this process). All other candidates must apply on eCandidat. No admission file submitted in any other way will be accepted. [...] Prospective students must submit their application file via the Study in France platform (for foreign applicants who fall under jurisdiction of the Campus France procedure)\n\n Prospective students must submit their application file via the eCandidat platform (for all other candidates)\n\nTimeline:\n\n1st wave:\n\nLimited capacity, students are advised to apply as soon as possible [...] Prospective students must submit their application file via the Study in France platform (for foreign applicants who fall under jurisdiction of the Campus France procedure)\n\n Prospective students must submit their application file via the eCandidat platform (for all other candidates)\n\nTimeline:",
+      "raw_content": null,
+      "score": 0.7123327
+    },
+    {
+      "title": "Inscription étudiants étrangers - Université Jean Monnet",
+      "url": "https://www.univ-st-etienne.fr/fr/formation/inscriptions-admissions/preinscription/inscription-etudiants-etrangers.html",
+      "snippet": "#### En 2ème, 3ème année de licence ou en master 2\n\nVous êtes dispensés de Demande d'Admission Préalable (DAP).\n\nLes étudiants étrangers font acte de candidature :\n\n soit sur la plateforme Etudes En France pour les pays à procédure CEF,\n soit sur la plateforme eCandidat pour les pays hors procédure CEF.\n\n#### En master 1\n\nVous êtes dispensés de Demande d'Admission Préalable (DAP).\n\nLes étudiants étrangers font acte de candidature : [...] Pour les étrangers résidant en France :Candidature sur eCandidat  \n  Candidatures du 01/04/2026 au 31/08/2026 pour le semestre d’automne  \n  Candidatures du 01/04/2026 au 31/08/2026 pour une formation annuelle (semestre d’automne + semestre du printemps)  \n    \n  Une attestation certifiant un niveau A2 (TCF ou Delf) sera exigée [...] La démarche s'effectue auprès du service de coopération et d'action culturelle de l'Ambassade de France du pays dont ils sont ressortissants (dossiers blancs) et/ou ils résident. Attention ! Les Centres pour les Etudes en France (C.E.F.), dépendant directement du service de Coopération et d'Action Culturelle ont été mis en place dans différents pays. Dans la plupart des pays où est mis en place un C.E.F l'étudiant remplira son dossier de manière électronique via le site internet du C.E.F.",
+      "raw_content": null,
+      "score": 0.6271529
+    }
+  ]
+}

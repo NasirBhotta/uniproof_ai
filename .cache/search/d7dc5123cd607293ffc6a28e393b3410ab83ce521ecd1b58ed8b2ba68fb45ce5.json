@@ -1,0 +1,40 @@
+{
+  "query": "site:unistra.fr \"master informatique\" \"Strasbourg\" parcours",
+  "results": [
+    {
+      "title": "Master Informatique - Catalogue des formations",
+      "url": "https://formations.unistra.fr/fr/formations/master-MAS/master-informatique-ME192.html",
+      "snippet": "Master Informatique. 7 parcours disponibles. Connaissances, science des ... Strasbourg, de l'ENGEES et de l'INSA de Strasbourg. Avec près de 580 membres",
+      "raw_content": null,
+      "score": 0.82728493
+    },
+    {
+      "title": "Master Informatique - Parcours : Science et ingénierie des réseaux, de l'Internet et des systèmes (SIRIS) | UFR de mathématique et d'informatique",
+      "url": "https://mathinfo.unistra.fr/formations/master/master-informatique/odf-parcours-science-et-ingenierie-des-reseaux-de-linternet-et-des-systemes-siris-PR12-18105",
+      "snippet": "Admission sur dossier pour tout étudiant titulaire d'une licence mention informatique obtenue dans une université française ou équivalent.\n\nNotes et classements dans le cursus informatique, notes dans les matières de réseaux, systèmes et/ou sécurité, lettre de motivation.\n\n### Candidater\n\nPour consulter les modalités de candidature, consultez la page dédiée sur le site de l’Université de Strasbourg. [...] Aller au contenu\n Aller au menu principal\n Aller au menu principal\n Aller au menu des accès directs\n Aller au menu des accès directs\n Aller au menu des langues\n Aller au moteur de recherche\n\nUFR de mathématique et d'informatique     Université de Strasbourg\n\nUFR   de mathématique et d'informatique\n\nVous êtes ici :\n\n1. UFR de mathématique et d'informatique\n2. Formations\n3. Master\n4. Informatique\n5. ParcoursScience et ingénierie des réseaux, de l'Internet et des systèmes (SIRIS) [...] Pour obtenir des recommandations de la Commission pédagogique concernant la manière de présenter votre CV et votre lettre de motivation dans un dossier de candidature en 1ère année de Master, consultez la page dédiée sur le site de l'UFR.\n\n### Droits de scolarité\n\nPour consulter les droits de scolarité, consultez la page dédiée sur le site de l’Université de Strasbourg.\n\n### Prérequis obligatoires",
+      "raw_content": null,
+      "score": 0.8091708
+    },
+    {
+      "title": "UE Bases de données et réseaux - Master Informatique - Parcours : Gestion de projets informatiques (GPI) (SFC) | UFR de mathématique et d'informatique",
+      "url": "https://mathinfo.unistra.fr/formations/master/master-informatique/odf-parcours-gestion-de-projets-informatiques-gpi-sfc-PR36-18105/odf-cours-EN1138-18105-PR36",
+      "snippet": "Aller au contenu\n Aller au menu principal\n Aller au menu principal\n Aller au menu des accès directs\n Aller au menu des accès directs\n Aller au menu des langues\n Aller au moteur de recherche\n\nUFR de mathématique et d'informatique     Université de Strasbourg\n\nUFR   de mathématique et d'informatique\n\nVous êtes ici :\n\n1. UFR de mathématique et d'informatique\n2. Formations\n3. Master\n4. Informatique\n5. ParcoursGestion de projets informatiques (GPI) (SFC)\n6. UE Bases de données et réseaux [...] ## Bibliographie\n\nBases de données, Georges Gardarin, Eyrolles, 2003  \nIntroduction aux bases de données, Chris-J Date, Vuibert, 2004  \nIntroduction aux bases de données, modèle relationnel (support de cours), Richard Grin, Université de Nice Sophia-Antipolis, 2002  \nBases de données (support de cours), Sylvain Brandel, ULP Strasbourg, 2007\n\n## MCC [...] Protocoles, modèles en couches, interfaces, normes, standards. Média, supports physiques (cuivre, fibre optique, …). Caractéristiques de transmission, signal, bruit, affaiblissement, détection et correction d'erreurs. Ethernet, VLAN. Interconnexion réseaux locaux, routage par la source, Spanning Tree, xDSL et boucle locale. Sécurité et firewall (squid/squidguard et netfilter) VPN (ipsec, openvpn, certificats)\n\n## Compétences visées",
+      "raw_content": null,
+      "score": 0.79561085
+    },
+    {
+      "title": "Master Informatique - Parcours : Science et ingénierie du logiciel (SIL) | UFR de mathématique et d'informatique",
+      "url": "https://mathinfo.unistra.fr/formations/master/master-informatique/odf-parcours-science-et-ingenierie-du-logiciel-sil-PR11-18105",
+      "snippet": "## Admission\n\n### Critères de recrutement\n\nAdmission sur dossier pour tout étudiant titulaire d'une licence mention informatique obtenue dans une université française ou équivalent.\n\nNotes et classements dans le cursus informatique, notamment les notes en algorithmique, programmation, structures de données, logique, systèmes et réseaux, lettre de motivation.\n\n### Candidater\n\nPour consulter les modalités de candidature, consultez la page dédiée sur le site de l’Université de Strasbourg. [...] INNOVATION PÉDAGOGIQUE : UNE FORMATION EN ALTERNANCE  \nLes deux années de cette spécialité reposent le principe de l'alternance entre enseignement théorique à l’Université de Strasbourg et enseignement du métier chez l'employeur ou dans un laboratoire de recherche. [...] Aller au contenu\n Aller au menu principal\n Aller au menu principal\n Aller au menu des accès directs\n Aller au menu des accès directs\n Aller au menu des langues\n Aller au moteur de recherche\n\nUFR de mathématique et d'informatique     Université de Strasbourg\n\nUFR   de mathématique et d'informatique\n\nVous êtes ici :\n\n1. UFR de mathématique et d'informatique\n2. Formations\n3. Master\n4. Informatique\n5. ParcoursScience et ingénierie du logiciel (SIL)",
+      "raw_content": null,
+      "score": 0.7940821
+    },
+    {
+      "title": "Master Informatique - Parcours : Image et 3D (I3D)",
+      "url": "https://mathinfo.unistra.fr/formations/master/master-informatique/odf-parcours-image-et-3d-i3d-PR37-18105",
+      "snippet": "Le parcours I3D du master forme des concepteurs et des développeurs d'applications en informatique. Outre des étudiants capables de s'adapter à des technologies",
+      "raw_content": null,
+      "score": 0.5021246
+    }
+  ]
+}

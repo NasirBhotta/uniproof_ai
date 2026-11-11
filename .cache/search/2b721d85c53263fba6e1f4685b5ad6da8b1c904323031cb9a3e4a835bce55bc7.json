@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rouen.fr \"Master Informatique Sécurité des Systèmes Informatiques\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Sécurité Web - Catalogue des formations - Université de Rouen ...",
+      "url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN/ue4-securite-web-L9DARQN9/securite-web-L9DARQRL.html",
+      "snippet": "Prérequis : les notions vues en M1 sur les technologies Web. · Initiation aux missions de type tests d'intrusion d'un auditeur sécurité sur une application web :",
+      "raw_content": null,
+      "score": 0.5112048
+    },
+    {
+      "title": "Master Informatique, Génie de l'Informatique Logicielle - Catalogue des formations - Université de Rouen Normandie",
+      "url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-genie-de-l-informatique-logicielle-L56FBPLQ.html",
+      "snippet": "4 crédits\n        + ## Sémantique et typage (GIL)\n\n          4 crédits\n        + ## Théorie des jeux (GIL)\n\n          4 crédits\n        + ## Architectures distribuées (GIL)\n\n          4 crédits\n        + ## XML - Services Web (GIL)\n\n          3 crédits\n        + ## Test Logiciels (GIL)\n\n          3 crédits\n\n## Admission\n\n## Conditions d'admission\n\nAccès au master 1re année\n\nÊtre titulaire d'une licence ou d'un grade de licence.  \nLicences conseillées  :  \n- Licence Informatique [...] 2 crédits\n        + ## Analyses d'Articles (ITA)\n\n          1 crédits\n       ## S1 Sécurité des Systèmes Informatiques\n\n        11 crédits\n\n        + ## Gestion de projets (SSI)\n\n          4 crédits\n        + ## Théorie de l'Informatique (SSI)\n\n          4 crédits\n        + ## Vérification de Modèles (SSI)\n\n          2 crédits\n        + ## Analyses d'Articles (SSI)\n\n          1 crédits\n       ## S1 Génie de l'Informatique Logicielle\n\n        11 crédits [...] - ## Au choix : 1 parmi 3\n\n       ## S2 Informatique Théorique et Application\n\n        + ## Calcul formel (ITA)\n\n          4 crédits\n        + ## Sémantique typage (ITA)\n\n          4 crédits\n        + ## Théorie des jeux (ITA)\n\n          4 crédits\n        + ## Algorithmique pour la cryptographie (ITA)\n\n          4 crédits\n        + ## Informatique quantique I (ITA)\n\n          3 crédits\n        + ## Tests Logiciels (ITA)\n\n          3 crédits\n       ## S2 Sécurité des Systèmes Informatiques",
+      "raw_content": null,
+      "score": 0.4613328
+    },
+    {
+      "title": "Search results | UniversiTICE",
+      "url": "https://universitice.univ-rouen.fr/course/search.php?search=anglais&perpage=all",
+      "snippet": "Category: M2 Informatique, Sécurité des Systèmes Informatiques\n\n### [[M2] English](\n\nEnglish for Master's Degree of Data Science  \n Second Year\n\n Teacher: Shaza Askar\n\nCategory: M2 Informatique, Génie de l'Informatique Logicielle\n\n### [[Master 1 IS IBIOM S2 UE2] HUMANITES – Anglais](\n\n Teacher: Elie Mambou\n\nCategory: M1 Ingénierie de la Santé, Ingénierie pour le Bio-médical (IBIOM)\n\n### [[PC2-S3&4-UE3] Anglais](\n\n Teacher: Sebastien Duguay\n Teacher: Claude Roze\n Teacher: Madeline Zielinski [...] ### [[M1 info] Anglais](\n\n Teacher: Fahamehsadat Fatemi\n Teacher: Melissa Richard\n\nCategory: M1 Informatique\n\n### [[M1 Iq-bio (ev)] Anglais TD](\n\n Teacher: Fahamehsadat Fatemi\n Teacher: Cesare Giulio Popoli\n Teacher: Melissa Richard\n\nCategory: M1 Ingénierie Qualité des Bioproduits (IQB Evreux)\n\n### [[M1 ME-GT S1 UE] Anglais](\n\n Teacher: Christophe Coupeur\n\nCategory: M1 Energie, Maîtrise de l'Energie - Génie Thermique (ME-GT)\n\n### [[M1 SCEMAD] English for Science of the Matter]( [...] ### [[M1 BIMS S1 UE4] Génomique Transcriptomique](",
+      "raw_content": null,
+      "score": 0.27810773
+    }
+  ]
+}

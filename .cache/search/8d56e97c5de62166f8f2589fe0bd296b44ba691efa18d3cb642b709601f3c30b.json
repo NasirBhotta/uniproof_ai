@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"Master Informatique Systèmes Interactifs\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Systèmes Interactifs, Intelligents et Autonomes - Catalogue des Formations",
+      "url": "https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-systemes-interactifs-intelligents-et-autonomes-INRBVLH0.html",
+      "snippet": "En anglais / in English  \nThe SIIA programme aims to provide students with a mastery of the concepts, tools and techniques needed to design and deploy autonomous interactive systems. It equips students with the skills required for development, academic research or R&D in the field of innovative interactive systems. [...] La deuxième année est spécialisée autour des systèmes interactifs, de leur conception à leur implémentation, en passant par des outils et méthodes pour les rendre autonomes. Le premier semestre est une période de cours, tandis que le second est composé d'un projet de développement en groupe, d'une veille technologique ou scientifique, et d'un stage de 5 à 6 mois dans un laboratoire de recherche (avec des sujets proposés par le Lab-STICC) ou en entreprise.\n\nEn anglais / in English [...] | S7 INF Théorie des programmes | 4 crédits | 44h |\n| S7 INF Interface Homme-Machine | 4 crédits | 44h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Communication | 2 crédits | 22h |\n| Anglais | 3 crédits | 22h |\n| Entreprise | 1 crédits | 10h |",
+      "raw_content": null,
+      "score": 0.65597594
+    },
+    {
+      "title": "Parcours Systèmes interactifs, intelligents et autonomes",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Syst%C3%A8mes%20interactifs,%20intelligents%20et%20autonomes.pdf?contentId=subProgramContent%3A%2F%2F7b12db10-b018-4b4d-b8ac-b53caa4b89f8",
+      "snippet": "Objectifs Intégration dans le monde du travail.\n3 crédits ECTS Volume horaire Travaux Pratiques : 10h Pré-requis nécessaires Etre certifié en anglais niveau B2. [...] 3 crédits ECTS Volume horaire Cours Magistral : 11h Travaux Dirigés : 11h Pré-requis nécessaires Pour les étudiants n'ayant pas obtenu le niveau B2 en anglais. [...] - S7 INF Interface Homme-Machine 44h Préparation à la vie professionnelle - 1 EC d'anglais au choix selon résultats - Anglais 22h - Anglais certification 22h - Communication 22h - Entreprise 10h Semestre 8 S8 INF Systèmes temps réel 44h S8 SIIA 4 UEs à choisir parmi - S8 INF Systèmes à objets répartis 44h - S8 INF Administration des systèmes d'exploitation 44h - S8 INF Systèmes d'information 44h - S8 INF Programmation Parallèle Haute Performance 44h - S8 INF Architectures et accélérateurs",
+      "raw_content": null,
+      "score": 0.56719416
+    },
+    {
+      "title": "Parcours SIIA : Systèmes Intelligents, Interactifs et Autonomes | Département informatique",
+      "url": "https://www.univ-brest.fr/departement-informatique/en/page/parcours-siia-systemes-intelligents-interactifs-et-autonomes",
+      "snippet": "Certified minimum level of C1 in English (850 TOEIC points) (or native language)\n Certified Bachelor's degree (Licence, 180 validated ECTS or equivalent) and transcripts of grades\n Certified ongoing Master's degree (60 validated ECTS or equivalent) and transcripts of grades\n Motivation letter and CV\n Short description of the research proposal (1-3 pages)\n Opinion letter from the project local supervisor [...] The 2nd year of the SIIA Master is open to English-speaking students, following a Master by Research (MScR) programme. This Master by Research places an emphasis on research skills by giving students the opportunity to follow 3 academic modules among 5, and do a research project supervised by a local researcher (see the program below, or follow this link). It can give useful experience of what studying for a doctorate might be like, whilst at the same time allowing to earn a valuable masters",
+      "raw_content": null,
+      "score": 0.5608546
+    }
+  ]
+}

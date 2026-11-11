@@ -1,0 +1,19 @@
+{
+  "query": "site:univ-rouen.fr \"Master Informatique SSI\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Risultati della ricerca | UniversiTICE",
+      "url": "https://universitice.univ-rouen.fr/course/search.php?search=as&perpage=all&lang=it",
+      "snippet": "Docente: Antonella Esposito\n\nCategoria: M1 Sciences de la matière, physique et ingénierie des matériaux (PIM)\n\n### [[M1 SSI] BD Administration et sécurité](\n\n1) Administration et sécurité des bases de données Oracle :\n\n Gestion des utilisateurs\n Protection des tables\n PL/SQL avancé\n Audit\n Chiffrement\n\n2) PostgreSQL\n\n Docente: Stephane Herauville\n\nCategoria: M1 Informatique\n\n### [[M1BIMS S1-UE8] Envt Pro.-1 Métiers de la Bioinformatique]( [...] ### M1 - Bases de données spatialisées - TD\n\n Docente: Brian Chaize\n Docente: Sylviano Freire Diaz\n Docente: Remi Lemoy\n\nCategoria: UE2 - Méthodes et outils\n\n### M1 - Grammaire moderne (AS.Fabre)\n\n Docente: Anne Sophie Fabre\n\nCategoria: MEEF Lettres\n\n### M1 -M2E tous parcours\n\nil manque FVR -SVT\n\n Docente: Marie Le Breton\n\nCategoria: Gestion des groupes\n\n### M1 & M2 MEEF PE antenne LH - LABROSSE - 2026-2027 [...] ### Master 1 - RIFES\n\n Docente: Nicolas Guirimand\n Docente: Celine Mahieu\n Docente: Loic Martin\n Docente: Clement Medrinal\n\nCategoria: Master RIFES (Recherche, Interprofessionnalité, Formation et Education en Santé)\n\n### Master 1 EAD 2026-27 - UE4 - PEC et Projet Professionnel (LEQ1A41D)\n\n Docente: Ludovic Jandacka\n\nCategoria: UE4 - Personnalisation\n\n### Master 1 GTDL Informations générales\n\n Docente: Oriane Lafuente-Sampietro\n\nCategoria: M1 - EDT Economie et Développement des Territoires",
+      "raw_content": null,
+      "score": 0.16758648
+    },
+    {
+      "title": "Search results | UniversiTICE",
+      "url": "https://universitice.univ-rouen.fr/course/search.php?search=info&perpage=all",
+      "snippet": "Teacher: Yann Ponsonnaille\n Teacher: Scol-Shs Socio\n Teacher: Pauline Tierce\n Teacher: Audrey Varin\n\nCategory: Master\n\n### Informations stage licence 3 LEA- Enseignants\n\n Teacher: Giuseppe Bardascino\n Teacher: Pierre-Alexandre Besson\n Teacher: Constanze Euler\n Teacher: Fabrice Groult\n Teacher: Ludovic Jandacka\n\nCategory: L3\n\n### Informations sur la Licence 3\n\n Teacher: Carole Daverne-Bailly\n\nCategory: 2026-2027\n\n### Informatique - F Desaint\n\n Teacher: Frédéric Desaint\n\nCategory: Semestre 1 [...] Teacher: Christophe Hancart\n Teacher: Thierry Lecroq\n Teacher: Arnaud Lefebvre\n\nCategory: M1 Informatique\n\n### [[M1 INFO S1 UE8 SSI/ITA] Analyse d'articles](\n\n Teacher: Fatma Azoud\n Teacher: Magali Bardet\n Teacher: Carla Selmi\n\nCategory: M1 Informatique\n\n### [[M1 INFO S2 UE6] Théorie des jeux](\n\n Teacher: Carla Selmi\n\nCategory: M1 Informatique\n\n### [[M1 info] Anglais](\n\n Teacher: Fahamehsadat Fatemi\n Teacher: Melissa Richard\n\nCategory: M1 Informatique\n\n### [[M1 Info] Informations générales]( [...] ### Systèmes d'information géographique M1 EEET\n\n Teacher: Sylviano Freire Diaz\n\nCategory: UE2 - Approches pluridisciplinaires du Développement Durable\n\n### Systèmes d'information géographiques M2\n\n Teacher: Sylviano Freire Diaz\n\nCategory: UE5 - Compétences numériques\n\n### TD Contrats spéciaux commerciaux 2026/2027",
+      "raw_content": null,
+      "score": 0.15429981
+    }
+  ]
+}

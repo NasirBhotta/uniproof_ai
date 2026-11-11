@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rennes.fr \"Master Informatique Science Informatique\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Master mention Informatique, parcours Cloud et Réseaux (CR)",
+      "url": "https://formations.univ-rennes.fr/parcours/master-mention-informatique-parcours-cloud-et-reseaux-cr",
+      "snippet": "Calendrier de candidature. La période de candidature s'étale de mars à juin pour l'année universitaire suivante. Chaque formation a des dates",
+      "raw_content": null,
+      "score": 0.5126688
+    },
+    {
+      "title": "Master mention Méthodes Informatiques Appliquées à la ...",
+      "url": "https://formations.univ-rennes.fr/parcours/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-1",
+      "snippet": "Calendrier de candidature. La période de candidature s'étale de mars à juin pour l'année universitaire suivante. Chaque formation a des dates qui lui sont",
+      "raw_content": null,
+      "score": 0.36283427
+    },
+    {
+      "title": "Master mention Informatique, parcours Ingénierie Logicielle (IL)",
+      "url": "https://formations.univ-rennes.fr/parcours/master-mention-informatique-parcours-ingenierie-logicielle-il",
+      "snippet": "Formation initiale : candidatures ouvertes du 30 mars au 25 mai 2026. Chaque formation a des dates limites de dépôt de dossiers de candidature",
+      "raw_content": null,
+      "score": 0.3233806
+    }
+  ]
+}

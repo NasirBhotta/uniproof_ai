@@ -190,33 +190,42 @@ def build_markdown_report(
 
 def _append_programme_card(lines: list[str], idx: int, e: ProgrammeEvaluation):
     p = e.programme
+    from .research.evidence_caches import normalize_university_key
+    inst_id = p.institution_id or normalize_university_key(p.university)
+    prog_url = _fmt_url(p.programme_url) or (_fmt_url(p.official_sources[0].source_url) if p.official_sources else "N/A")
+    admissions_url = _fmt_url(p.official_admissions_url) or (_fmt_url(p.application_route_info.source_url) if p.application_route_info and p.application_route_info.source_url else prog_url)
+    cycle_val = p.canonical_cycle.status.value if p.canonical_cycle else e.cycle_readiness.value
+    t_match = p.transcript_match_info
+    t_lang_status = p.teaching_language_info.status.value
+    t_lang_vals = ", ".join(p.teaching_language_info.values) if p.teaching_language_info.values else (", ".join(p.language.teaching_language) or "Unverified")
+    m1_m2 = p.programme_structure.evidence if p.programme_structure and p.programme_structure.evidence else f"M1 entry confirmed ({p.level})"
+
     lines.append(f"### {idx}. {p.university} — {p.programme}")
     if p.track:
         lines.append(f"**Track:** {p.track}")
     lines.append(f"**Level:** {p.level} | **City:** {p.city} | **Public:** {'Yes' if p.public is not False else 'No'}")
-    lines.append(f"**Profile Fit Score:** {e.score.profile_fit_score:.1f}/100 ({e.score.status.value})")
-    lines.append(f"**Evidence Confidence Score:** {e.score.evidence_confidence_score:.1f}/100")
-    cycle_val = p.canonical_cycle.status.value if p.canonical_cycle else e.cycle_readiness.value
-    lines.append(f"**2027 Cycle Status:** {cycle_val}")
-    t_lang = ", ".join(p.teaching_language_info.values) if p.teaching_language_info.values else (", ".join(p.language.teaching_language) or "Under Review")
-    lines.append(f"**Teaching Language:** {t_lang}")
-    lines.append(f"**Application Route:** {p.application_route or 'Études en France (Campus France)'}")
+    lines.append("")
+    lines.append(f"- **institution_id**: `{inst_id}`")
+    lines.append(f"- **programme_id**: `{p.programme_id}`")
+    lines.append(f"- **track_id**: `{p.track_id or 'general'}`")
+    lines.append(f"- **official_programme_url**: {prog_url}")
+    lines.append(f"- **official_admissions_url**: {admissions_url}")
+    lines.append(f"- **M1/M2 structure**: {m1_m2}")
+    lines.append(f"- **Degree compatibility**: {e.eligibility.degree_field.value}")
+    lines.append(f"- **Transcript fit**: {t_match.coverage * 100:.1f}% coverage ({len(t_match.matched_candidate_courses)} matched courses)")
+    lines.append(f"- **Teaching language**: {t_lang_status} ({t_lang_vals})")
+    lines.append(f"- **Language requirement**: {p.language.english_cefr_required or p.english_req_info.cefr or 'B2 equivalent / Unspecified'}")
+    lines.append(f"- **Application route**: {p.application_route or 'Études en France (Campus France)'}")
+    lines.append(f"- **Cycle status**: {cycle_val}")
+    lines.append(f"- **Profile Fit**: {e.score.profile_fit_score:.1f}/100 ({e.score.status.value})")
+    lines.append(f"- **Evidence Confidence**: {e.score.evidence_confidence_score:.1f}/100")
     if p.capacity is not None:
-        lines.append(f"**Capacity / Seats:** {p.capacity}")
-    if p.explicit_prerequisites:
-        lines.append(f"**Explicit Prerequisites:** {', '.join(p.explicit_prerequisites)}")
-
-    # Evidence Matrix summary
-    t_match = p.transcript_match_info
-    lines.append(f"**Evidence Assessment:**")
-    lines.append(f"- Degree Compatibility: {e.eligibility.degree_field.value}")
-    lines.append(f"- Transcript Match: {t_match.coverage * 100:.1f}% coverage ({len(t_match.matched_candidate_courses)} courses matched)")
-    lines.append(f"- Teaching Language: {p.teaching_language_info.status.value}")
-    lines.append(f"- Application Route: {e.eligibility.application_route.value}")
-    lines.append(f"- 2027 Cycle Readiness: {cycle_val}")
+        lines.append(f"- **Capacity / Seats**: {p.capacity}")
+    unres = p.unresolved_questions or [r for r in e.eligibility.reasons if 'unverified' in r.lower()]
+    lines.append(f"- **Unresolved items**: {'; '.join(unres) if unres else 'None'}")
 
     if e.skeptic.serious_risks:
-        lines.append(f"**Skeptic Notes:** {'; '.join(e.skeptic.serious_risks[:2])}")
+        lines.append(f"- **Skeptic Notes**: {'; '.join(e.skeptic.serious_risks[:2])}")
 
     lines.append("")
     lines.append("**Official Evidence Sources:**")
@@ -231,27 +240,37 @@ def _append_programme_card(lines: list[str], idx: int, e: ProgrammeEvaluation):
 
 def _append_language_verification_card(lines: list[str], idx: int, e: ProgrammeEvaluation):
     p = e.programme
+    from .research.evidence_caches import normalize_university_key
+    inst_id = p.institution_id or normalize_university_key(p.university)
+    prog_url = _fmt_url(p.programme_url) or (_fmt_url(p.official_sources[0].source_url) if p.official_sources else "N/A")
+    admissions_url = _fmt_url(p.official_admissions_url) or (_fmt_url(p.application_route_info.source_url) if p.application_route_info and p.application_route_info.source_url else prog_url)
+    cycle_val = p.canonical_cycle.status.value if p.canonical_cycle else e.cycle_readiness.value
+    t_match = p.transcript_match_info
+    m1_m2 = p.programme_structure.evidence if p.programme_structure and p.programme_structure.evidence else f"M1 entry confirmed ({p.level})"
+
     lines.append(f"### {idx}. {p.university} — {p.programme}")
     if p.track:
         lines.append(f"**Track:** {p.track}")
     lines.append(f"**Level:** {p.level} | **City:** {p.city} | **Public:** {'Yes' if p.public is not False else 'No'}")
-    lines.append(f"**Profile Fit Score:** {e.score.profile_fit_score:.1f}/100 (PROVISIONAL)")
-    lines.append(f"**Evidence Confidence Score:** {e.score.evidence_confidence_score:.1f}/100")
-    cycle_val = p.canonical_cycle.status.value if p.canonical_cycle else e.cycle_readiness.value
-    lines.append(f"**2027 Cycle Status:** {cycle_val}")
+    lines.append("")
+    lines.append(f"- **institution_id**: `{inst_id}`")
+    lines.append(f"- **programme_id**: `{p.programme_id}`")
+    lines.append(f"- **track_id**: `{p.track_id or 'general'}`")
+    lines.append(f"- **official_programme_url**: {prog_url}")
+    lines.append(f"- **official_admissions_url**: {admissions_url}")
+    lines.append(f"- **M1/M2 structure**: {m1_m2}")
+    lines.append(f"- **Degree compatibility**: {e.eligibility.degree_field.value}")
+    lines.append(f"- **Transcript fit**: {t_match.coverage * 100:.1f}% coverage ({len(t_match.matched_candidate_courses)} matched courses)")
+    lines.append(f"- **Teaching language**: {p.teaching_language_info.status.value}")
+    lines.append(f"- **Language requirement**: {p.language.english_cefr_required or p.english_req_info.cefr or 'B2 equivalent / Unspecified'}")
+    lines.append(f"- **Application route**: {p.application_route or 'Études en France (Campus France)'}")
+    lines.append(f"- **Cycle status**: {cycle_val}")
+    lines.append(f"- **Profile Fit**: {e.score.profile_fit_score:.1f}/100 ({e.score.status.value})")
+    lines.append(f"- **Evidence Confidence**: {e.score.evidence_confidence_score:.1f}/100")
 
-    # Official programme & admissions URLs
-    prog_url = _fmt_url(p.programme_url) or (_fmt_url(p.official_sources[0].source_url) if p.official_sources else "N/A")
-    admissions_url = _fmt_url(p.application_route_info.source_url) if p.application_route_info and p.application_route_info.source_url else prog_url
-
-    lines.append(f"**Official Programme URL:** {prog_url}")
-    lines.append(f"**Official Admissions URL:** {admissions_url}")
-
-    # Current language evidence found
     curr_ev = p.teaching_language_info.evidence or (p.language.english_cefr_required and f"CEFR {p.language.english_cefr_required}") or "General university international catalogue"
-    lines.append(f"**Current Language Evidence Found:** {curr_ev}")
+    lines.append(f"- **Current Language Evidence**: {curr_ev}")
 
-    # What remains unknown
     unknown_items = []
     if p.teaching_language_info.status == LanguageStatus.LANGUAGE_UNVERIFIED:
         unknown_items.append("Official language of instruction (English vs French vs bilingual)")
@@ -259,20 +278,23 @@ def _append_language_verification_card(lines: list[str], idx: int, e: ProgrammeE
         unknown_items.append("Exact IELTS sub-score thresholds (specifically Speaking 5.5 vs 6.0)")
     if p.french_req_info.status == LanguageStatus.LANGUAGE_REQUIREMENT_UNVERIFIED and p.teaching_language_info.status == LanguageStatus.VERIFIED_FRENCH:
         unknown_items.append("Minimum mandatory French level (B2 vs C1) and whether English MOI letter is accepted")
-    lines.append(f"**What Remains Unknown:** {'; '.join(unknown_items) if unknown_items else 'Exact language certificate threshold'}")
+    unres_str = '; '.join(unknown_items) if unknown_items else 'Exact language certificate threshold'
+    lines.append(f"- **Unresolved items**: {unres_str}")
 
-    # Exactly what user should manually verify
-    manual_checks = [
-        "1. Contact programme coordinator or check syllabus PDF to verify whether M1 courses are delivered in English.",
-        "2. Inquire whether candidate's IELTS Speaking 5.5 is accepted, or if English Medium-of-Instruction letter from COMSATS waives formal testing.",
-        "3. Check whether Campus France Pakistan interview alone suffices for language validation.",
-    ]
-    lines.append("**Exactly What the User Should Manually Verify:**")
-    for chk in manual_checks:
-        lines.append(f"  {chk}")
+    lines.append("")
+    lines.append("**Official Evidence Sources:**")
+    seen_urls: set[str] = set()
+    for ev in p.official_sources:
+        url = _fmt_url(ev.source_url)
+        if url and url not in seen_urls:
+            seen_urls.add(url)
+            lines.append(f"- [{ev.claim}] {url}")
 
-    t_match = p.transcript_match_info
-    lines.append(f"**Academic Alignment:** Degree {e.eligibility.degree_field.value}, Transcript Coverage: {t_match.coverage * 100:.1f}% ({len(t_match.matched_candidate_courses)} matched courses)")
+    lines.append("")
+    lines.append("**Candidate Manual Verification Action Items:**")
+    lines.append("1. Contact programme coordinator or check syllabus PDF to verify whether M1 courses are delivered in English.")
+    lines.append("2. Inquire whether candidate's IELTS Speaking 5.5 is accepted, or if English Medium-of-Instruction letter from COMSATS waives formal testing.")
+    lines.append("3. Check whether Campus France Pakistan interview alone suffices for language validation.")
     lines.append("")
 
 
@@ -294,14 +316,26 @@ def save_run_outputs(result: dict, output_dir: str | Path, *, target_intake: str
         target_intake=target_intake,
         metrics=metrics,
     )
-    report_path = out / "final_shortlist.md"
+    report_path = out / "Final-Shortlist.md"
     report_path.write_text(report, encoding="utf-8")
+    (out / "final_shortlist.md").write_text(report, encoding="utf-8")
 
     def dump_models(items):
         return [x.model_dump(mode="json") for x in items]
 
     final_json = out / "final_shortlist.json"
     final_json.write_text(json.dumps(dump_models(final_shortlist), indent=2, ensure_ascii=False), encoding="utf-8")
+
+    cycle1_results_json = out / "cycle1_results.json"
+    cycle1_data = {
+        "final_shortlist": dump_models(final_shortlist),
+        "evaluations": dump_models(evaluations),
+        "rejected": dump_models(rejected),
+        "metrics": metrics,
+        "stop_reason": stop_reason,
+        "target_intake": target_intake,
+    }
+    cycle1_results_json.write_text(json.dumps(cycle1_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
     eval_json = out / "evaluations.json"
     eval_json.write_text(json.dumps(dump_models(evaluations), indent=2, ensure_ascii=False), encoding="utf-8")
@@ -311,6 +345,8 @@ def save_run_outputs(result: dict, output_dir: str | Path, *, target_intake: str
 
     return {
         "report": report_path,
+        "final_shortlist_md": report_path,
+        "cycle1_json": cycle1_results_json,
         "final_json": final_json,
         "evaluations_json": eval_json,
         "rejected_json": rejected_json,

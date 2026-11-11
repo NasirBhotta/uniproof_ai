@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Droits d'inscription différenciés | Université de Bretagne Occidentale",
+      "url": "https://www.univ-brest.fr/fr/actualite/droits-dinscription-differencies",
+      "snippet": "Étudiant extra-communautaire primo-arrivant ayant reçu une notification d’admission à l’université avant le 21 mai 2026 (via les procédures d’admission Études en France ou e-Candidat), mentionnant explicitement l’exonération des droits d’inscription ;\n Titulaire de la carte de résident ou de la carte de résident portant la mention « résident de longue durée-UE » et leurs enfants mineurs ;",
+      "raw_content": null,
+      "score": 0.5683445
+    },
+    {
+      "title": "Candidature à partir d'un pays CEF | Université de Bretagne Occidentale",
+      "url": "https://nouveau.univ-brest.fr/fr/page/candidature-partir-dun-pays-cef",
+      "snippet": "## Candidature en Licence 2, 3 &Pro - Master 1 et 2- Diplôme d'Ingénieur\n\n### Comment procéder ?\n\nLes étudiants étrangers justifiant des titres ouvrant droit, dans le pays où ils ont été obtenus, aux études envisagées (Licence 2 ou Licence 3, Master 1 et Master 2), doivent créer un dossier sur le site Campus France de leur pays de résidence.  \nA défaut de respecter cette procédure électronique, votre candidature ne pourra pas être examinée par l’Université de Bretagne Occidentale. [...] ### La DAP, qu'est-ce que c'est?\n\nLa demande d'admission préalable (DAP) permet de faire une demande d’inscription pour la première fois pour la première année de licence, dans un établissement français.\n\nLes étudiants internationaux justifiant des titres ouvrant droit, dans le pays où ils ont été obtenus, aux études envisagées (L1), doivent créer un dossier de demande d'admission préalable sur le site Campus France de leur pays. [...] Le dispositif « Centre pour Études en France » vous permet de bénéficier d’un appui et de conseils pour réaliser l’ensemble des démarches jusqu’à la demande de visa. Il vous offre également la possibilité de suivre l’évolution de votre dossier électronique par Internet (voir détail ci-dessous).\n\n## Les étapes de constitution du dossier",
+      "raw_content": null,
+      "score": 0.49392182
+    },
+    {
+      "title": "Bourses Eiffel | Université de Bretagne Occidentale",
+      "url": "https://www.univ-brest.fr/fr/page/bourses-eiffel",
+      "snippet": "- Origine des dossiers : toutes les candidatures doivent obligatoirement passer par la Direction des Affaires Internationales (DAI) qui centralise toutes les demandes et envoie les dossiers à Campus France. En aucun cas l’étudiant ne doit envoyer sa candidature directement à Campus France, celle-ci sera d’emblée rejetée. De plus, un candidat présenté par plus d'un établissement se verra également rejeté.\n\n- Durée de la bourse : [...] DATE LIMITE D’ENVOI : lundi 8 décembre 2025\n\nAttention : la date limite pour les candidatures à l’Université de Bretagne Occidentale est différente de celle indiquée sur le site de Campus France (8 janvier 2025).\n\n## Contacts\n\n Direction des Affaires Internationales\n\n  Direction des Affaires Internationales [...] - Niveau de langue : nous veillerons à ce que les candidats non francophones aient un niveau linguistique en adéquation avec le niveau exigé par la formation. Pour les doctorants : Les étudiants en cours d’études à l’étranger sont prioritaires sur ceux qui résident déjà en France. Pour les masters : les étudiants en cours d'études en France sont inéligibles.\n\n### Comment postuler ?\n\nEtape 1 : vérifier votre éligibilité en lisant la règlementation de la Bourse Eiffel destinées aux étudiants",
+      "raw_content": null,
+      "score": 0.3503997
+    }
+  ]
+}

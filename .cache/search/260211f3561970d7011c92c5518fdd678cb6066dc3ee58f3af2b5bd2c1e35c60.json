@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rennes.fr \"Master Informatique Ingénierie Logicielle\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Informatique - ISTIC - Université de Rennes",
+      "url": "https://istic.univ-rennes.fr/sites/istic.univ-rennes.fr/files/medias/files/Fiche%20formation%20Master%20IL_1.pdf",
+      "snippet": "Liens avec le monde professionnel (hors alternance) : • M1 : projet de développement logiciel, stage de 8 semaines • M2 : projet tutoré, stage de 22 semaines Présentation Le parcours Ingénierie Logicielle a pour objectif de former des ingénieur·e·s en informatique dans les domaines du développe­ ment logiciel et de l’architecture logicielle. L’accent est mis sur les apprentissages permettant la création et la mise à jour rapide d’applications tout en abordant en profondeur les techniques [...] Les deux années du master Ingénierie Logicielle sont accessibles en formation classique ou en alternance.\nRythme moyen d’alternance : • M1 : 4 semaines à l’université et 4 semaines en entreprise puis à temps plein pendant les vacances et à partir de mi-mai • M2 : 5 semaines à l’université et 5 semaines en entreprise puis à temps plein pendant les vacances et à partir de mars. [...] Master Informatique parcours Ingénierie Logicielle (IL) Bac +5 Les spécialisations Un jeu d’options permet aux étudiant·e·s d’acquérir une expertise spécifique sur les problématiques de l’ingénierie des modèles, sur les questions liées aux architectures pour les données distribuées, sur l’intelligence artificielle ou la robotique. Ce jeu d’options permet aussi aux étudiant·e·s qui le souhaitent de s’ouvrir aux enjeux de recherche dans le domaine, afin de se préparer à une formation doctorale. En",
+      "raw_content": null,
+      "score": 0.72605723
+    },
+    {
+      "title": "Master Informatique parcours Ingénierie Logicielle (IL) | ISTIC",
+      "url": "https://istic.univ-rennes.fr/master-informatique-parcours-ingenierie-logicielle-il",
+      "snippet": "Le parcours Ingénierie logicielle a pour objectif de former des ingénieurs en informatique dans les domaines du génie logiciel, en particulier ceux de l'ingénierie des composants logiciels, des architectures à services, des cadriciels complexes (frameworks) et de l'ingénierie des modèles. À l'issue de ce parcours les étudiants sont des spécialistes capables de concevoir et réaliser des logiciels complexes et évolutifs, notamment par la maîtrise des techniques dites de l'ingénierie des modèles, [...] Semestre 1\n:    UE Architecture logicielle orientée objet .pdf  - (118.34 Ko)\n     UE Base de données.pdf  - (100.24 Ko)\n     UE Concurrence et système d'exploitation.pdf  - (98.1 Ko)\n     Mineure Semestre 1\n      + Bloc Ingénierie Logiciel\n        - UE Analyse et conception formelle.pdf  - (160.89 Ko)\n        - UE Web engineering .pdf  - (98.06 Ko)\n      + Bloc Infrastructures, cloud et réseaux\n        - UE Services and cloud computing.pdf  - (358.28 Ko) [...] Le Master IL est accessible en formation initiale ou en alternance.\n\n## Programme du Master 1 parcours IL - Classique et alternance",
+      "raw_content": null,
+      "score": 0.5855047
+    },
+    {
+      "title": "Candidatures et admissions en master | ISTIC",
+      "url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+      "snippet": "## Master 1\n\nDu 17 février au 16 mars 2026 : Candidatez aux Masters de l’ISTIC sur monmaster.gouv.fr\n\nVous pouvez candidater à plusieurs mentions de Master (jusqu’à 15 en formation classique et 15 en alternance) via la plateforme nationale de candidature en M1.\n\nConsultez le calendrier 2025 monmaster.gouv.fr\n\nPour les dossiers d'étudiants titulaires d'un diplôme étranger, un niveau de français équivalent ou supérieur au niveau C1 du CECRL sera exigé.\n\n## Master 2 [...] Master 2 International Intelligent Communicating Systems (ICS)\n:   Du 30/03/2026 au 19/04/2026\n\nMaster 2 Informatique parcours Ingénierie logicielle (IL) - Classique\n:   Du 30/03/2026 au 25/05/2026\n\nMaster 2 Informatique parcours Cloud et Réseaux (CR) - Classique\n:   Du 07/02/2026 au 05/04/2026\n\nMaster 2 Informatique parcours Cloud et Réseaux (CR) - Alternance\n:   Du 07/02/2026 au 05/04/2026\n\nMaster 2 Informatique parcours Cloud and Network Infrastructures (CNI)\n:   Du 30/03/2026 au 25/05/2026 [...] Master 2 Informatique parcours Science Informatique (SIF)\n:   Du 30/03/2026 au 25/05/2026\n\nMaster 2 Cybersécurité parcours Sécurité Logicielle et Matérielle - CyberSchool\n:   Du 30/03/2026 au 25/05/2026\n\nMaster 2 Intelligence Artificielle parcours IA et Applications - Alternance\n:   Du 07/02/2026 au 05/04/2026\n\nMaster 2 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) parcours DAta et Business Intelligence (DABI) - Alternance\n:   Du 07/02/2026 au 05/04/2026",
+      "raw_content": null,
+      "score": 0.47636098
+    }
+  ]
+}

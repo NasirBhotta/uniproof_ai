@@ -1,0 +1,19 @@
+{
+  "query": "site:univ-orleans.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Proceedings",
+      "url": "https://www.univ-orleans.fr/lifo/evenements/CSLP2012/proceedings_CSLP12.pdf",
+      "snippet": "learner) to progress in timely fashion into the next level of proﬁciency, and can as well help shed light on the processes by which languages less studied than English are acquired. [...] Gapp, K.P.: Basic meanings of spatial relations: Computation and evaluation in 3d space. In: Hayes-Roth, B., Korf, R.E. (eds.) AAAI. pp. 1393–1398. AAAI Press/The MIT Press (1994) 14. Ginzburg, J.: The interactive stance: meaning for conversation. Oxford University Press, Oxford (2012) 15. Guerra-Filho, G., Aloimonos, Y.: A language for human action. Computer 40(5), 42 –51 (may 2007) 16. Herskovits, A.: Language and spatial cognition: an interdisciplinary study of the prepositions in English. [...] the (adequately annotated) morphological lexicon of the language studied. If the results are consistent with those of English, this would indicate a similar learning order. Any diﬀerences could be further ana-lyzed in order to ﬁnd out what the actual acquisition order is in this language.",
+      "raw_content": null,
+      "score": 0.05125827
+    },
+    {
+      "title": "université d'orléans",
+      "url": "https://theses.univ-orleans.fr/public/2024ORLE1017_va.pdf",
+      "snippet": "When unspecified, complexity typically refers to the time needed to run the algo-rithm, expressed as a function of the input size n, and called the running time T. [...] trouvé une position qui te convient. Ioan, je ne sais pas à quoi tu t’attendais quand nous t’avons approché avec Simon, mais ce qui a compté en premier pour moi, c’est le rapport humain et honnête que nous avons eu. J’ai ensuite découvert l’immense chance que j’ai eue de tomber sur toi. Tu as su diriger une thèse éloignée de tes sujets avec légèreté tout en trouvant les mots justes pour m’aider durant ces trois années. Merci pour ta franchise et ta sympathie. Beaucoup d’élèves ont de la chance [...] Merci de m’avoir pris en stage, de m’avoir accompagné et soutenu pour que je transforme ce stage en une thèse. Je sais que cela n’aurait pas été possible sans toi. Nous nous sommes aventurés dans une recherche exploratoire, ce qui me convenait très bien. Merci d’avoir eu confiance en moi pour ce projet qui n’était pas ton expertise. Au-delà de cela, j’ai énormément appris à tes côtés, et je reste très impressionné par tes capacités d’abstraction. Je suis content que tu aies trouvé une position",
+      "raw_content": null,
+      "score": 0.049907673
+    }
+  ]
+}

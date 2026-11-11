@@ -1,0 +1,150 @@
+{
+  "round_number": 12,
+  "stop_reason": "BOUNDED_LOW_YIELD",
+  "selected_regions": [
+    "Occitanie",
+    "Auvergne-Rhône-Alpes",
+    "Centre-Val de Loire"
+  ],
+  "universities_discovered": 4,
+  "programmes_discovered": 1,
+  "viable_newcomers": 0,
+  "searches_attempted": 4,
+  "remaining_budget": 8,
+  "summary_report": "D:\\france_admission_agent\\output\\Research-Knowledge-Summary.md",
+  "round_report": "D:\\france_admission_agent\\output\\Discovery-Round-012.md",
+  "latest_report": "D:\\france_admission_agent\\output\\Discovery-Latest.md",
+  "new_universities_count": 0,
+  "known_universities_new_tracks": 1,
+  "frontiers_attempted": 4,
+  "queries_rewritten": 0,
+  "duplicate_queries_blocked": 0,
+  "provider_calls_attempted": 4,
+  "provider_calls_successful": 4,
+  "provider_failures": 0,
+  "cache_hits": 0,
+  "consecutive_actual_low_value": 3,
+  "candidates_deeply_verified": 0,
+  "pipeline": {
+    "migrated_records": 0,
+    "repaired_cycle1_records": 0,
+    "cycle1_processed": 1,
+    "cycle1_passed": 0,
+    "cycle1_rejected": 0,
+    "cycle1_review_required": 1,
+    "cycle1_deferred": 0,
+    "promoted_to_cycle2": 0,
+    "cycle2_processed": 0,
+    "cycle2_verified": 0,
+    "cycle2_rejected": 0,
+    "fields_refreshed": 0,
+    "pool_additions": 0,
+    "pool_replacements": 0,
+    "pool_unchanged_candidates": 0,
+    "errors": 0,
+    "external_searches": 4,
+    "cache_hits": 3,
+    "searches_saved_by_memory": 1,
+    "llm_calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "provider_failures": 0,
+    "page_fetches": 6,
+    "cycle1_searches": 4,
+    "cycle2_searches": 0,
+    "page_diagnostics": [
+      {
+        "url": "https://formations-en.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+        "status": "FETCHED",
+        "characters": 30000
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+        "status": "FETCHED",
+        "characters": 30000
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://formations.umontpellier.fr/plugins/odf-web/um1/_content/program-fruai0342321nprme172-2-2/MASTER%20MANAGEMENT%20ET%20COMMERCE%20INTERNATIONAL.pdf",
+        "status": "UNSUPPORTED_CONTENT_TYPE"
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/files/2022/09/Master-Info-G-2022.pdf",
+        "status": "UNSUPPORTED_CONTENT_TYPE"
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/cmi-informatique-cursus-master-en-ingenierie",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://informatique-fds.edu.umontpellier.fr/etudiants/cmi-informatique-cursus-master-en-ingenierie/"
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/cmi-informatique-cursus-master-en-ingenierie",
+        "status": "FETCHED",
+        "characters": 9237
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/cmi-informatique-cursus-master-en-ingenierie",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours/"
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours",
+        "status": "FETCHED",
+        "characters": 2016
+      },
+      {
+        "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+        "status": "SCOPE_MISMATCH"
+      }
+    ],
+    "current_pool_size": 0,
+    "stage_events": [
+      {
+        "programme_id": "a1a15131766cf69a",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "a1a15131766cf69a",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_REVIEW_REQUIRED",
+        "reason": "Evidence-backed eligibility screening"
+      }
+    ],
+    "pending_counts": {
+      "CYCLE1_REJECTED": 6,
+      "CYCLE1_REVIEW_REQUIRED": 49,
+      "LEGACY_REVIEW": 72,
+      "POOL_DROPPED": 17
+    },
+    "reports": {
+      "cycle1_details": "D:\\france_admission_agent\\output\\Cycle1-Detailed-Latest.md",
+      "cycle1_ranking": "D:\\france_admission_agent\\output\\Cycle1-Ranking.md"
+    },
+    "new_programmes_per_round": 1,
+    "promoted_programmes_per_round": 0,
+    "pool_replacements_per_round": 0,
+    "legacy_records_reviewed_without_cycle1_rerun": 0,
+    "legacy_first_cycle2_processed": 0,
+    "new_delta_promoted_to_cycle2": 0
+  },
+  "consecutive_rounds_without_pool_improvement": 3,
+  "regions_explored": 11,
+  "final_selection_ready": false
+}

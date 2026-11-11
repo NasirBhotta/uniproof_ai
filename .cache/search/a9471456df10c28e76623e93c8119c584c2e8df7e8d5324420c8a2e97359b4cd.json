@@ -1,0 +1,40 @@
+{
+  "query": "site:unimes.fr \"master informatique\" \"Nîmes\" parcours",
+  "results": [
+    {
+      "title": "UNÎMES en chiffres - Nîmes Université",
+      "url": "https://www.unimes.fr/fr/universite/unimes-en-chiffres.html",
+      "snippet": "19 mentions et parcours de licence générale\n 14 mention de licence professionnelle\n 16 mentions de master\n 10 diplômes d'université\n 1 diplôme d'établissement\n Doctorats\n Habilitation à diriger des recherches\n\nAller au répertoire des formations\n\n#### La répartition des étudiant·e·s LMD [...] En 2023-2024, 85% des inscrit·e·s en licence 3, licence professionnelle, ou master 2 ont obtenus un diplôme. Si on regarde celles et ceux dont l'entrée à Nîmes Université a eu lieu l'année de leur baccalauréat, alors le taux de réussite au diplôme est de 89%. L'année dernière  l'Université a délivré plus de 1200 diplômes\n\nTaux de réussite par type de diplôme :\n\n 87% en Licence\n 90% en Licence professionnelle (hors parcours Métiers de l'optique délocalisés)\n 90% en Master [...] ##### Master\n\n95% des diplômé·e·s de master sont en activité que ce soit en emploi indépendants ou salariés. 63% d'emplois à durée indéterminée ou fonctionnaires, 27% sont en CDD, et 6% sont indépendants. 60% de Cadres ou Professions intermédiaires et  4% d'indépendants, 2% sont en contrat de professionnalisation. En moyenne, il faut un peu moins de 3 mois, avant de trouver un premier emploi.\n\n#### Recherche",
+      "raw_content": null,
+      "score": 0.528169
+    },
+    {
+      "title": "LICENCE SCIENCES DE LA VIE - Catalogue des formations",
+      "url": "https://formations.unimes.fr/fr/catalogue/licence-lmd-XA/sciences-technologies-sante-STS/licence-sciences-de-la-vie-hnd01q4f.html",
+      "snippet": "La licence permet d’accéder aux masters dans tous les domaines de la biologie : biologie cellulaire, biochimie, génétique, microbiologie, immunologie, agroalimentaire, sciences du médicament, bioinformatique… ou ceux liés à la santé en France et en particulier à Nîmes Université dans les masters BIOTIN et LIVES (Longévité, Interdisciplinarité, Vieillissement, Enjeux Sociétaux (LIVES) et Management de projet et Innovation en Biotechnologies (BIOTIN)). [...] Lire plus\n\n## Les + de la formation\n\n Établissements : université de Montpellier, CEA-DSV, Ecole des Mines d’Alès\n Laboratoires : Unités et instituts CNRS et INSERM de la région Languedoc-Roussillon et  Équipe d’accueil CHROME de l’université de Nîmes\n\nLire plus\n\n## À télécharger\n\nFlyer Licence Sciences de la Vie\")\n\nProgramme Licence Sciences de la Vie\")\n\nDevenir des diplômés : poursuite d'études\")\n\nDevenir des diplômés : poursuite d'études parcours biologie\") [...] A partir de la L2, de nombreuses licences professionnelles dans les domaines de la Biologie et/ou de la biotechnologie sont accessibles, dont la Licence professionnelle Métiers de la Biotechnologie (Biotechnologie//Bio-chimie analytique) à Nîmes Université.\n\nPour les LAS-SV, la possibilité d’intégrer les filières MMOPK (Médecine, Maïeutique, Odontologie, Pharmacie, Kinésithérapie), si les résultats de l'étudiant le permettent, durant les 3 années de la Licence.\n\nLire plus\n\n Téléchargements",
+      "raw_content": null,
+      "score": 0.46526662
+    },
+    {
+      "title": "Formations de Nîmes Université",
+      "url": "https://www.unimes.fr/fr/formations.html",
+      "snippet": "Nîmes Université propose des formations de la Licence au Doctorat dans 6 domaines d'enseignement suivants : Sciences, Arts, Design, Droit - Economie - Gestion,",
+      "raw_content": null,
+      "score": 0.36718005
+    },
+    {
+      "title": "DEVENIR DES DIPLOMÉꞏEꞏS DE LICENCE ...",
+      "url": "https://www.unimes.fr/_resource/Formations/OVIE/Devenir%2520Licence/Edition%25202020-2021/repertoire-formations-dev-l-math-18-19.pdf",
+      "snippet": "Master Informatique, parcours Informatique théorique. Master (hors MEEF). M1 / Autre bac +4. Université (y compris ESPE et IAE et hors IUT). Université de",
+      "raw_content": null,
+      "score": 0.34647548
+    },
+    {
+      "title": "Master (LMD) - Catalogue des formations",
+      "url": "https://formations.unimes.fr/fr/catalogue/master-lmd-XB.html",
+      "snippet": "MASTER 2 AES parcours Digital Learning Manager · MASTER AES parcours Management et prévention des risques · MASTER DROIT DES AFFAIRES parcours Enseignement",
+      "raw_content": null,
+      "score": 0.14688116
+    }
+  ]
+}

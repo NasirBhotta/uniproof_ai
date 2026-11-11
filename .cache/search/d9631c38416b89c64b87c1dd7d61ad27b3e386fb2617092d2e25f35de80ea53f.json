@@ -1,0 +1,26 @@
+{
+  "query": "site:umontpellier.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "MASTER INFORMATIQUE - Catalogue des formations - UM",
+      "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+      "snippet": "Catalogue des formations - UMCatalogue des formations - UM\n\n Les formations\n  + Formations courtes\n  + Formation continue\n Formations en alternance (apprentissage)\n\n Accueil\n Formations\n Master\n MASTER INFORMATIQUE\n\nSciences, Ingénierie\n\n# MASTER INFORMATIQUE\n\n5 parcours disponibles\n\n Algorithmique\n Génie logiciel\n Imagine\n Intelligence artificielle et science des données\n Intégration de compétences\n\n ## Niveau d'étude visé\n\n  BAC +5\n ## ECTS\n\n  120 crédits\n ## Durée [...] Faculté des Sciences\n\nVoir la page complète\n\n## Stage industriel\n\n Ajouter à la sélection\n Télécharger\n\n ## ECTS\n\n  30 crédits\n ## Structure de formation\n\n  Faculté des Sciences\n\nVoir la page complète\n\n## Stage académique\n\n Ajouter à la sélection\n Télécharger\n\n ## ECTS\n\n  30 crédits\n ## Structure de formation\n\n  Faculté des Sciences\n\nVoir la page complète\n\n## Anglais S1\n\n Ajouter à la sélection\n Télécharger\n\n ## ECTS\n\n  2 crédits\n ## Structure de formation\n\n  Faculté des Sciences [...] Ajouter à la sélection\n Télécharger\n\n ## ECTS\n\n  4 crédits\n ## Structure de formation\n\n  Faculté des Sciences\n\nVoir la page complète\n\n## Algorithmique avancée\n\n Ajouter à la sélection\n Télécharger\n\n ## ECTS\n\n  4 crédits\n ## Structure de formation\n\n  Faculté des Sciences\n\nVoir la page complète\n\n## T.E.R\n\n Ajouter à la sélection\n Télécharger\n\n ## ECTS\n\n  4 crédits\n ## Structure de formation\n\n  Faculté des Sciences\n\nVoir la page complète\n\n## Anglais S2\n\n Ajouter à la sélection\n Télécharger",
+      "raw_content": null,
+      "score": 0.3860231
+    },
+    {
+      "title": "Cursus Master en Ingéniérie (CMI Informatique) – Département informatique de la Faculté des sciences",
+      "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/cmi-informatique-cursus-master-en-ingenierie",
+      "snippet": "Langue avec des stages intensifs en Anglais et le passage du TOEIC\n Modules d’ouverture sociétale, économique et culturelle (OSEC) (programme mutualisé entre les CMIs de l’UM)\n Projets, avec dès la L1 un projet d’ingénierie Informatique et plus de 450 h de projets Informatique au total\n Stages obligatoires dès la première année de CMI Informatique, avec 52 semaines de stages cumulées sur les 5 ans du CMI",
+      "raw_content": null,
+      "score": 0.35033303
+    },
+    {
+      "title": "Master Informatique – 5 Parcours – Département informatique de la Faculté des sciences",
+      "url": "https://informatique-fds.edu.umontpellier.fr/etudiants/master-informatique-parcours",
+      "snippet": "Parcours IA-SD (Intelligence Artificielle et Sciences des Données)  \nCe parcours Intelligence Artificielle et Science des Données forme des spécialistes,  dotés d’un haut niveau en programmation, de la conception et du développement de systèmes d’information intelligents, ainsi que de l’analyse automatique des données. [...] Parcours ICo (Intégration de Compétences)  \nCe parcours propose une formation en informatique généraliste en 2 ans pour acquérir une double compétence en informatique-formation initiale et/ou amorcer une reconversion en informatique. Il se démarque des autres parcours du master informatique, en s’adressant à des étudiants ayant une formation initiale autre qu’informatique, afin de leur proposer d’acquérir les concepts essentiels à une maîtrise des enjeux actuels du numérique. [...] Parcours GL (Génie Logiciel)  \nCe parcours se situe dans le domaine du génie logiciel et propose en particulier une formation qui s’intéresse à l’automatisation des étapes du cycle de vie du logiciel tout en assurant la qualité du produit logiciel, de la conception à la maintenance en passant par la compilation et l’optimisation du code et le test",
+      "raw_content": null,
+      "score": 0.20639811
+    }
+  ]
+}

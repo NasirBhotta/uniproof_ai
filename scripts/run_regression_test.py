@@ -223,7 +223,8 @@ def rerun_regression():
     group_b = sorted([e for e in new_evaluations if e.group == "B_CALENDAR_PENDING"], key=lambda e: e.score.profile_fit_score, reverse=True)
     group_c = sorted([e for e in new_evaluations if e.group == "C_LANGUAGE_VERIFICATION_REQUIRED"], key=lambda e: e.score.profile_fit_score, reverse=True)
 
-    final_shortlist = (group_a + group_b + group_c)[:7]
+    # Cycle 1 Shortlist: All viable programmes that survived evidence rules (do NOT force exactly 7)
+    final_shortlist = group_a + group_b + group_c
 
     print("\n" + "=" * 60)
     print(" REGRESSION TEST EXECUTION SUMMARY")

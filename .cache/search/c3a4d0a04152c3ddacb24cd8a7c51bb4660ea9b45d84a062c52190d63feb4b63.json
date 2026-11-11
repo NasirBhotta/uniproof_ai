@@ -1,0 +1,19 @@
+{
+  "query": "site:monmaster.gouv.fr \"informatique\" \"Avignon\"",
+  "results": [
+    {
+      "title": "La candidature — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/candidater",
+      "snippet": "Dès le 17 février, vous pourrez déposer vos candidatures. La phase de candidature est ouverte du 17 février 2026 au 17 mars 2026. Consultez le guide du candidat",
+      "raw_content": null,
+      "score": 0.035843626
+    },
+    {
+      "title": "Mon master - S'informer, candidater, se décider",
+      "url": "https://monmaster.gouv.fr/",
+      "snippet": "Mon Master est la plateforme nationale permettant de candidater en première année des formations conduisant au diplôme national de master.",
+      "raw_content": null,
+      "score": 0.029093578
+    }
+  ]
+}

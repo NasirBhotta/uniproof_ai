@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-lemans.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Candidature L2 Master étudiant international",
+      "url": "http://www.univ-lemans.fr/fr/formation/candidater-s-inscrire/candidater/candidature-l2-master-etudiant-international.html",
+      "snippet": "La candidature des étudiants internationaux (hors EEE) résidant dans un pays adhérent au dispositif Études en France, se fait entièrement en ligne sur le site",
+      "raw_content": null,
+      "score": 0.59457535
+    },
+    {
+      "title": "MASTER Didactique Des Langues",
+      "url": "http://www.univ-lemans.fr/fr/formation/catalogue-des-formations/master-lmd-MLMD/arts-lettres-langues-0003/master-didactique-des-langues-IXREOKDS.html",
+      "snippet": "Vous êtes français ou ressortissant de l'Union Européenne : déposez votre candidature sur l'application de l'Université \"E-candidat\"\n   Vous résidez dans un pays couvert par la procédure Études en France : déposez votre candidature sur Etudes en France\n\nSi vous êtes en reprise d’études, nous vous invitons à consulter au préalable la page dédiée\n\nSi vous êtes étudiant étranger, nous vous invitons à consulter au préalable la page dédiée\n\n## Pré-requis obligatoires [...] Vous êtes français ou ressortissant de l'Union Européenne : déposez votre candidature sur Mon Master\n   Vous résidez dans un pays couvert par la procédure Etudes en France : déposez votre candidature sur Etudes en France\n   Vous êtes non ressortissant de l'Union Européenne et ne dépendez pas d'un pays couvert par la procédure Études en France : déposez votre candidature sur Mon Master\n\nCandidature en M2 en formation initiale : [...] _A l’international:_ sur le marché international du FLE/S, les institutions relevant du Ministère des Affaires Etrangères (MEAE), les politiques éducatives de mobilités internationales (par exemple: Campus France), et l’ensemble des institutions éducatives ou associatives internationales, nationales ou régionales, ou relevant du marché privé des langues (Lycées, Universités, Centres culturels et Instituts de FLE, Alliances Françaises, Instituts Français, Ecoles de Langues…).",
+      "raw_content": null,
+      "score": 0.5758033
+    },
+    {
+      "title": "Venir étudier à titre individuel",
+      "url": "http://www.univ-lemans.fr/fr/international/venir-etudier-en-france/venir-a-titre-individuel.html",
+      "snippet": "Il est possible de venir étudier à Le Mans Université à titre individuel (Campus France, ecandidat, Monmaster, etc) sans faire partie d'un programme d'échange",
+      "raw_content": null,
+      "score": 0.4338141
+    }
+  ]
+}

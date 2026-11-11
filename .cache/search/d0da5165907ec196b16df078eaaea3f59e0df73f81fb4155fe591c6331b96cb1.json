@@ -1,0 +1,40 @@
+{
+  "query": "site:univ-lehavre.fr \"master informatique\" \"Le Havre\" parcours",
+  "results": [
+    {
+      "title": "La Faculté des Affaires Internationales - Université Le Havre ...",
+      "url": "https://fai.univ-lehavre.fr/",
+      "snippet": "Avec 5 départements, 17 mentions, 28 parcours et plus de 10 langues enseignées, la FAI propose une offre de formation riche, adaptée aux enjeux contemporains.Read more",
+      "raw_content": null,
+      "score": 0.21668245
+    },
+    {
+      "title": "Actualités - ISEL Le Havre",
+      "url": "https://isel.univ-lehavre.fr/actualites",
+      "snippet": "Préparez-vous au Concours Geipi Polytech avec l'ISEL ! L'ISEL vous propose une préparation gratuite les 13 et 14 avril 2026. Une opportunité idéale pour vous ...Read more",
+      "raw_content": null,
+      "score": 0.2038188
+    },
+    {
+      "title": "Bibliothèque Universitaire Le Havre Normandie",
+      "url": "https://bu.univ-lehavre.fr/",
+      "snippet": "La bibliothèque universitaire propose plus de 200 ordinateurs portables à emprunter au semestre. BU Centrale 25 rue Philippe Lebon. Le Havre Cedex France 02 32",
+      "raw_content": null,
+      "score": 0.121113114
+    },
+    {
+      "title": "Institut Supérieur d'Études Logistiques - Université Le Havre ...",
+      "url": "https://isel.univ-lehavre.fr/",
+      "snippet": "L'Institut Supérieur d'Études Logistiques vous présente ses diverses formations. Devenez un ingénieur avec l'ISEL !",
+      "raw_content": null,
+      "score": 0.10421286
+    },
+    {
+      "title": "OSE - Le Havre",
+      "url": "https://ose.univ-lehavre.fr/",
+      "snippet": "Organisation des Services d'Enseignement. Bienvenue dans l'application de saisie des enseignements de l'université Le Havre Normandie. Année 2026/2027.Read more",
+      "raw_content": null,
+      "score": 0.09077596
+    }
+  ]
+}

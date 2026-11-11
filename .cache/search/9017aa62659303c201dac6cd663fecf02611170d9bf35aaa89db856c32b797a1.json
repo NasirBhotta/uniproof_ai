@@ -1,0 +1,26 @@
+{
+  "query": "site:uphf.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Informatique - Université Polytechnique - Hauts-de-France",
+      "url": "https://formations.uphf.fr/fr/formations/master-master/master-informatique-KZZQ4B8O.html",
+      "snippet": "List of subjects to be presented to the students : Subjects related to the smart and sustainable mobility in company departments or research laboratories\n\nVoir la page complète\n\n## Admission\n\n## Conditions d'admission\n\nPour les admissions en M1 : les candidatures s’effectuent via la plateforme nationale MonMaster :   \nPour les admissions en M2 : les candidatures s’effectuent via la plateforme e-Candidat de l’UPHF \n\nAdmission en Master 1 : Licence dans le même domaine (180 crédits) [...] Possibilité de suivre un cursus d'études d'un ou deux semestres dans une université partenaire ou d'effectuer un stage dans un laboratoire universitaire ou en entreprise à l'étranger.\n\nLa validation des résultats est obtenue grce au système ECTS. La maîtrise de l'anglais et/ou de la langue du pays d'accueil est recommandée (niveau B1 minimum). [...] ## Présentation\n\nLe MASTER Informatique a pour vocation à former des étudiants dans les domaines des nouvelles technologies, en abordant le développement des services distribués, les réseaux de communication et la sécurité des machines et des services interconnectés.\n\nCe MASTER comporte de 2 parcours :\n\n- IA et Data Computing\n\n- Information Technology for Smart and Sustainable Mobility (EUNICE Alliance)\n\nLire plus\n\n ## 92,7\n\n  Taux de réussite\n\n## Dimension internationale",
+      "raw_content": null,
+      "score": 0.6139086
+    },
+    {
+      "title": "Master Réseaux et Télécommunications - Université Polytechnique - Hauts-de-France",
+      "url": "https://formations.uphf.fr/fr/formations/master-master/master-reseaux-et-telecommunications-KZZQE6PF.html",
+      "snippet": "Voir la page complète\n\n## Admission\n\n## Conditions d'admission\n\nMaster 1 : ouvert aux diplômés d’une licence informatique, mathématiques, GEII, systèmes d’information et réseaux.  \nMaster 2  : Les étudiants ayant validé leur master 1 informatique, mathématiques appliquées, réseaux et télécoms, système d’information et réseaux.\n\nChaque candidat doit suivre, selon son parcours et ses vœux, une procédure de candidature décrite à l'adresse suivante [...] • Maîtriser les concepts, les outils d’attaques, les techniques de contre-mesures  \n• Maîtriser les audits de l’informatique industrielle et de gestion  \n• Connaître les normes européennes de sécurité  \n• Connaître les architectures et les déploiements des réseaux de capteurs  \n• Maîtriser les outils de la sécurité des contenus multimédia et du Cloud  \n• Maîtriser les communications mobiles afin de pouvoir assurer leur sécurité  \n• Compétences transversales [...] 4 crédits\n ## Cyber-sécurité\n\n  4 crédits\n ## Privacité et sécurité des données dans le cloud\n\n  4 crédits\n ## Systèmes de transport intelligents et radio intelligente\n\n  4 crédits\n ## Sécurité informatique des procédés industriels\n\n  4 crédits\n ## Anglais\n\n  4 crédits\n ## Module Polytechnique\n\n  4 crédits\n ## Module d'ouverture\n\n  2 crédits\n\n ## Stage\n\n  24 crédits\n ## Projet\n\n  6 crédits\n\n ## Remise à niveau\n\n  4 crédits\n ## Ethical Hacking\n\n  4 crédits\n ## Sécurité des bases de données",
+      "raw_content": null,
+      "score": 0.30191797
+    },
+    {
+      "title": "Licence Informatique - Université Polytechnique - Hauts-de-France",
+      "url": "https://formations.uphf.fr/fr/formations/licence-licence/licence-informatique-L06U2R2L.html",
+      "snippet": "Travailler en autonomie (M) : le diplômé doit savoir établir des priorités, gérer son temps, s’autoévaluer, développer un esprit critique.\n Utiliser les technologies de l’information et de la communication (M).\n Effectuer une recherche d’information (U), selon différents modes d’accès (Internet, bibliographie), et doit pouvoir faire une analyse de pertinence et une synthèse. [...] Respecter l’éthique scientifique et connaître les bases réglementaires de son domaine de formation scientifique (U)\n Faire preuve de capacité d’abstraction (M)\n Analyser une situation complexe et savoir repérer les éléments dominants (U)\n Utiliser des logiciels d’acquisition et d’analyse de données adaptés (M)\n Utiliser des outils mathématiques et statistiques (U)\n Utiliser un langage de programmation (M)\n Adopter une approche pluridisciplinaire (I) [...] Compétences scientifiques (I = Initiation, U = Utilisation, M = Maîtrise) Le diplômé a acquis un ensemble de compétences scientifiques à l’informatique, qui lui permette en particulier de :\n\n Maîtriser l’algorithmique et la programmation (impérative, fonctionnelle, par objets) (M)\n Connaître les principes de construction d’un ordinateur (portes logiques, circuits combinatoires, arithmétique binaire, circuits séquentiels et mémoires) (M)\n Gérer des systèmes informatiques et des réseaux (U)",
+      "raw_content": null,
+      "score": 0.29340497
+    }
+  ]
+}

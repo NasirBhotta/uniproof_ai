@@ -1,0 +1,20 @@
+{
+  "backup": "output\\incremental-diagnostics\\before-cycle1-ranking-20261004-114517.db",
+  "repaired": 25,
+  "programmes": 116,
+  "ids_preserved": true,
+  "saved_cycle1": 44,
+  "eligible_cycle1": 3,
+  "states": {
+    "CYCLE1_PENDING": 10,
+    "CYCLE1_REJECTED": 5,
+    "CYCLE1_REVIEW_REQUIRED": 15,
+    "LEGACY_REVIEW": 72,
+    "POOL_DROPPED": 14
+  },
+  "reports": {
+    "cycle1_details": "output\\Cycle1-Detailed-Latest.md",
+    "cycle1_ranking": "output\\Cycle1-Ranking.md"
+  },
+  "live_searches": 0
+}

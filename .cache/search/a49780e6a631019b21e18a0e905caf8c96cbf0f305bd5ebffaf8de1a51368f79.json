@@ -1,0 +1,26 @@
+{
+  "query": "site:umontpellier.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "MASTER INFORMATIQUE - Catalogue des formations - UM",
+      "url": "https://formations.umontpellier.fr/fr/formations/master-XB/master-informatique-ME154.html",
+      "snippet": "Titulaire d'une licence informatique (ou équivalent sur dossier) pour les parcours Algorithmique, Génie logiciel, Imagine et Intelligence artificielle et science des données.\n Titulaire d'une licence non informatique (ou équivalent sur dossier) pour le parcours Reconversion en intégration de compétences.\n\nLire plus\n\n## Modalités d'inscription\n\n Les candidatures se font sur les plateformes suivantes :\n\n  Étudiants français & Européens : [...] + Pour le M1, suivre la procédure  « Mon Master » depuis le site :  \n  + Pour les M2, l'étudiant.e devra déposer son dossier de candidature via l'application e-candidat : \n\n  Étudiants internationaux hors UE : suivre la procédure « Études en France » : \n\nLire plus\n\n## Capacité d'accueil\n\nLire plus\n\n## Et après\n\n## Poursuite d'études\n\nDoctorat (sur concours).\n\nLire plus\n\n## Insertion professionnelle [...] On rappelle ici qu'un contrat de professionnalisation ou d'apprentissage est un contrat triparti étudiant/entreprise/université : l'accord du responsable de mention est nécessaire ; son avis se base sur les résultats académiques du M1 et sur l'avis des responsables de parcours. Ainsi d'excellents résultats en M1 sont attendus afin d'avoir un avis favorable à l'alternance.\n\nLire plus\n\n## Stages, projets tutorés",
+      "raw_content": null,
+      "score": 0.4352539
+    },
+    {
+      "title": "[PDF] master management et commerce international",
+      "url": "https://formations.umontpellier.fr/plugins/odf-web/um1/_content/program-fruai0342321nprme172-2-2/MASTER%20MANAGEMENT%20ET%20COMMERCE%20INTERNATIONAL.pdf",
+      "snippet": "Admission Public cible Accès en M1 : Étudiants détenteurs d'une licence de gestion, économie, informatique, biologie, physique ou équivalent.",
+      "raw_content": null,
+      "score": 0.40330887
+    },
+    {
+      "title": "Informatique - Département informatique de la Faculté des sciences",
+      "url": "https://informatique-fds.edu.umontpellier.fr/files/2022/09/Master-Info-G-2022.pdf",
+      "snippet": "Informatique Le master informatique est structuré en cinq parcours clairement identifiés à finalité indifférenciée, recherche et professionnelle. Ces cinq parcours visent à former des cadres en informatique avec des compétences notamment en architecture, conception des logiciels et des systèmes d’information, gestion et exploitation des données, intelligence artificielle, big data, modélisation et optimisation combinatoire, technologies du web et des réseaux, traitement d’images, moteurs 3D, et [...] Objectif scientifique : former des scientifiques pluridisciplinaires ayant des compétences approfondies en analyse de données, conception de méthodes, d’outils, de bases de données, programmation , diffusion des résultats des analyses.\nConditions d’accès : Être titulaire d’une Licence d’informatique, de mathématiques, de biologie ou de bioinformatique, ou d’un diplôme équivalent. Le master peut aussi se faire en formation continue et par apprentissage. [...] Le Master première année (M1) Géomatique vise à fournir aux étudiants le socle de compétences et de connaissances fondamentales dans les domaines de l’acquisition, du traitement, et de la diffusion de l’information géographique (SIG, Cartographie, Télédétection, Analyse spatiale, Statistiques...). Des enseignements de remise à niveau en informatique (Programmation, Bases de données), en gestion de projet, ainsi qu’en aménagement et développement des territoires sont également dispensés aux",
+      "raw_content": null,
+      "score": 0.3669078
+    }
+  ]
+}

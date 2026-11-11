@@ -1,0 +1,12 @@
+{
+  "query": "site:univ-littoral.fr \"Master Informatique Web et Science de donn?es (WeDSci)\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique - Web et Science de données - Université du Littoral Côte d'Opale",
+      "url": "https://www.univ-littoral.fr/formation/offre-de-formation/masters/master-informatique-ingenierie-des-systemes-informatiques-distribues",
+      "snippet": "## Le Master WeDSci forme des informaticien(ne)s de haut niveau en intégration de solutions Web et à base de technologies issues du monde de l’Intelligence Artificielle (IA), en particulier les outils du Big Data. L’étudiant(e) issu(e) de la formation sera en capacité de mener à bien des projets de développement principalement Web et mobile au sein d’architectures complexes. L’étudiant(e) sera alors sensibilisé(e) à l’ensemble du processus de développement : design, codage, versionning, [...] | 1ère ANNÉE – SEMESTRE 1   Méthodologies et agilité  Programmation fonctionnelle avancée  Programmation orientée objet avancée  Algorithmique avancée  Apprentissage automatique  Initiation à la recherche  Projet initiation à la recherche  Anglais  SEMESTRE 2   Web services  Framework web front  Résolution de problèmes d’optimisation  Calcul haute performance  Bases de données avancées  Projet initiation à la recherche  Anglais  PPP | 2ème ANNÉE – SEMESTRE 3   Développement d’applications [...] d’applications multi-tiers  Sécurité réseau et applicatif  Devops  Apprentissage automatique avancée  Aide à la décision  Création d’entreprise et innovation  Anglais  SEMESTRE 4   Applications mobiles  Compilation  Création d’entreprise et innovation  Exploration de données et big data  Stage (5 mois) |",
+      "raw_content": null,
+      "score": 0.6194488
+    }
+  ]
+}

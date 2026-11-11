@@ -104,6 +104,75 @@ class EvidenceScopeMismatchError(ValueError):
     pass
 
 
+KNOWN_UNIVERSITY_DOMAINS: dict[str, str] = {
+    "montpellier": "umontpellier.fr",
+    "franche-comte": "univ-fcomte.fr",
+    "bretagne-sud": "univ-ubs.fr",
+    "bretagne-occidentale": "univ-brest.fr",
+    "le-havre-normandie": "univ-lehavre.fr",
+    "rouen-normandie": "univ-rouen.fr",
+    "caen-normandie": "unicaen.fr",
+    "rennes": "univ-rennes.fr",
+    "tours": "univ-tours.fr",
+    "orleans": "univ-orleans.fr",
+    "bourgogne": "ube.fr",
+    "grenoble-alpes": "univ-grenoble-alpes.fr",
+    "clermont-auvergne-inp": "isima.fr",
+    "cote-d-azur": "univ-cotedazur.fr",
+}
+
+EXCLUDED_GENERIC_DOMAINS = {
+    "monmaster.gouv.fr",
+    "campusfrance.org",
+    "enseignementsup-recherche.gouv.fr",
+    "service-public.fr",
+    "etudiant.gouv.fr",
+    "optionmetier.fr",
+    "wakatepe.fr",
+    "thotismedia.com",
+    "globaladmissions.com",
+}
+
+
+def get_domain_owner(domain_or_url: str) -> str | None:
+    """Returns the normalized university key that owns the given domain, or None if neutral/unknown."""
+    try:
+        if "://" in domain_or_url:
+            parsed = urlparse(domain_or_url).netloc
+        else:
+            parsed = domain_or_url
+        clean_d = parsed.lower().removeprefix("www.").split(":")[0].strip()
+    except Exception:
+        clean_d = str(domain_or_url).lower()
+
+    if clean_d in EXCLUDED_GENERIC_DOMAINS or any(clean_d.endswith("." + excl) for excl in EXCLUDED_GENERIC_DOMAINS):
+        return None
+
+    # Check known domain mappings
+    for univ_key, known_dom in KNOWN_UNIVERSITY_DOMAINS.items():
+        if clean_d == known_dom or clean_d.endswith("." + known_dom):
+            return univ_key
+    if "rennes" in clean_d:
+        return "rennes"
+    if "u-bourgogne" in clean_d or "ube.fr" in clean_d:
+        return "bourgogne"
+    if "uca.fr" in clean_d or "isima.fr" in clean_d or "clermont" in clean_d:
+        return "clermont-auvergne-inp"
+    return None
+
+
+def is_domain_compatible(domain_or_url: str, university: str) -> bool:
+    """Returns True if the URL/domain is permitted for the given university.
+    Neutral sources (Campus France, Mon Master, gouv.fr) are always permitted.
+    Another university's domain is STRICTLY FORBIDDEN.
+    """
+    owner = get_domain_owner(domain_or_url)
+    if owner is None:
+        return True  # Neutral platform or unrecognized generic source
+    target_key = normalize_university_key(university)
+    return owner in target_key or target_key in owner
+
+
 class InstitutionEvidenceCache:
     """Stores reusable university-level facts with strict university domain isolation."""
 
@@ -111,39 +180,38 @@ class InstitutionEvidenceCache:
         self._institutions: dict[str, InstitutionEvidence] = {}
         self._domain_to_inst: dict[str, str] = {}
         self.scope_mismatches_prevented: int = 0
+        # Pre-seed known mappings
+        for k, dom in KNOWN_UNIVERSITY_DOMAINS.items():
+            self._domain_to_inst[dom] = k
 
     def get(self, institution_name: str, domain: str | None = None) -> InstitutionEvidence | None:
         key = normalize_university_key(institution_name)
         if key in self._institutions:
             return self._institutions[key]
-        if domain and domain in self._domain_to_inst:
-            inst_key = self._domain_to_inst[domain]
-            # Safety: Ensure the key actually matches the requested institution
-            if inst_key == key:
-                return self._institutions.get(inst_key)
+        if domain:
+            owner = get_domain_owner(domain)
+            if owner and (owner in key or key in owner):
+                return self._institutions.get(owner)
         return None
 
     def register_official_domain(self, institution_name: str, domain: str):
         key = normalize_university_key(institution_name)
-        # Prevent generic or third party portals from being claimed by a single university
-        excluded_domains = {
-            "monmaster.gouv.fr",
-            "campusfrance.org",
-            "enseignementsup-recherche.gouv.fr",
-            "service-public.fr",
-            "etudiant.gouv.fr",
-            "optionmetier.fr",
-            "wakatepe.fr",
-        }
-        clean_d = domain.lower().removeprefix("www.").strip()
-        if clean_d in excluded_domains or any(clean_d.endswith("." + excl) for excl in excluded_domains):
+        clean_d = domain.lower().removeprefix("www.").split(":")[0].strip()
+        if clean_d in EXCLUDED_GENERIC_DOMAINS or any(clean_d.endswith("." + excl) for excl in EXCLUDED_GENERIC_DOMAINS):
             return
 
-        # Ensure domain token has a connection to the university name
-        univ_tokens = key.split("-")
-        domain_tokens = clean_d.split(".")[0].split("-")
-        # Accept if at least one meaningful token matches or contains univ-
-        if any(tok in clean_d for tok in univ_tokens if len(tok) > 3) or "univ" in clean_d or "inp" in clean_d:
+        # Scope check: never allow an institution to claim another university's domain
+        owner = get_domain_owner(clean_d)
+        if owner and owner != key and owner not in key and key not in owner:
+            self.scope_mismatches_prevented += 1
+            logger.warning(
+                f"EVIDENCE_SCOPE_MISMATCH: Prevented '{institution_name}' from claiming domain '{clean_d}' owned by '{owner}'"
+            )
+            return
+
+        # Ensure domain token has a distinct connection to the university name
+        univ_tokens = [tok for tok in key.split("-") if len(tok) > 3 and tok not in ("universite", "univ", "ecole")]
+        if any(tok in clean_d for tok in univ_tokens) or clean_d in KNOWN_UNIVERSITY_DOMAINS.values():
             self._domain_to_inst[clean_d] = key
             inst = self.get_or_create(institution_name)
             inst.official_domains.add(clean_d)
@@ -186,6 +254,13 @@ class InstitutionEvidenceCache:
                     f"EVIDENCE_SCOPE_MISMATCH: Prevented merging institution policy from '{source_university}' into '{institution_name}'"
                 )
                 return
+
+        if page_url and not is_domain_compatible(page_url, institution_name):
+            self.scope_mismatches_prevented += 1
+            logger.warning(
+                f"EVIDENCE_SCOPE_MISMATCH: Page URL domain mismatch blocked. URL: '{page_url}' -> Institution: '{institution_name}'"
+            )
+            return
 
         inst = self.get_or_create(institution_name, domain)
         if eef_policy:
@@ -261,6 +336,13 @@ class ProgrammeEvidenceCache:
             self.scope_mismatches_prevented += 1
             logger.warning(
                 f"EVIDENCE_SCOPE_MISMATCH: Cross-university contamination blocked. Source: '{source_university}' -> Target: '{target_university}'"
+            )
+            return False
+
+        if page_url and not is_domain_compatible(page_url, target_university):
+            self.scope_mismatches_prevented += 1
+            logger.warning(
+                f"EVIDENCE_SCOPE_MISMATCH: Page URL domain mismatch blocked. URL: '{page_url}' -> Target: '{target_university}'"
             )
             return False
 

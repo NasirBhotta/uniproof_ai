@@ -1,0 +1,26 @@
+{
+  "query": "site:u-bordeaux.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Master 2 SGS",
+      "url": "https://www.isped.u-bordeaux.fr/FORMATION/Formations-propos%C3%A9es/Les-Masters/Master-2-Sant%C3%A9-Globale-dans-les-Suds-Sant%C3%A9-mondiale",
+      "snippet": "Les candidats internationaux dont le pays de résidence ne relève pas de la procédure obligatoire \"Études en France\" devront suivre la procédure eCandidat.\n\nSi vous souhaitez continuer à vous former et renforcer les pré-requis avant une éventuelle candidature au Master 2 Santé Globale dans les Suds, nous vous recommandons les Diplômes d'Université en EAD (enseignement à distance) proposés par l'Isped en Epidémiologie et en Statistiques. [...] Afin d'avoir les pré-requis nécessaires, vous pouvez suivre nos formations à distance notamment :  \n- le DU Méthodes et pratique en épidémiologie  \net/ou  \n- le DU Méthodes Statistiques en santé\n\nLes candidats résidant dans un pays hors Europe, dont le pays de résidence relève de la procédure obligatoire Études en France doivent obligatoirement passer par la procédure \"Études en France\".\n\nPour les candidatures concernant 2026-2027:",
+      "raw_content": null,
+      "score": 0.7625837
+    },
+    {
+      "title": "Étudiants internationaux :: Collège Santé",
+      "url": "https://sante.u-bordeaux.fr/scolarite-demarches-administratives/candidater/etudiants-internationaux",
+      "snippet": "Tout dossier non déposé auprès de l'Espace Campus France où le diplôme a été validé ou est en cours de préparation,sera rejeté par l'université de Bordeaux.\n\n### Candidature\n\nLa candidature s'effectue uniquement via Ecandidat.\n\nL'attestation sur l'honneur peut être téléchargée directement dans Ecandidat. Vous les trouverez également ci-dessous :\n\nAttestation sur l'honneur\n\n### Capacités d'accueil\n\n Capacités d'accueil pour l'année 2026-2027 (maj le 07/01/2026) [...] auprès de l’Espace Campus France de l'Ambassade de France du pays où le diplôme a été validé ou est en préparation.\n  + Les candidats doivent transmettre leur dossier par Email directement à l’Espace Campus France (Attention ne pas déposer ce dossier sur la plateforme Études en France),\n  + L'objet du mail doit être \"Dispense d'études en santé\",\n  + Le dossier est composé des pièces figurant à l’article 3 de l’arrêté du 13 décembre 2019, [...] auprès de l’Université de Bordeaux via la plateforme Ecandidat. Les pièces justificatives à transmettre sont indiquées dans le guide des procédures ci-dessous. Certaines pièces seront à télécharger directement sur la plateforme Ecandidat (voir plus bas).\n\nET OBLIGATOIREMENT POUR TOUS LES CANDIDATS (peu importe le lieu de résidence ou la nationalité)",
+      "raw_content": null,
+      "score": 0.6557114
+    },
+    {
+      "title": "ETUDIANTS INTERNATIONAUX",
+      "url": "https://sante.u-bordeaux.fr/application/files/1917/6899/0945/Guide_procedure_2026-2027_-_etudiants_internationaux_acces_direct_MMOPpdf-1.pdf",
+      "snippet": "ou la structures de formation en maïeutique. 15 Accès direct aux épreuves MMOP(1) - diplômés et en cours de cursus santé hors UE ATTENTION: Les candidats doivent déposer leur dossier de candidature dématérialisé à la fois: auprès de l’Université de Bordeaux via la plateforme ECANDIDAT (voir procédure ci-dessous). La composition du dossier est précisée à la page 21 de ce document. ET auprès de l’Espace Campus France du pays où le diplôme a été validé/ est en préparation. Le dossier est transmis [...] Nationalité Pays de résidence Procédures Calendrier Lien vers la procédure Diplôme de santé validé ou en préparation à l’étranger(2) Etudiant étranger(3) Tout pays de résidence Dépôt du dossier dématérialisé dans ECANDIDAT(5) Inscription et dépôt du dossier de candidature(6) du 1er janvier au 01 mars 2026 ECANDIDAT(5)  iew ET ET ET Etudiant français ou européen(4) Dépôt du dossier dématérialisé à L’ESPACE CAMPUS FRANCE où le diplôme a été validé/ est préparé Envoi du dossier par E-mail AVANT le [...] nationalité, votre situation et la durée de votre séjour, vous devez peut-être obtenir un visa pour suivre vos études ou faire des recherches en France ou pour y revenir après l’obtention de votre diplôme. Renseignez vous sur le site de Campus France :  Etats membres de l’Union Européenne (UE) : l’Allemagne, l’Autriche, la Belgique, la Bulgarie, Chypre, la Croatie, Danemark, l’Espagne, l’Estonie, la Finlande, la France, la Grèce, la Hongrie, l’Irlande, l’Italie, la Lettonie, la Lituanie, le",
+      "raw_content": null,
+      "score": 0.65412235
+    }
+  ]
+}

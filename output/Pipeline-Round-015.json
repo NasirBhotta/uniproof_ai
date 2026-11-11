@@ -1,0 +1,407 @@
+{
+  "round_number": 15,
+  "stop_reason": "BOUNDED_LOW_YIELD",
+  "selected_regions": [
+    "Grand Est",
+    "Provence-Alpes-Côte d'Azur",
+    "Nouvelle-Aquitaine"
+  ],
+  "universities_discovered": 11,
+  "programmes_discovered": 16,
+  "viable_newcomers": 0,
+  "searches_attempted": 12,
+  "remaining_budget": 0,
+  "summary_report": "D:\\france_admission_agent\\output\\Research-Knowledge-Summary.md",
+  "round_report": "D:\\france_admission_agent\\output\\Discovery-Round-015.md",
+  "latest_report": "D:\\france_admission_agent\\output\\Discovery-Latest.md",
+  "new_universities_count": 0,
+  "known_universities_new_tracks": 6,
+  "frontiers_attempted": 12,
+  "queries_rewritten": 5,
+  "duplicate_queries_blocked": 5,
+  "provider_calls_attempted": 12,
+  "provider_calls_successful": 12,
+  "provider_failures": 0,
+  "cache_hits": 0,
+  "consecutive_actual_low_value": 3,
+  "candidates_deeply_verified": 0,
+  "pipeline": {
+    "migrated_records": 0,
+    "repaired_cycle1_records": 0,
+    "cycle1_processed": 1,
+    "cycle1_passed": 0,
+    "cycle1_rejected": 0,
+    "cycle1_review_required": 1,
+    "cycle1_deferred": 19,
+    "promoted_to_cycle2": 0,
+    "cycle2_processed": 0,
+    "cycle2_verified": 0,
+    "cycle2_rejected": 0,
+    "fields_refreshed": 0,
+    "pool_additions": 0,
+    "pool_replacements": 0,
+    "pool_unchanged_candidates": 0,
+    "errors": 0,
+    "external_searches": 6,
+    "cache_hits": 9,
+    "searches_saved_by_memory": 1,
+    "llm_calls": 0,
+    "input_tokens": 0,
+    "output_tokens": 0,
+    "provider_failures": 0,
+    "page_fetches": 6,
+    "cycle1_searches": 6,
+    "cycle2_searches": 0,
+    "page_diagnostics": [
+      {
+        "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science",
+        "status": "FETCHED",
+        "characters": 7699
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/informatique",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://www.universite-paris-saclay.fr/formation/master/informatique"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/informatique",
+        "status": "FETCHED",
+        "characters": 8482
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/informatique",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/bio-informatique",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://www.universite-paris-saclay.fr/formation/master/bio-informatique"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/bio-informatique",
+        "status": "FETCHED",
+        "characters": 5936
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/bio-informatique",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux",
+        "status": "FETCHED",
+        "characters": 16507
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "https://www.universite-paris-saclay.fr/sites/default/files/2022-03/master_irs_formation_initiale.pdf",
+        "status": "UNSUPPORTED_CONTENT_TYPE"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-parisian-research-master-computer-science-mpri",
+        "status": "OFFICIAL_REDIRECT",
+        "destination": "https://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-parisian-research-master-computer-science-mpri"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-parisian-research-master-computer-science-mpri",
+        "status": "FETCHED",
+        "characters": 6693
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-parisian-research-master-computer-science-mpri",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/informatique",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/bio-informatique",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux",
+        "status": "SCOPE_MISMATCH"
+      },
+      {
+        "url": "http://www.universite-paris-saclay.fr/formation/master/informatique",
+        "status": "SCOPE_MISMATCH"
+      }
+    ],
+    "current_pool_size": 0,
+    "stage_events": [
+      {
+        "programme_id": "38183302bc5c7671",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "38183302bc5c7671",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_REVIEW_REQUIRED",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4563cce16a0d38b9",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4563cce16a0d38b9",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4e7a2e38b97b03cf",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4e7a2e38b97b03cf",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "5bf304986c48a0e8",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "5bf304986c48a0e8",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "c91497bd7dfb5e73",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "c91497bd7dfb5e73",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "0a0debf63dd0eefb",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "0a0debf63dd0eefb",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "1c3df1a7fac1a90e",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "1c3df1a7fac1a90e",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "2d748a21581f02e3",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "2d748a21581f02e3",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "3febdf3517f37828",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "3febdf3517f37828",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "4f844345b760fcd2",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "4f844345b760fcd2",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "5adb70a3d44c6f88",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "5adb70a3d44c6f88",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "5e9bda42053bb118",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "5e9bda42053bb118",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "60e63e2f500efb64",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "60e63e2f500efb64",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "67efe26e0e9f9930",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "67efe26e0e9f9930",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "6e1fbd27ef9e8ae4",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "6e1fbd27ef9e8ae4",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "7089aa11b80928aa",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "7089aa11b80928aa",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "731a59b710cf5337",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "731a59b710cf5337",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "77dd5a6418abaf0e",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "77dd5a6418abaf0e",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "80b1fa578ca022b1",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "80b1fa578ca022b1",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      },
+      {
+        "programme_id": "81d5d93cb48fb5a8",
+        "from_state": "CYCLE1_PENDING",
+        "to_state": "CYCLE1_PROCESSING",
+        "reason": "Incremental Cycle 1"
+      },
+      {
+        "programme_id": "81d5d93cb48fb5a8",
+        "from_state": "CYCLE1_PROCESSING",
+        "to_state": "CYCLE1_PENDING",
+        "reason": "Evidence-backed eligibility screening"
+      }
+    ],
+    "pending_counts": {
+      "CYCLE1_PENDING": 46,
+      "CYCLE1_REJECTED": 6,
+      "CYCLE1_REVIEW_REQUIRED": 52,
+      "LEGACY_REVIEW": 72,
+      "POOL_DROPPED": 18
+    },
+    "reports": {
+      "cycle1_details": "D:\\france_admission_agent\\output\\Cycle1-Detailed-Latest.md",
+      "cycle1_ranking": "D:\\france_admission_agent\\output\\Cycle1-Ranking.md"
+    },
+    "new_programmes_per_round": 16,
+    "promoted_programmes_per_round": 0,
+    "pool_replacements_per_round": 0,
+    "legacy_records_reviewed_without_cycle1_rerun": 0,
+    "legacy_first_cycle2_processed": 0,
+    "new_delta_promoted_to_cycle2": 0
+  },
+  "consecutive_rounds_without_pool_improvement": 6,
+  "regions_explored": 12,
+  "final_selection_ready": false
+}

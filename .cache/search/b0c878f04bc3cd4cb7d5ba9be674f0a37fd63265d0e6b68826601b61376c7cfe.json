@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-st-etienne.fr \"Master Informatique Cyber\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Cyberphysical and social systems (CPS2) - Université Jean Monnet",
+      "url": "https://fac-sciences.univ-st-etienne.fr/fr/formations/master-XB/master-XB/master-informatique-parcours-cyber-physical-social-systems-5_09_07_0005_FR.html",
+      "snippet": "Faculté des Sciences et Techniques  \n23, rue Docteur Paul Michelon  \n42100 Saint-Etienne  \n04 77 48 15 00  \n  \nfac-sciences.univ-st-etienne.fr\n\n## Organisation\n\n- Formation initialeNiveau d'étude : BAC +5  \nDurée : 2 ans  \n120 crédits  \nLieu d’enseignement : \n\n Saint-Etienne\n\n## Coût de l'inscription\n\n€\n\nDétail coût d'inscription\n\nMore information\n\n## En savoir plus\n\nCursus 100% English  \nCPS2 brochure [...] Overview of research, development and innovation activities: 4 ECTS\n Data interoperability and semantics: 2 ECTS\n CPS2 engineering and development: 6 ECTS\n Mobile programming: 2 ECTS\n Web programming: 5 ECTS\n Programming connected devices: 5 ECTS\n Foreign language: 3 ECTS\n Machine learning: 3 ECTS\n\n### M1 Curriculum - SEMESTER 2\n\nFrom January to June [...] CPS2 est un parcours international du master en Informatique de l’Université de Lyon proposé en commun par l’Université de Saint-Étienne et Mines Saint-Étienne - Institut Mines Télécom. Le but de ce programme est de donner aux étudiants une solide expertise en Intelligence Artificielle et Internet des Objets, leur permettant de développer des modèles et des technologies pour les applications actuelles et future dédiée à l’industrie et à la société. Après avoir validé ce programme, les étudiants",
+      "raw_content": null,
+      "score": 0.32261184
+    },
+    {
+      "title": "Licence Informatique - Université Jean Monnet",
+      "url": "https://www.univ-st-etienne.fr/fr/formation/licence-XA/licence-XA/licence-informatique-3_09_04_0002_FR.html",
+      "snippet": "La Licence d’Informatique permet aux étudiants d’acquérir, en trois ans, des bases solides en Informatique, incluant des éléments d’algorithmique, d’informatique théorique, de programmation, d’architecture, de réseau, de gestion des masses de données, de techniques internet et de développement Web. Elle favorise également l’acquisition de compétences linguistiques (anglais), de compétences transversales (aptitude à l’analyse et à la synthèse, à l’expression écrite et orale, au travail [...] L’obtention de la Licence d’Informatique permet aux étudiants de poursuivre leurs études en Master d’informatique, et en particulier dans un des parcours du Master Informatique de la Faculté des Sciences et Techniques : Données et Systèmes Connectés, Machine Learning and Data Mining, Cyber-Physical Social Systems.\n La validation de la Licence 2 ou de la Licence 3 permet de candidater à des écoles d'ingénieurs disposant d'une admission sur titres. [...] + Concevoir, mettre en œuvre, administrer et interroger une base de données\n  + Exploiter des informations hétérogènes\n  + Prendre en compte des notions d’efficacité et de sécurité.\n Développement web :\n\n  + Concevoir et développer une application web en choisissant l’architecture et les technologies\n  + Mettre en place des services distribués.\n Gestion de projets :\n\n  + Maîtriser les méthodes et outils\n Anglais, Expression\n Projet Personnel et Professionnel\n\n## Stages",
+      "raw_content": null,
+      "score": 0.18612498
+    },
+    {
+      "title": "Fabrice MUHLENBACH",
+      "url": "https://perso.univ-st-etienne.fr/muhlfabr",
+      "snippet": "Master Informatique – Parcours Données et Systèmes Connectés (DSC)\n  + M1 : Analyse et Traitement des Données (CM, TD, TP).\n Master Informatique international – Cyber-Physical Social Systems (CPS2)\n  + M1 : From Statistics to Data Mining (CM, TD, TP).\n  + M1 : Overview of Research, Development and Innovation – Societal, Human and Ethical Perspectives.\n  + M1 : Machine Learning (Neural Networks).\n  + M1 : Data Analysis (TP).\n  + M1 : Computer Ethics. [...] Master Informatique international – Machine Learning and Data Mining (MLDM)\n  + M2 : Data Mining (TP sous R).\n  + M1 : Data Mining and Knowledge Discovery(TD, TP sous R).\n  + M1 : Data Analysis (TP sous R).\n Master Informatique (ancien parcours Web Intelligence)\n  + M2 : Recherche et Innovation – Éthique de la recherche en informatique.\n  + M2 : Fouille de données (TP sous R).\n  + M1 : Fouille de données (TP sous R).\n  + M1 : Apprentissage automatique (Réseaux de neurones artificiels).",
+      "raw_content": null,
+      "score": 0.1778826
+    }
+  ]
+}

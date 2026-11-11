@@ -1,0 +1,26 @@
+{
+  "query": "site:ube.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "online-banking",
+      "url": "https://www.chase.com/content/chase-ux/en/structured/module/stickysubheader/digital/online-banking/_jcr_content",
+      "snippet": "We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our Privacy Policy.\n\nImage 1: Close Icon\n\nSkip to main content\n\n## Image 2: Alert Message Please update your browser.\n\nWe don't support this browser version anymore. Using an updated version will help protect your accounts and provide a better experience.\n\nUpdate your browser\n\nPlease update your browser. [...] ### Make payments\n\n   Online Bill Pay — Pay rent, mortgage, utilities, credit cards, auto and other bills.Footnote 3(Opens Overlay)\n   Zelle® — Send and receive money with people and businesses you know and trust even if they bank somewhere different than you do.Footnote 1(Opens Overlay)\n\n### Stay informed\n\nImage 8\n\n### Stay informed [...] see a confirmation page with a transaction number for your reference. Please review to verify the information is correct before choosing “Submit Transfer.”",
+      "raw_content": null,
+      "score": 0.019096619
+    },
+    {
+      "title": "Enroll in Chase Online Banking",
+      "url": "https://www.chase.com/digital/online-banking",
+      "snippet": "Deposit Account Agreements  \n   Mobile Banking  \n   Online Banking  \n   Student Center  \n   Zelle®  \n\n   Facebook, Opens overlay \n   Instagram, Opens overlay \n   X, formerly Twitter, Opens overlay \n   YouTube, Opens overlay \n   LinkedIn, Opens overlay \n   Pinterest, Opens overlay \n\n\"Chase,\" \"JPMorgan,\" \"JPMorganChase,\" the JPMorgan Chase logo and the Octagon Symbol are trademarks of JPMorgan Chase Bank, N.A. JPMorgan Chase Bank, N.A. is a wholly-owned subsidiary of JPMorgan Chase & Co. [...] Home loans\n       Explore Home Lending\n       Mortgage rates\n       Apply for a mortgage\n       Buy a home\n       Refinance\n       Home equity\n       Mortgage calculators\n       Manage accounts\n\n   \nAuto\n       Explore car financing\n       Refinance your car\n       See interest rates\n\n   \nInvesting by J.P. Morgan\n       Explore investing\n       Work with our advisors\n       Invest on your own\n       \n  \n\nRetirement and IRAs\n       Education planning\n       Investing insights [...] Checking Open Menu 1 \n   Savings & CDs Open Menu 2 \n   Credit cards Open Menu 3 \n   Home loans Open Menu 4 \n   Auto Open Menu 5 \n   Investing by J.P. Morgan Open Menu 6 \n   Education & goals Open Menu 7 \n   Travel Open Menu 8 \n\n## Connect with us\n\n   Schedule a meeting \n   Customer service Open Menu \n\n## Other products\n\n   Business \n   Commercial \n\n   Español Español",
+      "raw_content": null,
+      "score": 0.012548513
+    },
+    {
+      "title": "Credit Card, Mortgage, Banking, Auto | Chase Online",
+      "url": "https://www.chase.com/",
+      "snippet": "Checking Open Menu 1\n   Savings & CDs Open Menu 2\n   Credit cards Open Menu 3\n   Home loans Open Menu 4\n   Auto Open Menu 5\n   Investing by J.P. Morgan Open Menu 6\n   Education & goals Open Menu 7\n   Travel Open Menu 8\n\n## Connect with us\n\n   Schedule a meeting\n   Customer service Open Menu\n\n## Other products\n\n   Business\n   Commercial\n\n   Español Español [...] Deposit Account Agreements  \n   Mobile Banking  \n   Online Banking  \n   Student Center  \n   Zelle®  \n\n   Facebook \n   Instagram \n   X, formerly Twitter \n   YouTube \n   LinkedIn \n   Pinterest \n\n\"Chase,\" \"JPMorgan,\" \"JPMorganChase,\" the JPMorgan Chase logo and the Octagon Symbol are trademarks of JPMorgan Chase Bank, N.A. JPMorgan Chase Bank, N.A. is a wholly-owned subsidiary of JPMorgan Chase & Co.",
+      "raw_content": null,
+      "score": 0.012204752
+    }
+  ]
+}

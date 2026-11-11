@@ -1,0 +1,12 @@
+{
+  "query": "site:sorbonne-universite.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Kit de mobilité d'études (SMS)",
+      "url": "https://lettres.sorbonne-universite.fr/sites/default/files/media/2020-01/ac103-kit-mobilite-detudes-sms-2019.pdf",
+      "snippet": "Cycles d'études : Cycle court (CEC niveau 5) / Licence ou équivalent 1er cycle (CEC niveau 6) / Master ou équivalent 2è cycle (CEC niveau 7) / Doctorat ou",
+      "raw_content": null,
+      "score": 0.049685873
+    }
+  ]
+}

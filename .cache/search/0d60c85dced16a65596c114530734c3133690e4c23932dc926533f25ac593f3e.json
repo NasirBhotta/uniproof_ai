@@ -1,0 +1,12 @@
+{
+  "query": "site:univ-lemans.fr \"Master Informatique Tronc Commun / Parcours Informatique Générale\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Search results",
+      "url": "https://umtice.univ-lemans.fr/course/search.php?search=en&perpage=all&lang=en",
+      "snippet": "En master 1 et master 2, ce cours a pour objectif de donner aux étudiant‐e‐s du Master HCP tous les instruments nécessaires pour les accompagner dans leur",
+      "raw_content": null,
+      "score": 0.065419644
+    }
+  ]
+}

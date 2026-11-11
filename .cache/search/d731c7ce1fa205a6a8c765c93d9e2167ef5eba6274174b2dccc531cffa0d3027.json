@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-tlse3.fr \"Master Informatique Intelligence artificielle\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "SYLLABUS MASTER Mention Informatique M1 Systèmes ...",
+      "url": "https://www.univ-tlse3.fr/syllabus/SYL_M1_INF_SECIL.pdf",
+      "snippet": "PRÉ-REQUIS Logique combinatoire, logique séquentielle, maîtrise d’un langage de programmation. [...] — La représentation et le traitement des connaissances en intelligence artificielle, liens avec la robotique.\n— L ’interaction entre l’homme et la machine et les contraintes ergonomiques et cognitives y afférant. [...] PRÉ-REQUIS Logique combinatoire et séquentielle, notions sur le fonctionnement d’un processeur et sa programmation COMPÉTENCES VISÉES Etre capable d’analyser et de concevoir des systèmes matériels informatiques relativement complexes.",
+      "raw_content": null,
+      "score": 0.6636041
+    },
+    {
+      "title": "Master parcours Intelligence artificielle : fondements et applications (IAFA) - Université de Toulouse",
+      "url": "https://www.univ-tlse3.fr/decouvrir-nos-diplomes/master-parcours-intelligence-artificielle-fondements-et-applications-iafa",
+      "snippet": "## Programme\n\n### Rythme\n\nAlternance\n\n### Modalités\n\nMéthodes et moyens pédagogiques utilisés\n\n### Stage(s)\n\n### Projet(s) tutoré(s)\n\n## Et après ?\n\n### Niveau de la formation\n\nNiveau de sortie\n\nBac + 5 (Niveau 7)\n\n### Poursuite d'études\n\nÀ l’UT\n\n### Débouchés professionnels\n\nSecteurs d'activité\n\nMétier(s)\n\n## Admission\n\n### Pré-requis\n\nNiveau(x) de recrutement\n\nBac + 3\n\nFormation(s) requise(s)\n\n### Candidature\n\nModalités de candidature\n\nModalités de candidature spécifiques [...] ### Niveau d'admission\n\n### Niveau de sortie\n\n### Langues d'enseignement\n\n## Rythme\n\n### Accessible en\n\n## Publics\n\n### Aménagement des études\n\n## Débouchés professionnels\n\n### Secteurs d'activité\n\n### Projet(s) tutoré(s)\n\nOui, obligatoires  \nEn savoir plus à propos des Projet(s) tutoré(s)\n\n### Stage(s)\n\nOui, obligatoires\n\n### Métier(s)\n\n## Présentation\n\nLieu(x) de la formation\n\nToulouse - 118 rte de Narbonne\n\nResponsable(s) de la formation\n\n### Partenariats\n\nLaboratoires\n\n## Programme",
+      "raw_content": null,
+      "score": 0.5957048
+    },
+    {
+      "title": "SYLLABUS MASTER Mention Informatique M1 Interaction ...",
+      "url": "https://www.univ-tlse3.fr/syllabus/SYL_M1_INF_IHM.pdf",
+      "snippet": "— La représentation et le traitement des connaissances en intelligence artificielle, liens avec la robotique.\n— L ’interaction entre l’homme et la machine et les contraintes ergonomiques et cognitives y afférant. [...] Au niveau de la première année du Master IHM (commune avec le Master Sciences du Logiciel), les étudiants vont acquérir des compétences générales (liées au socle informatique et plus particulièrement aux connais-sances acquises avec les UEs de génie logiciel du M1) : — Maîtriser des méthodes et les outils du métier d’ingénieur en informatique; — Maîtriser les processus de développement informatique allant de l’analyse des besoins utilisateurs au déploiement du système dans son contexte [...] La licence informatique est un prérequis à l’accès à la formation.",
+      "raw_content": null,
+      "score": 0.575517
+    }
+  ]
+}

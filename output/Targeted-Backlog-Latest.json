@@ -1,0 +1,44 @@
+[
+  {
+    "lead": {
+      "programme_id": "07fb6192cff0759a",
+      "university": "Université de Reims Champagne-Ardenne",
+      "track": "HPC",
+      "url": "https://romeo.univ-reims.fr/chps/17_informations-pratiques.html",
+      "prior_sources": 0,
+      "teaching_language_hint": "UNKNOWN"
+    },
+    "state": "CYCLE1_REVIEW_REQUIRED",
+    "cycle1_status": "REVIEW_REQUIRED",
+    "comparison": null,
+    "searches": 4
+  },
+  {
+    "lead": {
+      "programme_id": "6cda7e473cd4fce2",
+      "university": "Université de Haute-Alsace",
+      "track": "Informatique et mobilité",
+      "url": "https://formations.uha.fr/fr/catalogue-des-formations-1/master-M/master-informatique-L48B6CNY.html",
+      "prior_sources": 0,
+      "teaching_language_hint": "UNKNOWN"
+    },
+    "state": "CYCLE1_REVIEW_REQUIRED",
+    "cycle1_status": "REVIEW_REQUIRED",
+    "comparison": null,
+    "searches": 3
+  },
+  {
+    "lead": {
+      "programme_id": "2ca9efa9ec22adcb",
+      "university": "Université de Caen Normandie",
+      "track": "Algorithmiques et systèmes intelligents",
+      "url": "https://uniform.unicaen.fr/catalogue/formation/master/6961-master-informatique-p.-a-la-carte-avec-combinaisons-majeures-mineures-optionnelles",
+      "prior_sources": 0,
+      "teaching_language_hint": "UNKNOWN"
+    },
+    "state": "CYCLE1_REVIEW_REQUIRED",
+    "cycle1_status": "REVIEW_REQUIRED",
+    "comparison": null,
+    "searches": 3
+  }
+]

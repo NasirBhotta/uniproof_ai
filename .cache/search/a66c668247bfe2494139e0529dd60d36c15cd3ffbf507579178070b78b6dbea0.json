@@ -1,0 +1,26 @@
+{
+  "query": "site:universite-paris-saclay.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique",
+      "url": "https://www.universite-paris-saclay.fr/sites/default/files/2022-03/master_irs_formation_initiale.pdf",
+      "snippet": "Continue Modules Théoriques Sécurité des Réseaux et Télécoms Optimisation des réseaux Analyse quantitative des réseaux Réseaux d’opérateurs Cloudification : Applications & Infrastructures Réseaux Mobiles Nouvelles générations Modules Pratiques Infrastructure des réseaux Ingénierie des réseaux tout IP Administration réseaux et systèmes Déploiement de la sécurité Anglais Recherche et innovation Projets infrastructures managées Stage en entreprise et mémoire professionnel Enseignements [...] pour les étudiants titulaires d’une L3 informatique ou équivalent. [...] M1 IRS voie Initiale-Continue Modules Obligatoires Réseaux et Systèmes Cryptographie Complément de Maths Discrètes Complément d’Algorithmique et complexité Complément de programmation Algorithmique ramdomisée Bases de Données Avancées Algorithmique de graphes Réseaux étendus Protocoles IP Programmation, GL et preuves Anglais TER Modules optionnels Application Web et sécurité Calcul Sécurité Méthodes de Ranking Simulation Tuning de BD Conception de BD M2 IRS voie Initiale Continue Modules",
+      "raw_content": null,
+      "score": 0.35655922
+    },
+    {
+      "title": "M1 Parisian Research Master in Computer Science (MPRI) | Université Paris-Saclay",
+      "url": "http://www.universite-paris-saclay.fr/en/education/masters-degree/computer-science/m1-parisian-research-master-computer-science-mpri",
+      "snippet": "| Informatique fondamentale ECTS : 21  Semester: Annualisé  Detail  Lecture: 105  Directed study: 105  Language(s) of instruction  Anglais  Remote teaching  non  Type of assessment  Détail renseigné au niveau Élément Constitutif | [...] | Informatique Générale ECTS : 9  Semester: Annualisé  Detail  Lecture: 45  Directed study: 45  Language(s) of instruction  Anglais  Remote teaching  non  Type of assessment  Détail renseigné au niveau Élément Constitutif | [...] We look for excellent grades in theoretical/mathematical aspects of Computer Science (algorithmics, computability, automata, logics, functional programming, discrete mathematics, graphs etc.). No English-language level certificate is asked for. If your application is selected, you will have an interview during which your ability to do Science in English will be assessed.\n\n## Application Period(s)\n\nInception Platform\n\nFrom 25/02/2026 to 25/04/2026\n\n## Supporting documents",
+      "raw_content": null,
+      "score": 0.28264442
+    },
+    {
+      "title": "M2 Quantique, Mathématiques, Informatique (QMI) | Université Paris-Saclay",
+      "url": "http://www.universite-paris-saclay.fr/formation/master/informatique/m2-quantique-mathematiques-informatique-qmi",
+      "snippet": "Vous devez renseigner un email valide\n\nUne erreur est survenue. Merci de réessayer ultérieurement\n\nLe mail de partage a bien été envoyé.\n\n# M2 Quantique, Mathématiques, Informatique (QMI)\n\n## \n\nMaster\n\nMention Informatique\n\nFormation initiale\n\nAnglais [...] ### Places\n\n15\n\n## Public visé et prérequis\n\n Avoir terminé la première année d’un master (ou équivalent) en mathématiques, en informatique, en physique ou dans un domaine connexe, en France ou à l’étranger.\n Anglais (niveau B2)\n\n## Période(s) de candidature\n\nPlateforme Inception\n\nDu 15/01/2026 au 21/06/2026\n\n## Pièces justificatives\n\n### Obligatoires\n\nLettre de motivation.\n\nTous les relevés de notes des années/semestres validés depuis le BAC à la date de la candidature.",
+      "raw_content": null,
+      "score": 0.26158124
+    }
+  ]
+}

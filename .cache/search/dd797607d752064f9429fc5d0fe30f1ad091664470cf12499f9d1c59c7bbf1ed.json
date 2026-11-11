@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rennes.fr \"Master Informatique Ingénierie Logicielle\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Candidatures et admissions en master | ISTIC",
+      "url": "https://istic.univ-rennes.fr/candidatures-et-admissions-en-master",
+      "snippet": "## Master 1\n\nDu 17 février au 16 mars 2026 : Candidatez aux Masters de l’ISTIC sur monmaster.gouv.fr\n\nVous pouvez candidater à plusieurs mentions de Master (jusqu’à 15 en formation classique et 15 en alternance) via la plateforme nationale de candidature en M1.\n\nConsultez le calendrier 2025 monmaster.gouv.fr\n\nPour les dossiers d'étudiants titulaires d'un diplôme étranger, un niveau de français équivalent ou supérieur au niveau C1 du CECRL sera exigé.\n\n## Master 2 [...] Master 2 International Intelligent Communicating Systems (ICS)\n:   Du 30/03/2026 au 19/04/2026\n\nMaster 2 Informatique parcours Ingénierie logicielle (IL) - Classique\n:   Du 30/03/2026 au 25/05/2026\n\nMaster 2 Informatique parcours Cloud et Réseaux (CR) - Classique\n:   Du 07/02/2026 au 05/04/2026\n\nMaster 2 Informatique parcours Cloud et Réseaux (CR) - Alternance\n:   Du 07/02/2026 au 05/04/2026\n\nMaster 2 Informatique parcours Cloud and Network Infrastructures (CNI)\n:   Du 30/03/2026 au 25/05/2026 [...] Master 2 Informatique parcours Science Informatique (SIF)\n:   Du 30/03/2026 au 25/05/2026\n\nMaster 2 Cybersécurité parcours Sécurité Logicielle et Matérielle - CyberSchool\n:   Du 30/03/2026 au 25/05/2026\n\nMaster 2 Intelligence Artificielle parcours IA et Applications - Alternance\n:   Du 07/02/2026 au 05/04/2026\n\nMaster 2 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) parcours DAta et Business Intelligence (DABI) - Alternance\n:   Du 07/02/2026 au 05/04/2026",
+      "raw_content": null,
+      "score": 0.5760895
+    },
+    {
+      "title": "Master Informatique parcours Ingénierie Logicielle (IL) | ISTIC",
+      "url": "https://istic.univ-rennes.fr/master-informatique-parcours-ingenierie-logicielle-il",
+      "snippet": "Le parcours Ingénierie logicielle a pour objectif de former des ingénieurs en informatique dans les domaines du génie logiciel, en particulier ceux de l'ingénierie des composants logiciels, des architectures à services, des cadriciels complexes (frameworks) et de l'ingénierie des modèles. À l'issue de ce parcours les étudiants sont des spécialistes capables de concevoir et réaliser des logiciels complexes et évolutifs, notamment par la maîtrise des techniques dites de l'ingénierie des modèles, [...] Le Master IL est accessible en formation initiale ou en alternance.\n\n## Programme du Master 1 parcours IL - Classique et alternance [...] des modèles, pour automatiser la production et le test de familles de logiciels.",
+      "raw_content": null,
+      "score": 0.4627892
+    },
+    {
+      "title": "Master Informatique | ISTIC",
+      "url": "https://istic.univ-rennes.fr/master-informatique",
+      "snippet": "Le Master Informatique de l'ISTIC prépare aux carrières d'ingénieur, de manager et de chercheur en informatique. Il offre des débouchés régionaux importants, au coeur de la technopole Rennes Atalante qui regroupe plus de 300 entreprises, laboratoires et écoles des secteurs informatique, télécoms et médias, mais aussi en France et à l'international.\n\n### Master Informatique parcours Ingénierie Logicielle (IL)\")\n\n### Master Informatique parcours Cloud et Réseaux (CR)\") [...] ### Master Informatique parcours Science Informatique (SIF)\")\n\n### Master Informatique parcours international Cloud and Network Infrastructures (CNI)\")\n\n### Candidatures et admissions\n\n### Une spécialisation progressive\n\n## Secondary navigation\n\n Portail ISTN - Informatique, Sciences et Technologies du Numérique\n Licences\n Masters\n Formation continue\n Formations en alternance\n Formations courtes\n  + IA & Data\n  + Réseaux et télécommunication\n\n## Découvrez-en plus...",
+      "raw_content": null,
+      "score": 0.3273677
+    }
+  ]
+}

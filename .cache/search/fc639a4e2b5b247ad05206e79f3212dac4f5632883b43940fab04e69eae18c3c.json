@@ -1,0 +1,19 @@
+{
+  "query": "site:monmaster.gouv.fr master informatique Pays de la Loire",
+  "results": [
+    {
+      "title": "mon master.gouv.fr",
+      "url": "https://monmaster.gouv.fr/formation",
+      "snippet": "No information is available for this page.",
+      "raw_content": null,
+      "score": 0.06124987
+    },
+    {
+      "title": "La saisine du recteur — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/la-saisine-du-recteur",
+      "snippet": "Conditions de saisine du recteur · être au moins au nombre de cinq (dans des formations en alternance ou hors alternance) ; · concerner au moins deux mentions de",
+      "raw_content": null,
+      "score": 0.052819017
+    }
+  ]
+}

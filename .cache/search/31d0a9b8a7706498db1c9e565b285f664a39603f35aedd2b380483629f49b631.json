@@ -1,0 +1,26 @@
+{
+  "query": "site:monmaster.gouv.fr \"informatique\" \"Caen\"",
+  "results": [
+    {
+      "title": "Rechercher des formations",
+      "url": "https://information.monmaster.gouv.fr/rechercher-des-formations-et-candidater",
+      "snippet": "Le portail national d'information Mon Master vous permet de consulter l'offre de formation conduisant au diplôme national de master sur l'ensemble du territoire",
+      "raw_content": null,
+      "score": 0.042726286
+    },
+    {
+      "title": "Mon master - S'informer, candidater, se décider",
+      "url": "https://monmaster.gouv.fr/",
+      "snippet": "Mon Master est la plateforme nationale permettant de candidater en première année des formations conduisant au diplôme national de master.",
+      "raw_content": null,
+      "score": 0.028309563
+    },
+    {
+      "title": "L'examen des candidatures",
+      "url": "https://information.monmaster.gouv.fr/lexamen-des-candidatures",
+      "snippet": "La phase d'examen débute le 21 mars 2026. Important : quelle que soit la date à laquelle vous avez finalisé vos candidatures, celles-ci sont toutes",
+      "raw_content": null,
+      "score": 0.025841616
+    }
+  ]
+}

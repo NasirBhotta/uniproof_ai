@@ -1,0 +1,26 @@
+{
+  "query": "site:sorbonne-universite.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Candidature pour une inscription dans les études MMOP pour les candidats ayant validé ou en cours de validation dans un pays hors UE | Sorbonne Université| Santé",
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-medicales/le-2e-cycle/candidature-pour-une-inscription-dans-les-etudes-mmop-pour",
+      "snippet": "Les démarches se réalisent en dehors de la plateforme Études en France. L’étudiant soumet un dossier électronique à l’Espace Campus France (ECF) du pays d’obtention de son diplôme d’exercice ou du pays dans lequel il est en cours de formation de médecine, de pharmacie, d’odontologie et de maïeutique.\n\nLes candidatures au titre de l’arrêté du 13 décembre 2019 adressées directement aux universités ne seront pas considérées. Seuls les dossiers envoyés par les SCAC seront traités. [...] Le SCAC a la charge d’envoyer les dossiers de candidature des étudiants aux universités.\n\nL’étudiant soumet un dossier électronique à l’Espace Campus France (ECF) de son pays.\n\nLe niveau minimum de la langue française exigé pour candidater est le C1.\n\nLes dates des jurys sont communiquées ultérieurement par les universités directement aux candidats.",
+      "raw_content": null,
+      "score": 0.6211049
+    },
+    {
+      "title": "Campus France procedure | Sorbonne Université| Sorbonne université",
+      "url": "https://www.sorbonne-universite.fr/en/education/study-sorbonne-university/degree-seeking-students/international-application-and/campus",
+      "snippet": "Sorbonne University and Campus France work closely together to enable International students to join our institution.\n\n> Études en France website [...] To apply for a French Higher Education Institution (HEI) you must follow the Campus France “Études en France” procedure (EEF). Campus France is the national agency for the promotion of the French higher education system, which manages the application procedure. This completely dematerialized procedure will help you with your application and until the visa request.\n\n bluesky\n facebook\n linkedin\n mail\n print\n\nPublished on 29/06/2020 - Updated on 17/08/2023\n\nCampus France procedure [...] As an International student not living in a country connected to the Campus France “Etudes en France” procedure CEF you must file a Preliminary request for admission (\"Demande d'Admission Préalable - DAP\").",
+      "raw_content": null,
+      "score": 0.48557588
+    },
+    {
+      "title": "Candidature et admission en lettres, langues, sciences humaines et arts | Sorbonne Université| Lettres",
+      "url": "https://lettres.sorbonne-universite.fr/formation/inscription/candidature-et-admission-en-lettres-langues-sciences-humaines-et-arts",
+      "snippet": "| Formation | Dates de candidatures | Plateforme de candidature |\n --- \n| Master 2 pour titulaires d’un M1 diplôme français ou d’un autre diplôme équivalent | 1re campagne : 1er avril -16 juin  2e campagne : 18 août - 10 septembre | eCandidat |\n| Master 2 pour titulaires de diplômes extra-communautaires hors Études en France | 1er avril -16 juin | eCandidat |\n| Master 2 en alternance GEOINT, Géomatique 4D | 1er avril -16 juin | eCandidat | [...] | Licence professionnelle Métiers du commerce international - Parcours métiers du textile habillement, de la distribution et de l'organisation internationale (MOD) | L3 | 1re campagne : 16 février – 2 avril 2e  campagne : 2 juin au 18 juin | eCandidat |\n| Double licence Histoire - Information Médias | L3 | 18 mai - 15 juin | eCandidat |\n| Licence pour titulaires de diplômes extra-communautaires hors Études en France | L2-L3 | 1er avril  - 16 juin | eCandidat | [...] | Formation | Dates de candidatures | Plateforme de candidature |\n --- \n| Diplôme d'université | 1re campagne : 1er avril -16 juin 2e campagne : 18 août - 10 septembre | eCandidat |\n| Diplôme d'université pour titulaires de diplômes extra-communautaires hors Études en France | 1er avril -16 juin | eCandidat |\n| Diplôme d'État de professeur de musique | 18 août - 10 septembre | eCandidat |",
+      "raw_content": null,
+      "score": 0.4560954
+    }
+  ]
+}

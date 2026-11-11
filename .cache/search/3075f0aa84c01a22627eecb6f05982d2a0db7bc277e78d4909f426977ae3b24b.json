@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-lehavre.fr \"Master Informatique Systèmes Distribués et Réseaux\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique - Ingénierie du Web, des Objets Communicants et des Systèmes complexes (IWOCS) - UNIVERSITÉ LE HAVRE NORMANDIE - ULHN",
+      "url": "https://www.univ-lehavre.fr/fr/formations/master-informatique-ingenierie-du-web-des-objets-communicants-et-des-systemes-complexes-iwocs",
+      "snippet": "systèmes complexes,\n gestion de projet,\n I.A.\n parallélisme, distribution et ordonnancement,\n infographie,\n programmation fonctionnelle,\n graphes,\n informatique ubiquitaire.\n\n### Langues\n\nUne langue vivante est enseignée : Anglais obligatoire.\n\n### Ouverture à l'international [...] + Offre de formation\n    - Arts, lettres, langues\n    - Droit, économie, gestion\n    - Sciences humaines et sociales\n    - Sciences, technologies, santé\n    - Préparez les concours de l’enseignement à l’Université\n    - Débuter ses études de santé au Havre\n    - Mineures thématiques\n    - Choisir une langue étrangère\n    - Passer le TOEIC\n  + Choisir son orientation\n    - S’informer et s’orienter\n    - S’inspirer d’étudiants\n  + Candidater à une formation [...] Formation\n  + Offre de formation\n    - Arts, lettres, langues\n    - Droit, économie, gestion\n    - Sciences humaines et sociales\n    - Sciences, technologies, santé\n    - Préparez les concours de l’enseignement à l’Université\n    - Débuter ses études de santé au Havre\n    - Mineures thématiques\n    - Choisir une langue étrangère\n    - Passer le TOEIC\n  + Choisir son orientation\n    - S’informer et s’orienter\n    - S’inspirer d’étudiants\n  + Candidater à une formation",
+      "raw_content": null,
+      "score": 0.3991562
+    },
+    {
+      "title": "Master 2e année Mathématiques – Informatique",
+      "url": "https://litis.univ-lehavre.fr/~amanton/_media/m2_matis_oiseau.pdf",
+      "snippet": "Master 2 MATIS / 3 Programme des études Master 2e année Mathématiques – Informatique Spécialité (MATIS) Mathématiques et Informatique des Systèmes Complexes et Distribués Master 2 MATIS / 4 MIS IMOI SIRES CM TD TP ECTS UE obligatoire Optimisation combinatoire, métaheuristique appliquées à l’ingénierie (OCM1) 20 5 5 3 20 3 20 10 3 40 10 10 6 40 10 10 6 20 5 5 3 Anglais 15 8 3 Administration des systèmes et serveurs 20 5 5 3 Projet 30 3 Stage en laboratoire ou en entreprise 21 UE de [...]  Informatique distribuée et technologie du web tout en possédant une culture suffisante concernant les problèmes de choix liés à l'optimisation. Cette voie prépare les étudiants à occuper un emploi d'ingénieur informaticien dans l'industrie. Les métiers visés sont cadres et chefs de projets en informatique distribuée dans les entreprises et les grandes industries. [...] Le détenteur du Master «mathématiques – informatique» Spécialité mathématiques et informatique des systèmes complexes et distribués» de l’université du Havre est un professionnel spécialiste de la conception, de la modélisation ou de l’analyse de systèmes en interaction avec leur environnement et de la mise en œuvre d’outils mathématiques et informatiques pour de leur fonctionnement et/ou de leur évolution. Du point de vue applicatif, il peut s’agir de systèmes naturels, artificiels ou",
+      "raw_content": null,
+      "score": 0.3569626
+    },
+    {
+      "title": "UNIVERSITE DU HAVRE Service Formation Continue ...",
+      "url": "https://litis.univ-lehavre.fr/~amanton/_media/triptyque.pdf",
+      "snippet": "Ce Master a pour vocation de former des cadres de haut nive au néce ssai ... Architecte système et réseaux. Chef de projet Internet. (code 32331). Chef de",
+      "raw_content": null,
+      "score": 0.1409621
+    }
+  ]
+}

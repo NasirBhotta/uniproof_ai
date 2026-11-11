@@ -1,0 +1,23 @@
+{
+  "programme_id": "b77bbe2ae231b9c5",
+  "page_diagnostics": [
+    {
+      "url": "https://uniform.unicaen.fr/catalogue/formation/m/7622-master-s-degree-computer-science?lang=en",
+      "status": "FETCHED",
+      "characters": 8170
+    }
+  ],
+  "characters": 8170,
+  "parsed_claims": {
+    "degree": {},
+    "structure": {},
+    "language": {
+      "teaching_language": "French",
+      "french_level_required": "C1",
+      "english_cefr_required": "B2"
+    }
+  },
+  "production_database_changed": false,
+  "provider_searches": 0,
+  "note": "Extraction checked on fetched text; original generic track identity and missing degree/M1 evidence still need review. No production evidence or scores changed."
+}

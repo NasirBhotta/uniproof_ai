@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-rouen.fr \"Master Informatique SSI\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Conditions d'admission",
+      "url": "https://dpt-info-sciences.univ-rouen.fr/index.php/ssiadmission",
+      "snippet": "+ Séminaires\n Nous contacter\n Nous rendre visite\n Agendas\n\n Skip to content\n\n## Conditions d'admission au master SSI\n\n# Admission en M1\n\nL'admission en première année du master SSI se fait sur dossier pour les titulaires d'une licence générale d'informatique fondamentale ou d'un diplôme jugé équivalent (école d'ingénieur en informatique par exemple). Une licence professionnelle ou appliquée ne permet pas de candidater en master. [...] est de plein droit pour les titulaires de la première année du master Informatique, ayant suivi les options SSI ;\n se fait sur dossier pour les titulaires d'une première année d'un master d'informatique fondamentale ou d'un diplôme jugé équivalent. L'étudiant(e) doit avoir un niveau au moins B2 en anglais pour valider l'année de M2.\n\nPour les étudiants étrangers, le niveau requis en français est au minimum B2 pour le master 1, et C1 pour le master 2. [...] Il est demandé pour toute candidature de joindre une lettre de motivation précisant le parcours de M2 souhaité (GIL, SSI ou ITA).\n\nPour les étudiants étrangers, le niveau requis en français est au minimum B2 pour le master 1, et C1 pour le master 2.\n\n# Admission en M2, parcours SSI\n\nL'admission en deuxième année du master SSI :",
+      "raw_content": null,
+      "score": 0.88799405
+    },
+    {
+      "title": "Master Informatique, Sécurité des Systèmes Informatiques - Catalogue des formations - Université de Rouen Normandie",
+      "url": "https://formation.univ-rouen.fr/fr/catalogue-de-l-offre-de-formation/master-lmd-XB/master-informatique-L56FBPB3/master-informatique-securite-des-systemes-informatiques-L56FBRDN.html",
+      "snippet": "4 crédits\n        + ## XML - Services Web (GIL)\n\n          3 crédits\n        + ## Test Logiciels (GIL)\n\n          3 crédits\n\n## Admission\n\n## Conditions d'admission\n\nAccès au master 1re année\n\nÊtre titulaire d'une licence ou d'un grade de licence.  \nLicences conseillées  :  \n- Licence Informatique\n\nÉtude du dossier.  \nComposition du dossier :  \n- Curriculum Vitae  \n- Lettre de motivation incluant le projet professionnel  \n- Relevés de notes des semestres de licence [...] Accès au master 2e année\n\nAccès de droit pour les étudiants ayant validé la première année de la formation.  \nLes personnes ne disposant pas du titre requis peuvent demander une validation au titre de leurs études, leurs expériences professionnelles et leurs acquis personnels (articles L613-5 du code de l'éducation).   \nLa validation ne dispense pas les candidats de satisfaire aux éventuelles épreuves d'admission.\n\nLire plus\n\n## Modalités d'inscription\n\nCandidater à cette formation\n\nLire plus [...] Cette dualité garantit un enseignement théorique et professionnel de grande qualité pour nos étudiants.  \nCapacités attestées  \nLa formation apporte de solides bases théoriques et pratiques, et est à dominante technique (80% du volume horaire hors stage est consacré à des activités techniques pratiques dans le domaine de la sécurité informatique en M2).   \nLe titulaire maîtrise les fondamentaux, les méthodes et les outils de la SSI:",
+      "raw_content": null,
+      "score": 0.74652773
+    },
+    {
+      "title": "Inscription",
+      "url": "https://dpt-info-sciences.univ-rouen.fr/index.php/inscription",
+      "snippet": "pour les admissions en L2, L3 et M2 : du 18 mars au 23 avril 2019.\n pour les admissions en M1 : du 23 avril au 15 mai 2019.\n\nConditions d'admission détaillées par filière:\n\n Licence informatique\n Master GIL\n Master ITA\n Master SSI\n\nNouveau : les master GIL et SSI sont désormais accessibles en alternance par contrat de professionnalisation en M2. Pour plus de renseignements, nous contacter.\n\n### Licence Informatique [...] licence mention informatique\n master mention informatique, parcours   \n  + GIL (Génie de l'Informatique Logicielle),\n  + ITA (Informatique Théorique et Applications)\n  + SSI (Sécurité des Systèmes Informatiques)pour la seconde année de master. La première année de master est commune aux trois filières, mais un choix d'options détermine le parcours possible en M2.",
+      "raw_content": null,
+      "score": 0.70336664
+    }
+  ]
+}

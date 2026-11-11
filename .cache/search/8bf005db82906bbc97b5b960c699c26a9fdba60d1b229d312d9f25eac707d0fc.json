@@ -1,0 +1,26 @@
+{
+  "query": "site:unicaen.fr \"Master Informatique Science des Données et IA\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "UFR des Sciences Calendrier universitaire 2025/2026 ...",
+      "url": "https://www.unicaen.fr/wp-content/uploads/2025/06/UNICAEN-calendrier-ufr-sciences.pdf",
+      "snippet": "au 10/07/2026 MIM Campus 2 UFR des Sciences M1 Informatique parcours IA et facteurs humains 01/09/2025 29/08/2025 au 12/12/2025 27/10/2025 au 31/10/2025 15/12/2025 au 09/01/2026 12/01/2026 au 31/08/2026 23/02/2026 au 27/02/2026 13/04/2026 au 24/04/2026 11/05/2026 au 22/05/2026 29/06/2026 au 10/07/2026 MIM Campus 2 UFR des Sciences M1 Informatique parcours IA sciences des données et santé 01/09/2025 29/08/2025 au 12/12/2025 27/10/2025 au 31/10/2025 15/12/2025 au 09/01/2026 12/01/2026 au [...] au 31/10/2025 09/02/2026 au 20/02/2026 23/02/2026 au 02/10/2026 Pas d'arrêt de cours Pas d'arrêt de cours CC 31/08/2026 au 11/09/2026 MIM Campus 2 UFR des Sciences M2 Informatique parcours IA et facteurs humains -04/09/2025 au 06/02/2026 27/10/2025 au 31/10/2025 09/02/2026 au 20/02/2026 23/02/2026 au 02/10/2026 Pas d'arrêt de cours Pas d'arrêt de cours CC 31/08/2026 au 11/09/2026 MIM Campus 2 UFR des Sciences M2 Informatique parcours IA sciences des données et santé -04/09/2025 au 06/02/2026",
+      "raw_content": null,
+      "score": 0.51530343
+    },
+    {
+      "title": "Master Informatique · Université de Caen Normandie",
+      "url": "https://uniform.unicaen.fr/catalogue/formation/m/6961-master-informatique?e=FI",
+      "snippet": "Intelligence artificielle et Science des données :\n  + CODAG (Contraintes, Ontologies, Données, Annotations, Graphes) : fouille de données, contraintes et graphes\n  + IMAGE : traitement et analyse de signaux, images et vidéos\n  + MAD (Modèles, Agents et Décision) : agents autonomes et systèmes multi-agents\n Algorithmique et structures informatiques :\n  + AMACC (Algorithmes, modèles de calcul, aléa, combinatoire, complexité) : recherche en informatique mathématique et modèles de calcul",
+      "raw_content": null,
+      "score": 0.4549328
+    },
+    {
+      "title": "Master Informatique · Université de Caen Normandie",
+      "url": "https://uniform.unicaen.fr/catalogue/formation/m/7507-master-informatique?domaine=STS",
+      "snippet": "Intelligence artificielle :\n  + Maîtriser les concepts fondamentaux (apprentissage automatique, vision par ordinateur et traitement du langage)\n  + Résoudre des problèmes complexes (prédictions et diagnostics médicaux...)\n  + Utiliser les outils et bibliothèques populaires dans des projets pratiques\n Sciences des données :\n  + Analyser, traiter, visualiser des données complexes\n  + Appliquer des méthodes statistiques pour la modélisation et la prédiction\n Santé : [...] Le master Informatique offre 65 places, dont 15 pour le parcours Intelligence artificielle, sciences des données et santé.\n\n## Procédure d'inscription\n\nLa procédure d’inscription se passe en 3 étapes :\n\n### Candidature\n\nPour vous inscrire\n\n1. En première année, rendez-vous sur la plateforme nationale de candidature MonMaster.\n2. En deuxième année, rendez-vous sur la plateforme eCandidat. Vous y trouverez aussi les dates de candidatures. [...] Avec le master Informatique, parcours Intelligence artificielle, science des données et santé, vous allez acquérir de solides compétences dans différents domaines :",
+      "raw_content": null,
+      "score": 0.40126598
+    }
+  ]
+}

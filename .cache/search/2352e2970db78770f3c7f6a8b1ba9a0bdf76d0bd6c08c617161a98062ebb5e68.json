@@ -1,0 +1,19 @@
+{
+  "query": "site:monmaster.gouv.fr \"informatique\" \"Le Havre\"",
+  "results": [
+    {
+      "title": "Rechercher des formations",
+      "url": "https://information.monmaster.gouv.fr/rechercher-des-formations-et-candidater",
+      "snippet": "Le portail national d'information Mon Master vous permet de consulter l'offre de formation conduisant au diplôme national de master sur l'ensemble du territoire",
+      "raw_content": null,
+      "score": 0.041824818
+    },
+    {
+      "title": "Mon master - S'informer, candidater, se décider",
+      "url": "https://monmaster.gouv.fr/",
+      "snippet": "Mon Master est la plateforme nationale permettant de candidater en première année des formations conduisant au diplôme national de master.",
+      "raw_content": null,
+      "score": 0.029493442
+    }
+  ]
+}

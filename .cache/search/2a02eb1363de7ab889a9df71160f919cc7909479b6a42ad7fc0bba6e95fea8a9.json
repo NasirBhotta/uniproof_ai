@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-ubs.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Admission des étudiants étrangers en L2, L3, M1, M2 - Université Bretagne Sud",
+      "url": "https://www.univ-ubs.fr/fr/international/mobilite-etudiante/etudier-a-l-ubs/admission-des-etudiants-etrangers-en-l2-l3-m1-m2.html",
+      "snippet": "1. ### 1 - Je réside dans un pays présent dans la liste, je suis titulaire d’un diplôme français et je souhaite candidater en L2, L3, LP, M2, BUT2, BUT3\n\n   Vous devez ouvrir un compte à partir de la plateforme \"Études en France\" et remplir le dossier dématérialisé de demande d'admission. Votre demande sera traitée par l'Espace Campus France de votre pays de résidence qui vous fera passer un entretien. [...] Vous devez ouvrir un compte à partir de la plateforme Etudes en France et remplir le dossier dématérialisé de demande d’admission. Votre demande sera traitée par l’Espace Campus France de votre pays de résidence qui vous fera passer un entretien\n\n   Retour aux questions\n6. ### 6 - Je réside en France, EEE, Suisse, Andorre ou Monaco, je suis titulaire d’un diplôme étranger et je souhaite candidater en L2, L3, LP, M2, BUT2, BUT3 [...] ## Admission des candidats étrangers en L2, L3, M1, M2Différentes procédures sont à suivre pour les candidats étrangers qui demandent une admission en L2, L3, M1, M2.\n\n### Procédures de candidatures des étudiants internationaux non européens hors première année\n\nPays avec la procédure \"Études en France\" :",
+      "raw_content": null,
+      "score": 0.5550741
+    },
+    {
+      "title": "Admissions - Université Bretagne Sud",
+      "url": "https://www.univ-ubs.fr/en/education/admission-procedures/admissions.html",
+      "snippet": "Senegal, Singapore, Taiwan, Tchad, Togo, Tunisia, Turkey and Vietnam. | You must use the “Studying in France” (In French “Etudes en France\") digital platform to proceed for your enrolment in a French Institute of Higher education:    Click on the link below to create an account and proceed  | [...] Senegal, Singapore, Taiwan, Tchad, Togo, Tunisia, Turkey and Vietnam. | You must use the “Studying in France” (In French “Etudes en France\") digital platform to proceed for your enrolment in a French Institute of Higher education:    Click on the link below to proceed  | [...] If you are an international candidate who resides in France (and are not a EU candidate)\n\n|  |",
+      "raw_content": null,
+      "score": 0.2871732
+    },
+    {
+      "title": "l'économie & le management",
+      "url": "https://www.univ-ubs.fr/_attachment/nos-brochures-article/IAE-brochure26-web.pdf?download=true",
+      "snippet": "Programme et pédagogie Profils admis Bac+2 (120 crédits ECTS), BTS, DUT. Candidater Candidatures via e-candidat Votre profil ALTERNANCE / Conseiller clientèle particuliers en banque de détail / Conseiller en bancassurance / Conseiller commercial en compagnie d’assurances / Gestionnaire de portefeuille clients / Chargé de développement de clientèle / Conseiller patrimonial junior Et après ? [...] C'est précisément ce que cette formation vient m'apporter, à un moment où j'en ai concrètement besoin. Hugo Varez Profils admis Bac+4 (240 ECTS) ou Bac +5 (300 ECTS) dans un domaine autre que la gestion. Candidater Sélection sur dossier et entretien via E-candidat. [...] 1an de formation en alternance 83% des diplômés en poste 6 mois après le diplôme Profils admis Bac+2 (BTS, BUT2, licence 2...) ou via la validation des acquis (VAP/VAE) pour les salariés et demandeurs d'emploi Candidater Sélection sur dossier et entretien individuel. Candidatures via e-candidat Votre profil ALTERNANCE / Assistant RH, / Adjoint de DRH, / Gestionnaire de paie, / Collaborateur en cabinet de recrutement ou d'expertise comptable. Et après ?",
+      "raw_content": null,
+      "score": 0.2456822
+    }
+  ]
+}

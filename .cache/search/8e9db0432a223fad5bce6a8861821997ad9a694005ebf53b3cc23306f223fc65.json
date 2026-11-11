@@ -1,0 +1,26 @@
+{
+  "query": "site:universite-paris-saclay.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Informatique | Université Paris-Saclay",
+      "url": "http://www.universite-paris-saclay.fr/formation/master/informatique",
+      "snippet": "Admission\n\n## Public visé et prérequis\n\nLes parcours du master mention informatique recrutent en France, des étudiants ayant une licence en informatique, une licence double diplôme informatique-mathématiques ou informatique-sciences de la vie, et des étudiants ayant validé une première ou une deuxième année en écoles d’ingénieurs. A l’international, nous admettons des étudiants ayant un niveau équivalent à la licence 3 en informatique ou possédant un Bachelor of science and engineering. [...] ## Informations\n\n Liste parcours\n Présentation\n Admission\n\nListe parcours\n\n### Master 1\n\nDistributed, Parallel, and Quantum Computing (M1 DiPaQ)\n\nM1 Algorithmique et Modélisation à l'Interface des Sciences\n\nM1 Artificial Intelligence\n\nM1 Computer and Network Systems\n\nM1 Data, Knowledge and Hybrid Artificial Intelligence (DKAI)\n\nM1 DataScale : Gestion de données et extraction de connaissances à large échelle\n\nM1 Human computer Interaction [...] M1 Informatique pour la Science des Données (ISD) - voie par apprentissage\n\nM1 Ingénierie des Réseaux et des Systèmes – Apprentissage\n\nM1 Ingénierie des Réseaux et des Systèmes\n\nM1 Master parisien de recherche en Informatique (Mpri)\n\nM1 Sécurité des Contenus, des Réseaux, des Telecommunications et des Systèmes (SeCReTS)\n\n### Master 2\n\nDistributed and Parallel Computing (M2 DiPaC)\n\nM2 Algorithmique et Modélisation à l'Interface des Sciences\n\nM2 Artificial Intelligence",
+      "raw_content": null,
+      "score": 0.65146625
+    },
+    {
+      "title": "Bio-informatique | Université Paris-Saclay",
+      "url": "http://www.universite-paris-saclay.fr/formation/master/bio-informatique",
+      "snippet": "Admission\n\n## Public visé et prérequis\n\nEn termes de prérequis, les parcours du Master Bioinformatique accueille des étudiants issus de licences de biologie, de mathématique, d'informatique ou équivalent avec une forte motivation pour la pluridisciplinarité. [...] Le parcours M1 BIBS-IA possède une importante remise à niveau à la carte selon le profil des étudiants, ouvrant le Master à des étudiants issus de Licences mono-disciplinaires (biologie, mathématique, informatique)  et pluridisciplinaires. Les enseignements sont dispensés en français. [...] Le parcours M1 GENIOMHE-AI recrute en priorité des étudiants ayant un profil pluridisciplinaire avec des compétences attendues à la fois en biologie et en numérique (informatique ou mathématique appliquée). Les enseignements sont dispensés en anglais.",
+      "raw_content": null,
+      "score": 0.23850624
+    },
+    {
+      "title": "M1 Finance - Site Sceaux | Université Paris-Saclay",
+      "url": "http://www.universite-paris-saclay.fr/formation/master/finance/m1-finance-site-sceaux",
+      "snippet": "| Informatique pour la finance | 2 | Semestre 1 | 9 | 9 |\n| Informatique pour la finance ECTS : 2  Semestre calendaire : Semestre 1  Détail du volume horaire  Cours magistraux : 9  Travaux dirigés : 9  Langue d'enseignement  Français  Enseignement à distance  non  Prérequis  Pratique du tableur  Nature de l'évaluation  Evaluation Terminale |",
+      "raw_content": null,
+      "score": 0.2022544
+    }
+  ]
+}

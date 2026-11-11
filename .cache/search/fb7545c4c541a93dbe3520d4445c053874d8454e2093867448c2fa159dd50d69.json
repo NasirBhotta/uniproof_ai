@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-orleans.fr \"Master Informatique Science des Données et IA\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "MASTER Informatique - Parcours Excellence Minerve - GPEX - UNIV ORLEANS",
+      "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-parcours-excellence-minerve-gpex-M42OY18S.html",
+      "snippet": "·       Maîtriser l’anglais professionnel.\n\nCompétences professionnelles\n\n- Situer son rôle et sa mission au sein d'une organisation pour s'adapter et prendre des initiatives.\n\n- Identifier le processus de production, de diffusion et de valorisation des savoirs.\n\n- Travailler en équipe autant qu’en autonomie et responsabilité au service d’un projet. [...] Ce Master vise à former des ingénieurs hautement qualifiés dans les domaines du développement logiciel et de l’architecture logicielle. Il propose une ouverture aux systèmes répartis et une spécialisation, au travers d’un jeu d’options, dans les domaines de l’intelligence artificielle, de la sécurité logicielle et de la programmation parallèle. Ces éléments de spécialisation s’appuient sur l‘étude de notions fondamentales comme, par exemple, l’algorithmique avancée, la complexité et la [...] ·       Appliquer les connaissances acquises dans des disciplines fondamentales telles que l’algorithmique, la calculabilité, la complexité et la description formelle des langages.\n\n·       Comprendre et mettre en œuvre les principaux concepts de la fouille de données et autres techniques d’intelligence artificielle.",
+      "raw_content": null,
+      "score": 0.32053462
+    },
+    {
+      "title": "MASTER Informatique - UNIV ORLEANS",
+      "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/master-lmd-XB/master-informatique-JDN3M29A.html",
+      "snippet": "Développer une argumentation structurée en mobilisant un esprit critique.\n Maîtriser l’anglais professionnel. [...] Ce Master vise à former des ingénieurs hautement qualifiés dans les domaines du développement logiciel et de l’architecture logicielle. Il propose une ouverture aux systèmes répartis et une spécialisation, au travers d’un jeu d’options, dans les domaines de l’intelligence artificielle, de la sécurité logicielle et de la programmation parallèle. Ces éléments de spécialisation s’appuient sur l‘étude de notions fondamentales comme, par exemple, l’algorithmique avancée, la complexité et la [...] Appliquer les connaissances acquises dans des disciplines fondamentales telles que l’algorithmique, la calculabilité, la complexité et la description formelle des langages.\n Comprendre et mettre en œuvre les principaux concepts de la fouille de données et autres techniques d’intelligence artificielle.\n Comprendre et appliquer les concepts de sécurité informatique, allant du paramétrage système à l’utilisation des méthodes formelles en passant par l’application de bonnes pratiques.",
+      "raw_content": null,
+      "score": 0.31989688
+    },
+    {
+      "title": "Licence Double Economie informatique - Intelligence Artificielle : Sciences des Données et des Organisations (IASDO) - UNIV ORLEANS",
+      "url": "https://formation.univ-orleans.fr/fr/offre-de-formation/licence-lmd-XA/licence-double-economie-informatique-intelligence-artificielle-sciences-des-donnees-et-des-organisations-iasdo-M5M7BBME.html",
+      "snippet": "La double licence Intelligence Artificielle : sciences des données et des organisations s’articule autour d’enseignements fondamentaux de mathématiques, d’informatique et d’économie, et d’enseignements appliqués d’intelligence artificielle, de traitement et analyse de données, ainsi que l’anglais. Elle s’appuie sur les enseignements de la licence économie-gestion et de la licence informatique, complétés par des enseignements spécifiques d’intelligence artificielle, de sciences des données et de [...] | Programmation et Algorithmique | 8 | 20 | 20 TD 16 TP |\n| Logique et démonstration | 6 | 12 | 12 TD 6 TP |\n| Cours de la double licence |  |  |  |\n| Analyse I | 9 | 18 | 40 TD |\n| Algèbre | 4  36 CTD |\n| Introduction à l'IA | 3 | 15 | 15 TP |\n| Semestre 2 |  |  |  |\n| Tronc commun économie |  |  |  |\n| Microéconomie I | 10  40 CTD |\n| Statistiques pour l'économie et la gestion | 10  30 CTD |\n| Analyse critique des digitalisations et éthique | 4 | 12 \n| Anglais 2 | 4  20 TD | [...] Cette formation, sélective et exigeante, prépare à la poursuite d’études en Master universitaire, en école d’ingénieur ou de commerce. Elle a pour objectif de former les décideuses et les décideurs de demain à la maîtrise des techniques de traitement des données indispensables aux décisions des organisations publiques et privées (états, collectivités, organisations non gouvernementales, entreprises).",
+      "raw_content": null,
+      "score": 0.1952106
+    }
+  ]
+}

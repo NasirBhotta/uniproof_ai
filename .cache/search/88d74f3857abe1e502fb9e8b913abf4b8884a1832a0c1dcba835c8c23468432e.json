@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-fcomte.fr \"Master Informatique Unspecified track\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Département Informatique | Master Informatique",
+      "url": "https://dept-info.univ-fcomte.fr/OF2024/master-ISL-ALT",
+      "snippet": "|  | Génie Logiciel | Compilation | Projet - Dév. agile de VM | Anglais | Tests fonctionnels | Projet Test Fonctionnel d'Applis Multi-tiers |\n ---  ---  --- \n| Niveau 2 | Appliquer les méthodes de génie logiciel pour le pilotage de projets |\n| Utiliser une chaine outillée de production logiciels et en assurer la qualité |\n| Mettre en oeuvre les principes d'interprétation d'un langage |\n| Communiquer en langue anglaise dans le cadre professionnel | [...] pour une lecture efficace de documents techniques en anglais, compétences en matière de présentation orale, anglais professionnel, vocabulaire et terminologie informatiques spécialisés, préparation à un test de maîtrise de la langue anglaise (par exemple TOEIC)",
+      "raw_content": null,
+      "score": 0.47066417
+    },
+    {
+      "title": "[PDF] Master Informatique Ingénierie système et logiciel, UFR ST",
+      "url": "https://formations.univ-fcomte.fr/plugins/odf-web/odf/_content/subprogram-master-informatique-ingenierie-systeme-et-logiciel-fr/Master%20Informatique%20Ing%C3%A9nierie%20syst%C3%A8me%20et%20logiciel%20.pdf",
+      "snippet": "Dernière mise à jour le 24 mars 2025 • la qualité académique du candidat évaluée sur la base de ses notes, classements et lettres de recommandation, • pour les parcours où l’enseignement est en français, lorsque le candidat n’est pas de langue maternelle française, le niveau de français attesté par une certiﬁcation ofﬁcielle du type TCF ou DELF (B2 ou mieux souhaité, B1 uniquement si le reste du dossier est très bon), • pour le parcours international EIPHI, le niveau d’anglais attesté par une [...] Dernière mise à jour le 24 mars 2025 Anglais Unité d'enseignement 18h 3 crédits Informatique responsable Unité d'enseignement 9h 9h 9h 3 crédits Ingénierie logicielle avancée Unité d'enseignement 9 crédits Programmation d'applications multi-tiers Elément constitutif 9h 9h 9h 3 crédits Projet d'ingénierie logicielle avancée Elément constitutif 3 crédits Test fonctionnel Elément constitutif 7,5h 7,5h 12h 3 crédits Optimisation Unité d'enseignement 9h 9h 9h 3 crédits Semestre 10 Master [...] SCIENCES, TECHNOLOGIES, SANTÉ Master Informatique Ingénierie système et logiciel, UFR ST Master Informatique  ECTS 120 crédits  Durée 2 ans  Composante UFR Sciences et techniques, site de Besançon  Langue(s) d'enseignement Français Présentation Le diplôme de Master Informatique, parcours Ingénierie Systèmes et Logiciels (ISL), prépare à exercer les métiers du développement logiciel pour divers domaines d'application : gestion de systèmes d'information, gestion d'infrastructure matérielle,",
+      "raw_content": null,
+      "score": 0.47022632
+    },
+    {
+      "title": "[PDF] Master Informatique Ingénierie système et logiciel, UFR ST",
+      "url": "https://formations.univ-fcomte.fr/plugins/odf-web/odf/_content/subprogram-master-informatique-ingenierie-systeme-et-logiciel-fr-fr-fr/Master%20Informatique%20Ing%C3%A9nierie%20syst%C3%A8me%20et%20logiciel,%20UFR%20ST.pdf",
+      "snippet": "Dernière mise à jour le 05 janvier 2026 • la qualité académique du candidat évaluée sur la base de ses notes, classements et lettres de recommandation, • pour les parcours où l’enseignement est en français, lorsque le candidat n’est pas de langue maternelle française, le niveau de français attesté par une certiﬁcation ofﬁcielle du type TCF ou DELF (B2 ou mieux souhaité, B1 uniquement si le reste du dossier est très bon), • pour le parcours international EIPHI, le niveau d’anglais attesté par [...] SCIENCES, TECHNOLOGIES, SANTÉ Master Informatique Ingénierie système et logiciel, UFR ST Master Informatique  ECTS 120 crédits  Durée 2 ans  Composante UFR Sciences et techniques, site de Besançon  Langue(s) d'enseignement Français Présentation Le diplôme de Master Informatique, parcours Ingénierie Systèmes et Logiciels (ISL), prépare à exercer les métiers du développement logiciel pour divers domaines d'application : gestion de systèmes d'information, gestion d'infrastructure matérielle, [...] Anglais Unité d'enseignement 18h 3 crédits Ingénierie des exigences Unité d'enseignement 6 crédits Ingénierie logicielle avancée Unité d'enseignement 9 crédits Programmation d'applications multi-tiers Elément constitutif 9h 9h 9h 3 crédits Projet d'ingénierie logicielle avancée Elément constitutif 3 crédits Test fonctionnel Elément constitutif 7,5h 7,5h 12h 3 crédits Machine learning Unité d'enseignement 32h 21h 6 crédits Master Informatique, parcours international EIPHI, 1re année, UFR ST",
+      "raw_content": null,
+      "score": 0.46599558
+    }
+  ]
+}

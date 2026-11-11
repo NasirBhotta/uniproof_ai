@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"Master Informatique Tronc Commun / Parcours Informatique Générale\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Parcours Systèmes interactifs, intelligents et autonomes",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Syst%C3%A8mes%20interactifs,%20intelligents%20et%20autonomes.pdf?contentId=subProgramContent%3A%2F%2F7b12db10-b018-4b4d-b8ac-b53caa4b89f8",
+      "snippet": "> Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] > En Master 1 : être titulaire d'une licence d'informatique ou équivalent. [...] tronc commun, 1 UE à choisir parmi : - S7 INF Langage objet scientifique, C++ 22h - S7 INF Sécurité logicielle 22h - S7 INF Architectures logicielles 22h S7 INF Orientation 22h - Initiation à la lecture d'articles 11h - 1 UE préparation à choisir parmi - Préparation à l'alternance 11h - Préparation à la mobilité internationale 11h - Préparation stage / temps d'accueil en laboratoire 11h S7 INF Complément spécifique, 1 UE à choisir parmi : - S7 INF Théorie des programmes 44h - S7 INF Interface",
+      "raw_content": null,
+      "score": 0.5524679
+    },
+    {
+      "title": "Parcours International",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20International.pdf?contentId=subProgramContent%3A%2F%2Ff7d48333-090b-4e53-8c62-706784c8f196",
+      "snippet": "> Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] Compétences acquises Les compétences acquises sont celles inhérentes à des cadres informaticiens auxquelles s’ajoutent des compétences spécifiques : le sens de l’initiative et de l’autonomie, le sens de la communication, avec également des qualités de collaboration.\nConditions d'accès > En master 1 : être titulaire d'une licence d'informatique ou équivalent.\n> En master 2 : être titulaire d'un master 1 d'informatique ou équivalent. [...] Objectifs > Découvrir les métiers de la recherche > Mener un projet au sein d’un laboratoire de recherche 8 crédits ECTS Volume horaire Projet tutoré : 6h Pré-requis nécessaires Maîtriser les outils et environnement du développement logiciel.\nCompétences visées > Savoir mener un travail de développement logiciel > Capacité à intégrer une équipe de recherche > Capacité à mobiliser ses connaissances théoriques et pratiques pour résoudre un problème d'ingénierie informatique.",
+      "raw_content": null,
+      "score": 0.5321097
+    },
+    {
+      "title": "Parcours Systèmes Interactifs, Intelligents et Autonomes",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Syst%C3%A8mes%20interactifs,%20intelligents%20et%20autonomes.pdf?contentId=subProgramContent%3A%2F%2Fa94b714c-2577-4f5d-b4bd-b9d666f3831a",
+      "snippet": "> Illustrer la séparation des préoccupations liées à la conception d’une API, à son utilisation et à sa mise en œuvre.\n> Uniformiser les prérequis de programmation Java nécessaires à d’autres UE du M1, quel que soit le parcours d’origine avant l’admission en M1.\n4 crédits ECTS Volume horaire Cours Magistral : 22h Travaux Pratiques : 22h Pré-requis nécessaires Connaissances élémentaires de la programmation orientée objet en général et du langage Java en particulier. [...] En Master 1 : être titulaire d'une licence d'informatique ou équivalent. [...] tronc commun, 1 UE à choisir parmi : - S7 INF Langage objet scientifique, C++ 22h - S7 INF Sécurité logicielle 22h - S7 INF Architectures logicielles 22h S7 INF Orientation 22h - Initiation à la lecture d'articles 11h - 1 UE préparation à choisir parmi - Préparation à l'alternance 11h - Préparation à la mobilité internationale 11h - Préparation stage / temps d'accueil en laboratoire 11h S7 INF Complément spécifique, 1 UE à choisir parmi : - S7 INF Théorie des programmes 44h - S7 INF Interface",
+      "raw_content": null,
+      "score": 0.5084226
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "query": "site:universita.corsica \"master informatique\" \"Corte\" parcours",
+  "results": [
+    {
+      "title": "Candidatures et inscriptions | Département Informatique | Università di Corsica Pasquale Paoli | Université de Corse Pasquale Paoli",
+      "url": "https://dptinfo.universita.corsica/article/formations/candidatures-et-inscriptions/55/0/591/0/2470/fr",
+      "snippet": "La capacité d’accueil est de 25 étudiants en L3, et 15 à 20 étudiants par parcours en Master, nous avons 2 parcours.\n\nLes frais d'inscription 2023 en L3 étaient de 170€ et de 243€ en Master.\n\nIl n’y a pas d’aide particulière pour les étudiants étrangers.\n\nAttention, Corte est une petite ville, il y a peu de logement, si vous n'avez pas de logement du CROUS ( le loyer moyen est de plus de 600€ par mois. [...] 1. La licence 3 Sciences et Technologies parcours informatique\n\n2. Le master informatique parcours Développeur Full Stack\n\n3. Le master informatique parcours Data Engineer\n\nNous ne recrutons pas en Master 2, mais seulement en Master 1 et en Licence 3 informatique. [...] ### pour la licence 3 Sciences et Technologies parcours informatique, un bac+2 ou un bac+3 dans une formation en mathématiques et informatique.\n\n### pour le master informatique, une licence avec l'équivalent d’au moins 90 ECTS en informatique.\n\n## Campus France\n\nL'équipe pédagogique ne peut pas vous donner de réponse sur la base de l’étude de votre CV, l’ensemble des dossiers sont étudiés en même temps entre mars et mai afin de classer et sélectionner les meilleurs.",
+      "raw_content": null,
+      "score": 0.8332299
+    },
+    {
+      "title": "Master DFS | Département Informatique | Università di Corsica Pasquale Paoli | Université de Corse Pasquale Paoli",
+      "url": "https://dptinfo.universita.corsica/article/formations/master-dfs/55/0/591/0/2472/fr",
+      "snippet": "PDF\n\n# Master DFS\n\nL’informatique, un domaine en perpétuel évolution, l’histoire du Master Informatique parcours Développeur Full Stack !\n\n>>> Voir la fiche synthétique de la formation <<<\n\nFiche RNCP\n\nLorsque l’on présente ou introduit Internet, Internet au sens du web (http), non pas le réseau mais les services qu’il propose et notamment l’accès aux sites web, on détaille souvent les évolutions qu’il a connu (source [1,2]) : [...] Ouvert au début des années 2000, la première mouture du master informatique nommée ISI pour Intégration des Systèmes Informatiques était très orientée sur le développement de logiciel à base de technologies open source. Très rapidement, notamment pour répondre aux besoins croissants des entreprises locales, une réorientation vers les technologies web est effectuée. Le master accompagne l’envol d’internet, et répond aux besoins en développement de sites web. [...] Par la suite le master se transforme, modification de nom et évolution des contenus, le master S2I pour Système Informatique et Internet, nous permet d’entrer dans l’air de l’usage massif d’internet, des services web, du web social, des sites dits « riches », et puis d’introduire les premiers cours de programmation mobile pour les plateformes d’Apple (iOS) et de Google (Android).",
+      "raw_content": null,
+      "score": 0.67706895
+    },
+    {
+      "title": "Candidatures et inscriptions - corte-mise-en-regards ...",
+      "url": "https://corte-mise-en-regards.universita.corsica/article.php?id_site=10&id_menu=0&id_rub=591&id_cat=0&id_art=2470&lang=fr",
+      "snippet": "Pour candidater dans notre master informatique avec une licence pro, il faut fournir des documents supplémentaires, notamment votre classement final dans votre filière et une lettre de recommandation du responsable pédagogique.",
+      "raw_content": null,
+      "score": 0.65966886
+    },
+    {
+      "title": "Offre de formation | Università di Corsica Pasquale Paoli",
+      "url": "https://www.universita.corsica/fr/etudier/offre-de-formation",
+      "snippet": "Pour ouvrir la voie de la réussite et de l’insertion à ses 5 000 étudiants, l’Université de Corse s’est dotée de moyens appropriés tels qu’une offre de formation diversifiée, répartie en grands domaines fondamentaux (numérique, droit, audiovisuel et communication, économie et gestion des entreprises, ingénierie de l",
+      "raw_content": null,
+      "score": 0.15239799
+    },
+    {
+      "title": "Accueil - Università di Corsica Pasquale Paoli",
+      "url": "https://www.universita.corsica/fr",
+      "snippet": "Pluridisciplinaire et ancrée dans son territoire, l’Université de Corse Pasquale Paoli propose plus de 100 diplômes du niveau bac au doctorat.",
+      "raw_content": null,
+      "score": 0.052760426
+    }
+  ]
+}

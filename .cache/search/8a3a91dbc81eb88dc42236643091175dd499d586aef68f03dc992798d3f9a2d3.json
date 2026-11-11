@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-brest.fr \"Master Informatique Ingénierie du logiciel\" \"IELTS\" OR \"TOEFL\" OR \"anglais\" OR \"English\" niveau",
+  "results": [
+    {
+      "title": "Master Informatique Parcours Développement logiciel des systèmes d'information - Catalogue des Formations",
+      "url": "https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3//parcours-developpement-logiciel-des-systemes-d-information-INRBVJCK.html?search-keywords=Cloud+Computing",
+      "snippet": "#### Semestre 9\n\n|  |  |  |\n --- \n| S9 DOSI Anglais et communication | 4 crédits | 52h |\n| S9 DOSI Plateforme d'intégration continue | 3 crédits | 40h |\n| S9 DOSI Intégration et Paramétrage ERP | 4 crédits | 42h |\n| S9 DOSI Ingénierie des systèmes d'information | 5 crédits | 48h |\n| S9 DOSI Développement clients Web | 5 crédits | 48h |\n| S9 DOSI Développement J2EE et Frameworks | 5 crédits | 48h |\n| S9 DOSI Ingénierie Logiciel | 4 crédits | 48h |\n| S9 DOSI Conférences | 20h |\n\n#### Semestre 10",
+      "raw_content": null,
+      "score": 0.37367067
+    },
+    {
+      "title": "Master Informatique Parcours Logiciels pour systèmes embarqués - Catalogue des Formations",
+      "url": "https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3//parcours-logiciels-pour-systemes-embarques-INRBVC8Q.html?search-keywords=publics++sp%C3%A9cifiques",
+      "snippet": "| S7 INF Théorie des programmes | 4 crédits | 44h |\n| S7 INF Interface Homme-Machine | 4 crédits | 44h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Communication | 2 crédits | 22h |\n| Anglais | 3 crédits | 22h |\n| Entreprise | 1 crédits | 10h | [...] | S8 INF Méthodes computationnelles | 3 crédits | 44h |\n| S8 INF Expérience professionnelle, obligatoire : | 8 crédits |\n| 1 option(s) au choix parmi 2 |\n| S8 INF Temps d'accueil en laboratoire TAL | 8 crédits | 6h |\n| S8 INF Stage | 8 crédits | 6h |\n| Préparation à la vie professionnelle | 6 crédits |\n| Anglais | 3 crédits | 22h |\n| Communication | 2 crédits | 22h |\n| Entreprise | 1 crédits | 10h |",
+      "raw_content": null,
+      "score": 0.36636353
+    },
+    {
+      "title": "Parcours Ingénierie du logiciel, applications aux données ...",
+      "url": "https://formations.univ-brest.fr/plugins/childcoursepdf/odf/_content/generate-pdf/Parcours%20Ing%C3%A9nierie%20du%20logiciel,%20applications%20aux%20donn%C3%A9es%20environnementales.pdf?contentId=subProgramContent%3A%2F%2F183ad319-452d-4cec-90c6-43d07875c506",
+      "snippet": "professionnelle, obligatoire : - S8 INF Temps d'accueil en laboratoire TAL 6h - S8 INF Stage 6h Préparation à la vie professionnelle - Anglais - Communication 22h - Entreprise 10h M2 Semestre 9 S9 ILIA Systèmes multi-agents 48h S9 ILIA Systèmes cyber-physiques pour les drones 24h S9 ILIA Systèmes d'information avancés 48h S9 ILIA Services Web & Java JEE 48h S9 ILIA Mise en pratique accompagnée (2 mois) 6h S9 ILIA Big Data 24h Préparation à la vie professionnelle - Communication 22h - Anglais - [...] 5 crédits ECTS Pour plus d'informations :  Anglais Objectifs Intégration dans le monde du travail. [...] 5 crédits ECTS Pour plus d'informations :  Anglais Objectifs Intégration dans le monde du travail.",
+      "raw_content": null,
+      "score": 0.36575165
+    }
+  ]
+}

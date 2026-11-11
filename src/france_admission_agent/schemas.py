@@ -96,6 +96,7 @@ class CandidateProfile(BaseModel):
 
 class EvidenceItem(BaseModel):
     claim: str
+    claim_type: str | None = None
     value: str | int | float | bool | None = None
     source_url: HttpUrl | str | None = None
     source_type: Literal[
@@ -104,7 +105,11 @@ class EvidenceItem(BaseModel):
         "campus_france",
         "official_pdf",
         "third_party",
-    ]
+    ] = "official_university"
+    source_scope: str | None = None
+    institution_id: str | None = None
+    programme_id: str | None = None
+    track_id: str | None = None
     retrieved_at: str | None = None
     evidence_text: str | None = None
     university: str | None = None
@@ -119,6 +124,7 @@ class CycleInfo(BaseModel):
     opening_date: str | None = None
     deadline: str | None = None
     source: str | None = None
+    source_cycle: str | None = None
     last_verified: str | None = None
 
 
@@ -230,6 +236,8 @@ class ProgrammeEvidenceMatrix(BaseModel):
 
 class ProgrammeCandidate(BaseModel):
     programme_id: str
+    institution_id: str | None = None
+    track_id: str | None = None
     university: str
     programme: str
     track: str | None = None
@@ -238,6 +246,7 @@ class ProgrammeCandidate(BaseModel):
     campus: str | None = None
     public: bool | None = None
     programme_url: HttpUrl | str | None = None
+    official_admissions_url: HttpUrl | str | None = None
 
     # Canonical cycle object
     canonical_cycle: CycleInfo = Field(default_factory=CycleInfo)
@@ -338,3 +347,45 @@ class ProgrammeEvaluation(BaseModel):
     rejection_reasons: list[str] = Field(default_factory=list)
     validation_status: CheckStatus = CheckStatus.PASS
     validation_notes: list[str] = Field(default_factory=list)
+
+
+class HistoricalMetric(BaseModel):
+    value: float | int | str | None = None
+    year: str | None = None
+    source: str | None = None
+    metric_definition: str | None = None
+    population: str | None = None
+
+
+class SelectivityAnalysis(BaseModel):
+    historical_applicants: HistoricalMetric | None = None
+    historical_admitted: HistoricalMetric | None = None
+    capacity: HistoricalMetric | None = None
+    historical_admission_ratio: HistoricalMetric | None = None
+    applicant_capacity_ratio: str | None = None
+    degree_strictness: Literal["LOW", "MODERATE", "HIGH", "UNKNOWN"] = "UNKNOWN"
+    degree_strictness_evidence: str | None = None
+    academic_strictness: Literal["LOW", "MODERATE", "HIGH", "VERY_HIGH", "UNKNOWN"] = "UNKNOWN"
+    academic_strictness_evidence: str | None = None
+    prerequisite_strictness: Literal["LOW", "MODERATE", "HIGH", "UNKNOWN"] = "UNKNOWN"
+    prerequisite_strictness_evidence: str | None = None
+    selectivity_pressure: Literal["LOW", "MODERATE", "HIGH", "VERY_HIGH", "UNKNOWN"] = "UNKNOWN"
+    selectivity_pressure_evidence: str | None = None
+    international_process_complexity: Literal["LOW", "MODERATE", "HIGH", "UNKNOWN"] = "UNKNOWN"
+    international_process_evidence: str | None = None
+    language_risk: Literal["LOW", "MODERATE", "HIGH", "UNKNOWN"] = "UNKNOWN"
+    language_risk_evidence: str | None = None
+    candidate_fit_strength: Literal["LOW", "MODERATE", "STRONG", "VERY_STRONG"] = "STRONG"
+    candidate_strengths: list[str] = Field(default_factory=list)
+    candidate_weaknesses: list[str] = Field(default_factory=list)
+    reasons_admission_may_fail: list[str] = Field(default_factory=list)
+    reasons_candidate_is_competitive: list[str] = Field(default_factory=list)
+    unknowns: list[str] = Field(default_factory=list)
+    official_evidence: list[EvidenceItem] = Field(default_factory=list)
+
+
+class Cycle2Evaluation(BaseModel):
+    programme: ProgrammeCandidate
+    cycle1_evaluation: ProgrammeEvaluation
+    selectivity: SelectivityAnalysis = Field(default_factory=SelectivityAnalysis)
+

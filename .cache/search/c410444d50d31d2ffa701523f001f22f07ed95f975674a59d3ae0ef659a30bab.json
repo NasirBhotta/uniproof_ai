@@ -1,0 +1,26 @@
+{
+  "query": "site:unistra.fr \"candidats internationaux\" \"Études en France\" OR \"Campus France\" OR \"eCandidat\"",
+  "results": [
+    {
+      "title": "Démarches et calendrier des candidatures | Faculté des sciences économiques et de gestion",
+      "url": "https://ecogestion.unistra.fr/candidatures/calendrier-et-prerequis",
+      "snippet": "Les candidats internationaux pour toutes les formations peuvent candidater à partir de Octobre via le site Études en France. [...] Rappel des pays concernés par Études en France : Afrique du Sud, Algérie, Arabie Saoudite, Argentine, Arménie, Azerbaïdjan, Bahreïn, Bénin, Birmanie, Bolivie, Brésil, Burkina Faso, Burundi, Cambodge, Cameroun, Canada, Chili, Chine, Colombie, Comores, Congo, Corée du Sud, Côte d'Ivoire, Djibouti, Émirats arabes unis, Égypte, Equateur, États-Unis, Ethiopie, Gabon, Géorgie, Ghana, Guinée, Haïti, Hong-Kong, Inde, Indonésie, Iran, Israël, Japon, Jordanie, Kenya, Koweït, Liban, Madagascar, [...] Pour intégrer la Licence 1ère année, vous devez postuler via Parcoursup.\n Pour intégrer le Master 1ère année, vous devez postuler via Monmaster\n Pour intégrer la Licence 2ème année, 3ème année et Master 2ème année , vous devez postuler via E-candidat.\n Pour intégrer la Licence 3ème année \"International Economics and Management, vous devez postuler via E-candidat.\n Pour intégrer le Magistère Génie Économique, ou le Magistère en management stratégique vous devez postuler via E-candidat",
+      "raw_content": null,
+      "score": 0.6366926
+    },
+    {
+      "title": "Candidatures en Master – Attention changements !! - Master Bio Santé",
+      "url": "https://masterbiosante.unistra.fr/candidatures-en-master-attention-changements",
+      "snippet": "– et ce concernant les candidatures dans tous les parcours de la Mention Biologie-Santé et des autres candidats aux autres Mentions de Master issus d’une formation de licence.\n\nMonMaster : \n\nEtudes en France : \n\nException est faite du parcours « International Master in BioMedicine » enseigné en anglais à ~100%. Les candidats au parcours International Master of BioMedicine pourront formuler leur candidature sur ecandidat ; délais et conditions seront précisées prochainement sur ce même site. [...] en Master 1. Pour qui ?\n\nMon Master doit servir uniquement aux candidats issus :\n\n– des licences françaises qu’ils soient en France ou engagés pour 2022-2023 en ERASMUS\n\n– candidats internationaux non soumis aux candidatures « Etudes en France » [...] Pays soumis à la procédure Etudes en France : Afrique du Sud, Azerbaïdjan, Algérie, Arabie Saoudite, Argentine, Bahreïn, Bénin, Bolivie, Brésil, Burkina Faso, Burundi, Cambodge, Cameroun, Canada, Chili, Chine, Colombie, Comores, Congo, Corée du Sud, Côte d’Ivoire, Djibouti, Émirats arabes unis, Égypte, Equateur, États-Unis, Ethiopie, Gabon, Géorgie, Ghana, Guinée, Haïti, Inde, Indonésie, Iran, Israël, Japon, Jordanie, Kenya, Koweït, Laos, Liban, Madagascar, Malaisie, Mali, Maroc, Maurice,",
+      "raw_content": null,
+      "score": 0.6241337
+    },
+    {
+      "title": "Candidater",
+      "url": "https://www.unistra.fr/fr/formation/admission/candidater",
+      "snippet": "Vous trouverez l'ensemble des informations sur la page dédiée du site de Campus France. Pour les candidats internationaux en provenance des autres pays",
+      "raw_content": null,
+      "score": 0.5246632
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-fcomte.fr \"Master Informatique Unspecified track\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "[PDF] Master Informatique Ingénierie système et logiciel, UFR ST",
+      "url": "https://formations.univ-fcomte.fr/plugins/odf-web/odf/_content/subprogram-master-informatique-ingenierie-systeme-et-logiciel-fr-fr-fr/Master%20Informatique%20Ing%C3%A9nierie%20syst%C3%A8me%20et%20logiciel,%20UFR%20ST.pdf",
+      "snippet": "Pré-requis obligatoires Le spectre des acquis se doit d’être complet du point de vue des grands domaines de l’informatique (programmation, bases de données, web, réseau…) Pré-requis recommandés Le spectre des acquis se doit d’être aussi complet que possible pour des aspects relevant plus spéciﬁquement de l’informatique théorique : mathématiques pour l’informatique, tests, preuves, logique pour l’informatique, théorie des langages, analyse syntaxique, théorie des graphes, etc. [...] Plus précisément, la candidature en première année est ouverte aux titulaires ou futurs titulaires d’une troisième année d’une ﬁlière mention informatique de l’enseignement supérieur. La candidature en deuxième année est ouverte aux titulaires ou futurs titulaires d’une quatrième année d’une ﬁlière mention informatique de l’enseignement supérieur. [...] Postes de niveau I (cadre) visés suivants, accompagnés des métiers de la recherche en informatique offerts par la poursuite en doctorat d’informatique : Concepteur, architecte et développeur logiciel, métiers du cycle de vie des applications : responsable de systèmes applicatifs et Ingénieur test & validation, ingénieur d’études et développement, gestionnaire et intégrateur d’applications, ingénieur Réseau/Système, administrateur de réseaux d’entreprise, administrateur base de données,",
+      "raw_content": null,
+      "score": 0.41364354
+    },
+    {
+      "title": "Département Informatique | Master Informatique",
+      "url": "https://dept-info.univ-fcomte.fr/master",
+      "snippet": "Composé d'enseignement en langue anglaise, ce parcours est principalement à finalité recherche et intègre des périodes longues en laboratoire, avec un calendrier similaire à celui de l'alternance décrit ci-dessus.\n\nPlus d'informations sur le parcours EUR EIPHI SSE.\n\n### Comment candidater ?\n\nLa candidature pour l'admission en Master s'effectue en ligne via l'application Mon Master ou via eCandidat suivant votre situation. [...] Vous pouvez consulter le programme détaillé présentant le contenu des différents parcours de Master Informatique sur la période 2024-2028.\n\n### Modalités de contrôle des connaissances et des compétences\n\nLes modalités de contrôle des connaissances et des compétences sont disponibles en PDF sur le site de l'Université Marie et Louis Pasteur. [...] Le diplôme de Master Informatique, parcours Ingénierie Systèmes et Logiciels, prépare les étudiants à exercer les métiers du développement logiciel pour divers domaines d'application (gestion de système d'information, gestion d'infrastructure matérielle, logiciel embarqués, application mobiles, etc). Il vise à transmettre aux étudiants les connaissances fondamentales et technologiques pour exercer ces métiers que cela soit dans un contexte industriel, de services ou de recherche.",
+      "raw_content": null,
+      "score": 0.33274442
+    },
+    {
+      "title": "Mémoire M1 - Catalogue des formations - Université Franche Comte",
+      "url": "https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-informatique-M4QWW2KM/master-informatique-ingenierie-systeme-et-logiciel-ufr-st-M4QWWKV5/s8-parcours-eiphi-system-and-software-engineering-MG597MQY/memoire-m1-M4QWWQ31.html",
+      "snippet": "Accueil\n Accueil\n Formations\n Feuilleter le catalogue\n Master (LMD)\n Master Informatique\n Master Informatique Ingénierie système et logiciel, UFR ST\n S8 Parcours EIPHI System and software engineering\n Mémoire M1\n\n# Mémoire M1\n\n ## ECTS\n\n  15 crédits\n ## Composante\n\n  UFR Sciences et techniques, site de Besançon\n\n## Modalités de contrôle des connaissances\n\n### Évaluation initiale / Session principale - Épreuves",
+      "raw_content": null,
+      "score": 0.24922833
+    }
+  ]
+}

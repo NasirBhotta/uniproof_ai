@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-lille.fr \"Master Science des données Data Science\" \"capacité d'accueil\" OR \"places\"",
+  "results": [
+    {
+      "title": "Science des données pour l'économie - Formation",
+      "url": "https://formation.univ-lille.fr/plugins/odf-web/www/_content/subprogram-science-des-donnees-pour-l-economie/Science%20des%20donn%C3%A9es%20pour%20l'%C3%A9conomie.pdf",
+      "snippet": "Dernière mise à jour le 15 janvier 2026 Conditions d'admission Admission en première année : L’admission en Master 1 est subordonnée à l’examen du dossier des candidat·es, selon les modalités suivantes : Mentions de licence conseillées : • Économie et gestion • Économie • Gestion quantitative • Mathématiques et informatique appliquées aux sciences humaines et sociales • Mathématiques • Informatique Capacité d’accueil : 25 places en Master 1 Modalités de sélection : Examen du dossier La [...] Sous réserve d’une capacité d’accueil sufﬁsante, des candidat·es ayant validé un Master 1 au contenu proche peuvent déposer leur candidature via la plateforme eCandidat de l'Université de Lille :  candidater-sinscrire/ecandidat Et après Poursuite d'études L’insertion professionnelle constitue le débouché naturel du parcours. Toutefois, une poursuite en doctorat est possible pour les étudiant·e·s de bon niveau qui le souhaitent. [...] Motivation et adéquation du projet professionnel avec les objectifs du master.\nAttendus : Démontrer,au cours des trois années de licence en Économie Gestion (ou équivalent), la maîtrise des savoirs fondamentaux en microéconomie, macroéconomie et analyse quantitative (mathématiques, statistiques, économétrie).\nAdmission directe en deuxième année : La formation accueille en priorité les étudiant·es ayant validé le Master 1 de la mention à l’Université de Lille.",
+      "raw_content": null,
+      "score": 0.7474137
+    },
+    {
+      "title": "Bachelor Universitaire de Technologie Science des Données - UL",
+      "url": "https://formation.univ-lille.fr/fr/offre-de-formation/but-BUT/bachelor-universitaire-de-technologie-science-des-donnees-MG082611.html",
+      "snippet": "Cette formation est sélective : Vous retrouvez sur cette plateforme les caractéristiques, attendus, critères pris en compte, pièces à fournir et modalités de sélection.  \nVous recevrez une proposition d’admission si votre candidature est retenue et dans la limite de la capacité d’accueil.\n\nVous êtes de nationalité étrangère (hors UE et assimilés) et titulaire de diplômes étrangers :  \nvous devez constituer une demande d’admission préalable (DAP) :    \n(Français : Niveau B2 minimum requis) [...] ## Organisation\n\nLa formation définie par un programme national est basée sur l’acquisition de compétences reconnues et recherchées dans de nombreux domaines (finance, médecine, industrie, marketing, ...). Une large place est consacrée aux TDs et TPs en petits groupes. Le programme est complété par des mises en situation professionnelle et des stages en entreprise et/ou à l’étranger :\n\n• 3 ans de formation organisés sur 6 semestres [...] ## Objectifs\n\nLe BUT Science des Données prépare les étudiants aux métiers en plein essor du « Big Data » et de l’Intelligence Artificielle (IA) avec une triple expertise : statistiques, informatique et management.\n\nLire plus\n\n## Savoir-faire et compétences\n\n Traiter des données à des fins décisionnelles :\n Analyser statistiquement les données\n Valoriser une production dans un contexte professionnel\n Modéliser les données dans un cadre statistique\n\nLire plus\n\n## Dimension internationale",
+      "raw_content": null,
+      "score": 0.18212019
+    },
+    {
+      "title": "Licence Science politique - UL",
+      "url": "https://formation.univ-lille.fr/fr/offre-de-formation/licence-lmd-XA/licence-science-politique-MG002441.html",
+      "snippet": "Vous retrouverez sur la plateforme Parcoursup les caractéristiques, attendus et critères généraux d'appréciation des dossiers qui permettront à la commission d'enseignants de classer votre candidature. Vous recevrez une proposition d'admission dans la limite de la capacité d'accueil.  \nFormation non sélective\n\nLicence 2 et 3  \nRetrouvez toutes les modalités d'admission sur   \n  \nÉtudiants internationaux : \n\nLire plus\n\n## Et après\n\n### Référentiel ROME [...] À travers l'étude de données et de cas concrets, les enseignements prennent ainsi pour objets les institutions politiques et administratives, les partis politiques, les mouvements sociaux et groupes d'intérêt, les élections, les décisions et politiques publiques, les idées et représentations politiques. [...] À travers l'étude de données et de cas concrets, les enseignements prennent ainsi pour objets les institutions politiques et administratives, les partis politiques, les mouvements sociaux et groupes d'intérêt, les élections, les décisions et politiques publiques, les idées et représentations politiques.",
+      "raw_content": null,
+      "score": 0.045901228
+    }
+  ]
+}

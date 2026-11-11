@@ -1,0 +1,12 @@
+{
+  "query": "site:univ-lille.fr \"Master Informatique Unspecified track\" M1 prérequis admission 2027 calendrier candidature deadline",
+  "results": [
+    {
+      "title": "Se réorienter dans ses études",
+      "url": "https://www.univ-lille.fr/formation/sinformer-sorienter/se-reorienter",
+      "snippet": "Chaque formation a son propre calendrier de candidature et la plupart des formations ouvrent entre les mois de mars et avril et pendant une période plus ou",
+      "raw_content": null,
+      "score": 0.1576163
+    }
+  ]
+}

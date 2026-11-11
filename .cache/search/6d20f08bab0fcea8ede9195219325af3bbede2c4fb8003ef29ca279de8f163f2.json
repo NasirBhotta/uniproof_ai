@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-fcomte.fr \"Master Informatique Unspecified track\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "[PDF] Master Informatique Ingénierie système et logiciel, UFR ST",
+      "url": "https://formations.univ-fcomte.fr/plugins/odf-web/odf/_content/subprogram-master-informatique-ingenierie-systeme-et-logiciel-fr-fr-fr/Master%20Informatique%20Ing%C3%A9nierie%20syst%C3%A8me%20et%20logiciel,%20UFR%20ST.pdf",
+      "snippet": "Pré-requis obligatoires Le spectre des acquis se doit d’être complet du point de vue des grands domaines de l’informatique (programmation, bases de données, web, réseau…) Pré-requis recommandés Le spectre des acquis se doit d’être aussi complet que possible pour des aspects relevant plus spéciﬁquement de l’informatique théorique : mathématiques pour l’informatique, tests, preuves, logique pour l’informatique, théorie des langages, analyse syntaxique, théorie des graphes, etc. [...] Plus précisément, la candidature en première année est ouverte aux titulaires ou futurs titulaires d’une troisième année d’une ﬁlière mention informatique de l’enseignement supérieur. La candidature en deuxième année est ouverte aux titulaires ou futurs titulaires d’une quatrième année d’une ﬁlière mention informatique de l’enseignement supérieur. [...] Anglais Unité d'enseignement 18h 3 crédits Ingénierie des exigences Unité d'enseignement 6 crédits Ingénierie logicielle avancée Unité d'enseignement 9 crédits Programmation d'applications multi-tiers Elément constitutif 9h 9h 9h 3 crédits Projet d'ingénierie logicielle avancée Elément constitutif 3 crédits Test fonctionnel Elément constitutif 7,5h 7,5h 12h 3 crédits Machine learning Unité d'enseignement 32h 21h 6 crédits Master Informatique, parcours international EIPHI, 1re année, UFR ST",
+      "raw_content": null,
+      "score": 0.6018984
+    },
+    {
+      "title": "[PDF] Master Informatique Ingénierie système et logiciel, UFR ST",
+      "url": "https://formations.univ-fcomte.fr/plugins/odf-web/odf/_content/subprogram-master-informatique-ingenierie-systeme-et-logiciel-fr/Master%20Informatique%20Ing%C3%A9nierie%20syst%C3%A8me%20et%20logiciel%20.pdf",
+      "snippet": "Pré-requis obligatoires Le spectre des acquis se doit d’être complet du point de vue des grands domaines de l’informatique (programmation, bases de données, web, réseau…) Pré-requis recommandés Le spectre des acquis se doit d’être aussi complet que possible pour des aspects relevant plus spéciﬁquement de l’informatique théorique : mathématiques pour l’informatique, tests, preuves, logique pour l’informatique, théorie des langages, analyse syntaxique, théorie des graphes, etc. [...] Plus précisément, la candidature en première année est ouverte aux titulaires ou futurs titulaires d’une troisième année d’une ﬁlière mention informatique de l’enseignement supérieur. La candidature en deuxième année est ouverte aux titulaires ou futurs titulaires d’une quatrième année d’une ﬁlière mention informatique de l’enseignement supérieur. [...] base de données, consultant technique ou fonctionne, responsable qualité / méthodes informatiques (après quelques années d’expérience), auditeur en développement informatique (après quelques années d’expérience), chef de projet informatique (après quelques années d’expérience).",
+      "raw_content": null,
+      "score": 0.6018984
+    },
+    {
+      "title": "Master Droit du numérique - Catalogue des formations - Université Franche Comte",
+      "url": "https://formations.univ-fcomte.fr/fr/index/formations/feuilleter-le-catalogue/master-lmd-XB/master-droit-du-numerique-M4LFP9JQ.html",
+      "snippet": "Aucun modalité particulière en M1: Les étudiants peuvent venir chercher une double compétence après un M2 ou suivre simplement le cursus après un M1 d'informatique ou un M1 de droit. Sur dossier pour l'admission en M2.  \n  \nNiveau de français exigé pour les étudiants étrangers (pays adhérant Campus France ou pays non francophone hors Campus France) C1 pour un recrutement en master 1 uniquement.",
+      "raw_content": null,
+      "score": 0.444059
+    }
+  ]
+}

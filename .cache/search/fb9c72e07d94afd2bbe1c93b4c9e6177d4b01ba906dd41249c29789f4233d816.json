@@ -1,0 +1,26 @@
+{
+  "query": "site:univ-reims.fr \"Master Informatique HPC\" M1 prérequis admission",
+  "results": [
+    {
+      "title": "Master Calcul haute performance, simulation",
+      "url": "https://www.univ-reims.fr/formation/catalogue-de-formation/master-calcul-haute-performance-simulation,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=1403",
+      "snippet": "Conditions spécifiques et prérequis · d'un Master 1 d'Informatique (ou équivalent) · d'un Master 1 de Santé (ou équivalent) · d'une formation de Santé de type PSTO",
+      "raw_content": null,
+      "score": 0.6557114
+    },
+    {
+      "title": "Calcul Scientifique Fiches EC/matières",
+      "url": "https://dept-math.univ-reims.fr/Maquettes/Master_MA_CS_prog_MCCC.pdf",
+      "snippet": "Il pose comme prérequis d’avoir une expérience préalable ou des connaissances théoriques dans l’utilisation ou la gestion de bases de données relationnelles classiques (SQL). Ce cours aborde uniquement la problématique du stockage, la disponibilité et l’accès aux très grands volumes de données, il ne traite pas des problématiques du traitement (calculs) de ces données. En effet, la notion de Big Data se caractérise (entre autres) par le fait que la volumétrie des données traitées dépasse les [...] Oui Formation(s) partageant l’enseignement mutualisé HPC-Image-IA (Calcul haute performance, simulation (CHPS)) Heures CM TD TP Présentiel 8 8 10 Distanciel 0 0 0 Détail de la fiche EC/matière Description de l’enseignement Acquisition et caractéristiques des images numériques (histogramme, propriétés spatiales, connexité, propriétés liées à lת'intensité, notion de bruit); ׭ Prétraitement : statistiques et débruitage ; anamorphose et filtrage linéaire et non linéaire (gaussien discret, binomial, [...] ; Maitrise des techniques de régularisation en régression, méthodes de validation croisée pour l’estimation de l’erreur de prévision d’un modèle, sélection de modèles de régression pénalisés ; Savoir mettre en oeuvre ces techniques sous le logiciel RStudio ; Savoir interpréter et expliquer les modèles obtenus. BCC pour le parcours 2A - Mobiliser des savoirs hautement spécialisés, dont certains sont à l’avant-garde du savoir dans un domaine de travail ou d’études, comme base d’une pensée",
+      "raw_content": null,
+      "score": 0.10821744
+    },
+    {
+      "title": "Master Calcul scientifique | Université de Reims Champagne-Ardenne",
+      "url": "https://dept-math.univ-reims.fr/MasterCS/index.html",
+      "snippet": "### Admission en Master 1\n\nLes modalités de l'admission sont détaillées sur le portail Master 1 de l’URCA.\n\nAttention: pour les candidats étrangers, la procédure dépend du pays de résidence et dans les pays relevant du dispositif Études en France, la candidature doit impérativement suivre cette procédure et il est recommandé d’engager les démarches dès le mois d'octobre de l'année précédant l'arrivée envisagée.\n\n### Admission en Master 2 [...] Une poursuite en doctorat en mathématiques ou en sciences appliquées est également possible et fréquente, en entreprise, dans un organisme public de recherche ou à l’Université.\n\n## Admission\n\nL’admission se fait sur dossier pour les titulaires d’une Licence, d’un Master ou d’un diplôme d’ingénieur en mathématiques, mathématiques appliquées ou dans certaines sciences de l’ingénieur (par exemple physique appliquée ou mécanique). Les procédures de candidature sont entièrement dématérialisées. [...] La maîtrise de l’informatique scientifique occupe une place essentielle : plateformes de simulation utilisées en entreprise, programmation scientifique et calcul intensif (notamment Python, Matlab/Octave, Fortran, C/C++ et OpenMP). Une grande partie des enseignements comporte des travaux pratiques sur ordinateur. Des intervenants professionnels participent également à la formation.",
+      "raw_content": null,
+      "score": 0.07288062
+    }
+  ]
+}

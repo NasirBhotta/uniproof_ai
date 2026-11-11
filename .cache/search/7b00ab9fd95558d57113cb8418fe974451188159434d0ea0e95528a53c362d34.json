@@ -1,0 +1,40 @@
+{
+  "query": "site:monmaster.gouv.fr \"informatique\" \"Nice\"",
+  "results": [
+    {
+      "title": "Rechercher des formations",
+      "url": "https://information.monmaster.gouv.fr/rechercher-des-formations-et-candidater",
+      "snippet": "Le portail national d'information Mon Master vous permet de consulter l'offre de formation conduisant au diplôme national de master sur l'ensemble du territoire",
+      "raw_content": null,
+      "score": 0.03580315
+    },
+    {
+      "title": "Mon master - S'informer, candidater, se décider",
+      "url": "https://monmaster.gouv.fr/",
+      "snippet": "Mon Master est la plateforme nationale permettant de candidater en première année des formations conduisant au diplôme national de master.",
+      "raw_content": null,
+      "score": 0.026197992
+    },
+    {
+      "title": "L'admission en alternance",
+      "url": "https://information.monmaster.gouv.fr/admission-en-alternance",
+      "snippet": "Pour chacun de vos placements en recherche de contrat, vous pouvez déposer, sur la plateforme, pour validation par l'établissement, un contrat d'alternance ou",
+      "raw_content": null,
+      "score": 0.02315567
+    },
+    {
+      "title": "Candidater — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/faq/candidater",
+      "snippet": "Oui, vous devez passer par la plateforme Mon Master pour vos candidatures en première année des formations conduisant au diplôme national de master.",
+      "raw_content": null,
+      "score": 0.022017587
+    },
+    {
+      "title": "La saisine du recteur — La plateforme nationale des masters",
+      "url": "https://information.monmaster.gouv.fr/la-saisine-du-recteur",
+      "snippet": "Conditions de saisine du recteur · être au moins au nombre de cinq (dans des formations en alternance ou hors alternance) ; · concerner au moins deux mentions de",
+      "raw_content": null,
+      "score": 0.018576846
+    }
+  ]
+}

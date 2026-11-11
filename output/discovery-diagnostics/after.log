@@ -1,0 +1,103 @@
+python : INFO france_admission_agent.discovery.round_runner: Discovery Round 6: Selected priority regions = ['Corse', 
+'Bourgogne-Franche-Comté', 'Centre-Val de Loire']; generated frontiers = 5
+At line:4 char:1
++ python run_discovery_round.py *> output/discovery-diagnostics/after.l ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO france_adm...d frontiers = 5:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: 
+site:monmaster.gouv.fr "informatique" "Corte"
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master 
+informatique" "Corte" université
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master génie 
+logiciel" "Corte"
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master 
+informatique" "systèmes" "Corte" université
+INFO france_admission_agent.discovery.round_runner: Governor allowed query=site:universita.corsica master informatique 
+M1; remaining budget=12
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=11
+INFO france_admission_agent.discovery.round_runner: Useful candidates=2
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=1 low_value=0 frontiers=1
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: 
+site:monmaster.gouv.fr "informatique" "Dijon"
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master 
+informatique" "Dijon" université
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master génie 
+logiciel" "Dijon"
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master informatique" "systèmes" "Dijon" 
+université; remaining budget=11
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=10
+INFO france_admission_agent.discovery.round_runner: Useful candidates=4
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=2 low_value=0 frontiers=2
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: 
+site:monmaster.gouv.fr "informatique" "Besançon"
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master 
+informatique" "Besançon" université
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master génie 
+logiciel" "Besançon"
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master informatique" "systèmes" "Besançon" 
+université; remaining budget=10
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=9
+INFO france_admission_agent.discovery.round_runner: Useful candidates=3
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=3 low_value=0 frontiers=3
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: 
+site:monmaster.gouv.fr "informatique" "Tours"
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master 
+informatique" "Tours" université
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master génie 
+logiciel" "Tours"
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master informatique" "systèmes" "Tours" 
+université; remaining budget=9
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=8
+INFO france_admission_agent.discovery.round_runner: Useful candidates=4
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=4 low_value=0 frontiers=4
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: 
+site:monmaster.gouv.fr "informatique" "Orléans"
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master 
+informatique" "Orléans" université
+INFO france_admission_agent.discovery.round_runner: Query blocked: recent exact duplicate; rewriting: "master génie 
+logiciel" "Orléans"
+INFO france_admission_agent.discovery.round_runner: Governor allowed query="master informatique" "systèmes" "Orléans" 
+université; remaining budget=8
+INFO httpx: HTTP Request: POST https://api.tavily.com/search "HTTP/1.1 200 OK"
+INFO france_admission_agent.discovery.round_runner: Search outcome: cache_hit=False error=None results=5 
+remaining_budget=7
+INFO france_admission_agent.discovery.round_runner: Useful candidates=3
+INFO france_admission_agent.discovery.round_runner: Stop evaluation: actual_calls=5 low_value=0 frontiers=5
+======================================================================
+ [*] STARTING ITERATIVE DISCOVERY ROUND (Bounded Regional Expansion)
+======================================================================
+[+] Loading Persistent Local Research Memory: D:\france_admission_agent\data\france_research.db
+[+] Identifying under-explored regions and unresearched universities...
+
+======================================================================
+ DISCOVERY ROUND 6 EXECUTION SUMMARY
+======================================================================
+ Round Stop Reason: FRONTIERS_DEFERRED
+ Selected Priority Regions: Corse, Bourgogne-Franche-Comté, Centre-Val de Loire
+ Discovery Frontiers Attempted: 5
+ External Search Calls Actually Executed: 5
+ Provider Calls (Attempted/Successful): 5/5
+ Queries Blocked as Exact Duplicates: 16
+ Queries Rewritten After Duplication: 16
+ Universities Attempted: 5
+ New Universities: 0
+ Known Universities With New Tracks: 15
+ New Programmes Found: 15
+ Candidates Deeply Verified: 0
+ Remaining Search Budget: 7
+ Summary Knowledge Base: output\Research-Knowledge-Summary.md
+ Detailed Round Report: output\Discovery-Round-006.md
+ Latest Round Report: output\Discovery-Latest.md
+======================================================================
+
+[+] Bounded round complete (Reason: FRONTIERS_DEFERRED). Memory updated. STOPPING.
